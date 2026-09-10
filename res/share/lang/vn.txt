@@ -1,0 +1,1501 @@
+﻿=== PeaZip language file ===
+Vietnamese - Việt
+11.2
+Translated by: Phan Anh
+Last rev. by: (please update the translation)
+Last rev.: 20251103
+
+=== PeaZip text group ===
+
+txt_11_2_comp: Original file name and extension are always preserved when using pure compression formats (Brotli, BZip2, GZip, XZ, Zstd...), unless TAR before option is used, overriding Output file name.
+txt_11_2_funexp: Type or select any of supported app's function (run on selected files, if applicable)
+txt_11_1_pp: Skipping pre-parse step the app may not detect possible archive issues in advance, and may not display correctly some archives. Anyway, extraction is unaffected by this setting.
+txt_11_0_adv: Advanced and format-specific options
+txt_11_0_bt: Batch test archives
+txt_11_0_good: Good
+txt_11_0_items: items
+txt_11_0_native: Native
+txt_11_0_pr: Rate password entropy
+txt_11_0_rendering: Rendering
+txt_11_0_sch: Schedule execution of the task defined in the GUI as CLI script
+txt_11_0_sharp: Sharp
+txt_11_0_soft: Soft
+txt_11_0_strong: Strong
+txt_11_0_vw: Very weak
+txt_11_0_w: Weak
+txt_10_9_deletearchive: Delete archive
+txt_10_9_kfl: Keyfile size limited to first 100MB
+txt_10_9_mb: Middle mouse button click
+txt_10_8_log: Commands log
+txt_10_8_rv: Create recovery volumes
+txt_10_8_bk: Execute small workloads in background
+txt_10_8_params: Pass command line as separate parameters
+txt_10_8_untarerr: TAR name does not match archive name. It is possible to try to open the archive to manually extract the TAR content.
+txt_10_7_errload: Không thể hiển thị hình ảnh
+txt_10_7_errfile: Không tìm thấy tệp
+txt_10_7_first: Đầu tiên
+txt_10_7_fit: Vừa với màn hình
+txt_10_7_fith: Vừa với chiều cao màn hình
+txt_10_7_fitw: Vừa với chiều rộng màn hình
+txt_10_7_keep: Giữ lại các tệp đầu ra nếu quá trình giải nén kết thúc bằng lỗi hoặc bị hủy
+txt_10_7_next: Tiếp theo
+txt_10_7_prev: Trước đó
+txt_10_7_pwh: Mật khẩu từ hash
+txt_10_7_images: Xem hình ảnh
+txt_10_7_thumbnails: Xem hình thu nhỏ
+txt_10_6_virtual: Chế độ ảo động
+txt_10_5_fr: (báo cáo đầy đủ)
+txt_10_5_sectype: Hỏi xác nhận để chạy các loại tệp sau
+txt_10_5_checkmotw: Kiểm tra Zone.Identifier (MoTW)
+txt_10_5_sectypewarning: Bạn có muốn chạy tệp này không?
+txt_10_5_pathlock: Các mục trong đường dẫn này của kho lưu trữ không thể chỉnh sửa
+txt_10_5_type_description_rar: RAR: định dạng lưu trữ độc quyền, tỷ lệ nén cao, được hỗ trợ thông qua trình nén ngoài
+txt_10_5_sh: Hiển thị các tệp và thư mục ẩn trong hệ thống tệp
+txt_10_5_ntfsalt: Định dạng này có khả năng lưu trữ NTFS Alternate Data Stream, bao gồm Mark of The Web
+txt_10_4_moving: (Đang di chuyển)
+txt_10_3_classic: Cổ điển
+txt_10_3_ascii: Nên sử dụng chỉ các ký tự ASCII trong mật khẩu cho định dạng lưu trữ hiện tại (chữ cái hoa/thường, số, và ký tự đặc biệt).
+txt_10_3_minimal: Tối thiểu
+txt_10_3_m: Hiện đại
+txt_10_3_pm: Hậu hiện đại
+txt_10_3_aw: Giải pháp thay thế: chọn "Buộc nhập mật khẩu tương tác" trong lời nhắc mật khẩu, hoặc đặt chế độ Console cho các tệp nhị phân backend.
+txt_10_2_savecopy: Lưu một bản sao
+txt_10_1_full: Đầy đủ
+txt_10_1_kdfw: Khối lượng công việc KDF
+txt_10_1_under: Gạch chân
+txt_10_0_exptrash: Khám phá Thùng rác
+txt_10_0_ptarzst: Nén nhanh nhất, TAR.ZST
+txt_10_0_ptarxz: Nén cao, TAR.XZ
+txt_10_0_ptargz: Nén trung bình, TAR.GZ
+txt_10_0_comp: Định dạng nén thuần túy chỉ chấp nhận một tệp duy nhất làm đầu vào. Chuyển đổi kho lưu trữ sang các định dạng đó sẽ thất bại nếu nguồn chứa nhiều tệp hoặc thư mục, điều này không thể xác định trước.
+txt_10_0_save: Lưu
+txt_10_0_tp: Xem trước văn bản
+txt_9_9_uac: Người dùng hiện tại không thể ghi vào đường dẫn đầu ra này. Bạn có muốn chạy PeaZip với quyền UAC nâng cao không?
+TXT_9_9_kdf: Vòng lặp KDF
+txt_9_9_utc: Hiển thị dấu thời gian dưới dạng UTC
+txt_9_8_alwaysflat: Luôn mở kho lưu trữ ở chế độ xem phẳng
+txt_9_8_fnew: Giải nén tại đây (trong thư mục mới)
+txt_9_8_fsmart: Giải nén tại đây (thư mục mới thông minh)
+txt_9_7_tarpipe: 7z / p7zip sử dụng pipe
+txt_9_7_smartsorting: Sắp xếp tên tệp thông minh
+txt_9_6_centered: Ở giữa
+txt_9_6_cside: Thanh bên gọn
+txt_9_6_loadpconfirm: Bạn có muốn tải hồ sơ này không? Tất cả dữ liệu của hồ sơ hiện tại sẽ bị ghi đè, bao gồm các script đã lưu và Trình quản lý mật khẩu.
+txt_9_6_loadp: Tải hồ sơ
+txt_9_6_saveppw: TÙY CHỌN: bảo vệ hồ sơ này bằng mật khẩu / tệp khóa?
+txt_9_6_savepoverwrite: Ghi đè hồ sơ hiện có? Tất cả dữ liệu của hồ sơ hiện có sẽ bị ghi đè, bao gồm các script đã lưu và Trình quản lý mật khẩu.
+txt_9_6_savep: Lưu hồ sơ
+txt_9_6_scside: Hiển thị Thanh bên gọn
+txt_9_5_all: Tất cả
+txt_9_5_precond: Phân tích trước nếu phát hiện lỗi
+txt_9_5_largea: Phân tích trước các kho lưu trữ lớn
+txt_9_5_mediuma: Phân tích trước các kho lưu trữ vừa
+txt_9_5_smalla: Phân tích trước các kho lưu trữ nhỏ
+txt_9_5_reopentab: Mở lại tab cuối cùng
+txt_9_5_savetabs: Lưu các tab
+txt_9_5_sb: Sử dụng các tệp nhị phân trong đường dẫn hệ thống
+txt_9_4_r: đọc
+txt_9_4_rw: đọc/ghi
+txt_9_4_savecomment: Lưu bình luận
+txt_9_4_hintcomment: Nhập hoặc dán bình luận, tải hoặc kéo tệp bình luận vào đây.
+txt_9_3_continue: Tiếp tục dù sao?
+txt_9_3_contrast: Độ tương phản
+txt_9_3_fsd: Dung lượng trống trên đích có thể không đủ
+txt_9_3_fsw: Dung lượng trống trên đường dẫn làm việc tạm thời có thể không đủ
+txt_9_3_mrar: Đặt thủ công tệp nhị phân RAR
+txt_9_3_canedit: Loại kho lưu trữ này có thể chỉnh sửa
+txt_9_3_canforce: Loại kho lưu trữ này có thể chỉnh sửa (buộc)
+txt_9_3_cannotedit: Loại kho lưu trữ này không thể chỉnh sửa
+txt_9_2_7za: Bí danh 7z / p7zip
+txt_9_2_changelog: Nhật ký thay đổi
+txt_9_2_tfaq: Kiểm tra các Bản dịch
+txt_9_2_compact: Gọn
+txt_9_2_swt: Hoán đổi thanh Công cụ / Địa chỉ
+txt_9_2_tos: Điều khoản dịch vụ (TOS), Quyền riêng tư
+txt_9_2_doc: Xác minh tài liệu, Trình theo dõi sự cố...
+txt_9_2_updates: Xác minh cập nhật, tệp nhị phân, Plugins...
+txt_9_1_7zs: Cấp độ cú pháp 7z / p7zip
+txt_9_1_ac: Các script chuyển đổi kho lưu trữ cho phép người dùng tương tác
+txt_9_1_closeall: Đóng tất cả
+txt_9_1_enlargeicons: Phóng to biểu tượng trình duyệt tệp
+txt_9_1_ef: Loại trừ các thư mục trống khỏi các thao tác lưu trữ và giải nén (7z / p7zip)
+txt_9_1_nw: Mở trong cửa sổ mới
+txt_9_1_qdup: Sử dụng quy trình chống trùng lặp nhanh
+txt_9_0_autoexttar: Tự động giải nén kho lưu trữ TAR từ các tệp TAR.* đã nén
+txt_9_0_accesstime: Không thay đổi thời gian truy cập cuối cùng
+txt_9_0_mem: Sử dụng bộ nhớ tối đa
+txt_9_0_showmainmenu: Mở menu Chính
+txt_9_0_navmenu: Mở menu Điều hướng
+txt_9_0_plugind: Mở thư mục tệp nhị phân và Plugin
+txt_9_0_df: Sắp xếp thư mục trước tệp
+txt_9_0_hl: Lưu trữ các liên kết cứng dưới dạng liên kết
+txt_9_0_sl: Lưu trữ các liên kết tượng trưng dưới dạng liên kết
+txt_9_0_tnav: Bật/tắt thanh bên, chế độ xem cây, không có
+txt_8_9_empty: Kho lưu trữ có vẻ trống
+txt_8_9_disp: Đang hiển thị nội dung kho lưu trữ
+txt_8_9_parsing: Đang phân tích nội dung kho lưu trữ
+txt_8_9_stoptest: Dừng để kiểm tra báo cáo lỗi, danh sách, kiểm tra, tự động kiểm tra
+txt_8_9_ttb: Bật/tắt thanh công cụ
+txt_8_8_ca: Màu nhấn
+txt_8_8_btn: Nút
+txt_8_8_cb: Màu nút
+txt_8_8_centered: Nút căn giữa
+txt_8_8_light: Sáng
+txt_8_8_lnk: Liên kết
+txt_8_8_intnote: Xin lưu ý rằng tùy chọn "Giải nén tương tác" (trong Options > Settings > Archive manager) bị bỏ qua khi soạn dòng lệnh trong tab Console.
+txt_8_8_snz: Lan truyền luồng Zone.Identifier (Windows)
+txt_8_8_sm: Kích thước biểu tượng nhỏ
+txt_8_8_solcol: Thanh màu đồng nhất
+txt_8_8_snoi: Lưu ID chủ sở hữu/nhóm (TAR, Linux)
+txt_8_8_snon: Lưu tên chủ sở hữu/nhóm (TAR, Linux)
+txt_8_8_tab: Tab
+txt_8_8_altt: Kiểu tab
+txt_8_8_autotest: Kiểm tra kho lưu trữ sau khi tạo, nếu định dạng hỗ trợ
+txt_8_8_cw: Màu cửa sổ
+txt_8_7_csvhelp: "," là tiêu chuẩn quốc tế, ";" phổ biến trong các ngôn ngữ Latinh
+txt_8_7_after: Sau khi nén / giải nén
+txt_8_7_bintest: các tệp nhị phân đã được kiểm tra.
+txt_8_7_csv: Dấu phân cách CSV
+txt_8_7_hok: Hash của các tệp nhị phân được PeaZip sử dụng khớp với các giá trị mong đợi
+txt_8_7_mo: Đặt tùy chọn trình quản lý kho lưu trữ
+txt_8_7_showhm: Hiển thị menu Tiêu đề của trình duyệt tệp
+txt_8_7_showsearchbar: Hiển thị thanh tìm kiếm
+txt_8_7_showsm: Hiển thị menu Kiểu
+txt_8_7_hnotok: Một số hash của các tệp nhị phân được PeaZip sử dụng không khớp với các giá trị mong đợi:
+txt_8_7_verifybin: Xác minh hash của các tệp nhị phân
+txt_8_6_clear: Tùy chọn "Clear" (Xóa) loại bỏ các tệp tạm thời đã chỉnh sửa, nếu không sẽ có sẵn để chỉnh sửa thêm.
+txt_8_6_noclear: Hủy bỏ tất cả các thay đổi mà không cập nhật kho lưu trữ
+txt_8_6_nosimple: Không cập nhật kho lưu trữ, giữ các tệp tạm thời đã chỉnh sửa để chỉnh sửa thêm
+txt_8_6_immediate: Thực hiện ngay lập tức
+txt_8_6_yessimple: Cập nhật kho lưu trữ, giữ các tệp tạm thời đã chỉnh sửa để chỉnh sửa thêm
+txt_8_5_advbrowser: Áp dụng bộ lọc cho trình duyệt kho lưu trữ
+txt_8_5_detailslarge: Chi tiết, lớn
+txt_8_5_intext: Giải nén vào đường dẫn làm việc tạm thời sau đó di chuyển đến đầu ra (hỏi trước khi ghi đè)
+txt_8_5_listlarge: Danh sách, lớn
+txt_8_5_loadlayout: Tải bố cục khi khởi động
+txt_8_5_samplescripts: Script mẫu
+txt_8_4_keepopenerrorslist: Dừng để kiểm tra báo cáo lỗi, danh sách
+txt_8_3_mbubin: Nhị phân
+txt_8_3_cw: Thay đổi thư mục làm việc? Điều này sẽ đặt lại các tệp làm việc tạm thời và khởi động lại ứng dụng.
+txt_8_3_temperature: Nhiệt độ màu
+txt_8_3_mbudec: Thập phân
+txt_8_3_htab: Đánh dấu tab
+txt_8_3_maxarg: Chiều dài tối đa của đối số
+txt_8_3_mbu: Đơn vị đa byte
+txt_8_3_prefalgo: Thuật toán ưu tiên
+txt_8_3_skipdel: Bỏ qua việc xóa các tệp tạm thời bị khóa (sử dụng đặt lại để xóa theo yêu cầu)
+txt_8_3_lw: Một số tệp trong thư mục làm việc đang bị khóa và không thể tự động xóa
+txt_8_3_noupx: Tệp nhị phân này không thể nén được (có thể đã được nén)
+txt_8_2_slower: (chậm hơn)
+txt_8_2_df: 7z / p7zip hiển thị nội dung thư mục
+txt_8_2_vreport: Báo cáo không chi tiết của 7z / p7zip
+txt_8_2_ta: Đã truy cập
+txt_8_2_tc: Đã tạo
+txt_8_2_keep: Giữ lại các tệp
+txt_8_2_tm: Đã sửa đổi
+txt_8_2_skipet: Bỏ qua kiểm tra mã hóa
+txt_8_2_alltimes: Lưu trữ tất cả dấu thời gian
+txt_8_2_supportedby: Được hỗ trợ bởi
+txt_8_1_preparse: Luôn phân tích trước kho lưu trữ
+txt_8_1_bo: Tối ưu hóa trình duyệt
+txt_8_1_bop: Các tùy chọn tối ưu hóa trình duyệt có thể được đặt từ Options > Settings, tab General, để cho phép trình duyệt hiển thị các kho lưu trữ chứa số lượng mục rất lớn.
+txt_8_1_nopreparse: Không phân tích trước kho lưu trữ
+txt_8_1_ed: lỗi được phát hiện.
+txt_8_1_togglearc: Liệt kê chế độ xem phẳng của nội dung kho lưu trữ có thể mất nhiều thời gian, vẫn tiếp tục chứ?
+txt_8_1_preparsehint: Tối ưu hóa hiệu suất bằng cách giới hạn việc phân tích trước các kho lưu trữ lớn. Phân tích trước nhằm mục đích phát hiện sớm các vấn đề có thể xảy ra trong nội dung kho lưu trữ.
+txt_8_1_slow: Chậm
+txt_8_1_vslow: Rất chậm
+txt_8_1_volumes: tập
+txt_8_0_altcol: Màu lưới thay thế
+txt_8_0_forcebrowse: Duyệt các loại kho lưu trữ không chuẩn (containers, disk images, installers,...)
+txt_8_0_commonalgo: Thuật toán phổ biến
+txt_8_0_forceconvert: Chuyển đổi các loại kho lưu trữ không chuẩn
+txt_8_0_defaultactionhint: Hành động mặc định khi nhấp đúp vào một tệp liên kết với PeaZip từ hệ thống
+txt_8_0_defaultaction: Hành động mặc định khi khởi động
+txt_8_0_enableextand: Bật menu con "Giải nén và mở bằng"
+txt_8_0_forcetyping: Buộc nhập mật khẩu tương tác
+txt_8_0_setpwopt: Đặt tùy chọn mật khẩu / tệp khóa
+txt_8_0_forcetypinghelp: Sẽ chạy các tệp nhị phân backend trong console, không thể duyệt kho lưu trữ với tên tệp được mã hóa. Cho phép tạo các script sẽ không chạy tự động mà thay vào đó sẽ hỏi người dùng mật khẩu một cách tương tác.
+txt_7_9_spacing: Khoảng cách
+txt_7_9_zooming: Thu phóng
+txt_7_8_changelocalization: Thay đổi ngôn ngữ PeaZip
+txt_7_8_custext: Phần mở rộng tùy chỉnh
+txt_7_8_destexistfile: Đích đã chứa các tệp đã xử lý. Thay thế các tệp cùng tên?
+txt_7_8_dd: Kéo và Thả
+txt_7_8_priorityhigh: Cao
+txt_7_8_priorityidle: Rỗi
+txt_7_8_rel: Giải nén tương tác
+txt_7_8_prioritynormal: Thường
+txt_7_8_priorityrealtime: Thời gian thực
+txt_7_8_requirerestart: [yêu cầu khởi động lại PeaZip]
+txt_7_8_tpriority: Độ ưu tiên của tác vụ
+txt_7_8_update: Cập nhật
+txt_7_7_noneall: Không (không xem trước, không Kéo và Thả để giải nén)
+txt_7_7_nonetemp: Không, thư mục tạm thời của Người dùng nếu cần
+txt_7_7_outtemp: Đầu ra, xem trước trong thư mục tạm thời của Người dùng
+txt_7_7_sys7zreq: Yêu cầu p7zip-full hoặc tương đương được cài đặt
+txt_7_7_tw: Thư mục làm việc tạm thời cho việc tạo, chỉnh sửa, xem trước kho lưu trữ và Kéo và Thả để giải nén.
+txt_7_7_sys7z: Sử dụng 7z hệ thống trong Linux
+txt_7_6_zipenc: Mã hóa tên tệp ZIP của 7z/p7zip
+txt_7_6_color: Màu sắc
+txt_7_6_custenc: Trang mã tùy chỉnh
+txt_7_6_dark: Tối
+txt_7_6_tno: Không đồng bộ hóa cây kho lưu trữ
+txt_7_6_forcelocalenc: Buộc cục bộ
+txt_7_6_forceutf8enc: Buộc UTF-8
+txt_7_6_cpnote: Nếu trang mã tùy chỉnh đã chọn không được hỗ trợ, các tác vụ sẽ luôn kết thúc bằng lỗi (rất có thể là lỗi cấp phát bộ nhớ). Trong trường hợp đó, hãy thay đổi trang mã hoặc đặt lại ứng dụng.
+txt_7_6_defaultenc: Cục bộ, UTF-8 cho các ký hiệu bổ sung
+txt_7_6_dim: Ánh sáng yếu
+txt_7_6_setcurdef: Đặt đường dẫn hiện tại làm đường dẫn đầu ra mặc định
+txt_7_6_setdef: Đặt đường dẫn đầu ra mặc định
+txt_7_6_tadvanced: Đồng bộ hóa cây kho lưu trữ, giữ các nút đã truy cập
+txt_7_6_tsimple: Đồng bộ hóa cây kho lưu trữ, đơn giản
+txt_7_6_tacolor: Màu nhấn văn bản
+txt_7_5_always: Luôn luôn
+txt_7_5_ask: Hỏi
+txt_7_5_autoclosesingle: Tự động đóng sau khi giải nén nếu không có hành động duyệt nào xảy ra
+txt_7_5_cutlen: Cắt tên theo độ dài quy định
+txt_7_5_cutlenw: Cắt tên theo độ dài quy định (4..255) xung đột đặt tên có thể được sửa thủ công sau
+txt_7_5_dragnone: Không khóa đích
+txt_7_5_specialbrowse: Bạn có muốn giải nén mọi thứ để cung cấp cho tệp dữ liệu bổ sung mà nó có thể cần không?
+txt_7_5_ee: Giải nén mọi thứ cho các loại tệp đặc biệt
+txt_7_5_draghide: Ẩn đích thả
+txt_7_5_draglh: Khóa và ẩn đích
+txt_7_5_draglock: Khóa đích thả
+txt_7_5_never: Không bao giờ
+txt_7_5_repnascii: Thay thế/xóa các ký tự không phải ASCII
+txt_7_4_comment: Bình luận
+txt_7_4_7zfbrotlicomp: Nén nhanh nhất, 7Z Brotli
+txt_7_4_7zfzstandardcomp: Nén nhanh nhất, 7Z Zstandard
+txt_7_4_presetrar: Nén cao, RAR
+txt_7_4_tkeep: Giữ lại dấu thời gian kho lưu trữ gốc
+txt_7_4_lock: Khóa kho lưu trữ
+txt_7_4_locked: đã khóa
+txt_7_4_lockconfirm: Các kho lưu trữ đã khóa không thể sửa đổi thêm, tiếp tục khóa kho lưu trữ này chứ?
+txt_7_4_recover: Sửa chữa kho lưu trữ
+txt_7_4_tcurr: Đặt dấu thời gian kho lưu trữ từ thời gian hệ thống hiện tại
+txt_7_4_setarc: Đặt tùy chọn nén
+txt_7_4_setext: Đặt tùy chọn giải nén
+txt_7_4_swzipx: Chuyển sang phần mở rộng zipx cho các kho lưu trữ zip không phải Deflate
+txt_7_3_archiveerrors: [kho lưu trữ có thể chứa lỗi]
+txt_7_3_archiveerrorshint: Kho lưu trữ có thể không hợp lệ (do thiếu, bị hỏng hoặc dữ liệu không theo tiêu chuẩn), có thể chạy Kiểm tra để biết thông tin chi tiết. Nếu bảng nội dung của kho lưu trữ được mã hóa, cần có mật khẩu trước khi duyệt.
+txt_7_3_clickextall: Nhấp vào "Giải nén tất cả" để bật
+txt_7_3_noconfdel: Không hỏi xác nhận để xóa sau khi nén / giải nén
+txt_7_3_profile7zfastest: Nén nhanh, 7Z nhanh nhất
+txt_7_3_maxbr: Tối đa hóa nén Brotli bằng cách sử dụng nhiều bộ nhớ hơn (có thể không tương thích với một số trình giải nén)
+txt_7_3_maxzstd: Tối đa hóa nén Zstandard bằng cách sử dụng nhiều bộ nhớ hơn
+txt_7_3_profile7zfast: Nén trung bình, 7Z nhanh
+txt_7_3_stl: Đặt dấu thời gian kho lưu trữ từ tệp gần đây nhất
+txt_7_2_altcomp: Nén thay thế, ARC
+txt_7_2_clearnoupdate: Xóa các tệp đã chỉnh sửa
+txt_7_2_autoclosepeazip: Đóng PeaZip khi tác vụ hoàn tất
+txt_7_2_zpaqall: Giải nén tất cả các phiên bản
+txt_7_2_extcomp: Nén cực cao, ZPAQ
+txt_7_2_extcompultra: Nén cực cao, ZPAQ ultra
+txt_7_2_fbrotlicomp: Nén nhanh nhất, Brotli
+txt_7_2_fzstandardcomp: Nén nhanh nhất, Zstandard
+txt_7_2_loadcompsettings: Tải cài đặt nén
+txt_7_2_savecompsettings: Lưu cài đặt nén
+txt_7_2_source: Nguồn
+txt_7_2_updateclear: Cập nhật các tệp đã chỉnh sửa trong kho lưu trữ và xóa các tệp đã chỉnh sửa
+txt_7_1_type_description_brotli: Brotli: trình nén nhanh từ Google, giải nén rất nhanh
+txt_7_1_new: Giải nén tất cả tại đây, trong thư mục mới
+txt_7_1_smart: Giải nén tất cả tại đây, thông minh
+txt_7_1_profileintermediate: Nén trung bình, ZIP/BZip2 nhanh
+txt_7_1_renfilesonly: Chỉ đổi tên tệp
+txt_7_1_typetosearch: Gõ để tìm kiếm trong đường dẫn hiện tại
+txt_7_1_type_description_zstd: Zstandard: trình nén nhanh từ Facebook, giải nén rất nhanh
+txt_7_0_af: Phân tích nội dung thư mục
+txt_7_0_autoopentar: Tự động mở một kho lưu trữ tar duy nhất bên trong các tệp tar.*
+txt_7_0_exttmppath: Nội dung sẽ được giải nén bên ngoài đường dẫn làm việc tạm thời, tại: 
+txt_6_9_autou: Tự động cập nhật các tệp đã sửa đổi trong kho lưu trữ
+txt_6_9_forceu: Buộc cập nhật các tệp đã sửa đổi trong kho lưu trữ
+txt_6_9_opuns: Thao tác không được hỗ trợ cho loại kho lưu trữ hiện tại
+txt_6_9_overarch: Ghi đè tệp có cùng tên đã tồn tại bên trong kho lưu trữ?
+txt_6_9_uconf: Tệp được xem trước đã được sửa đổi. Cập nhật kho lưu trữ hiện tại?
+txt_6_8_ndrop: Sử dụng Kéo và Thả gốc trên Windows
+txt_6_7_nop: (không xem trước)
+txt_6_6_pdupfound: tìm thấy các bản sao có thể có (kiểm tra gần đúng nhanh)
+txt_6_6_rsh: Đặt lại lịch sử tìm kiếm
+txt_6_6_pdupfind: Đề xuất các bản sao có thể có
+txt_6_6_forcemodify: Thử chỉnh sửa các loại tệp không được hỗ trợ rõ ràng
+txt_6_5_mandatory: (bắt buộc)
+txt_6_5_abort: Hủy bỏ
+txt_6_5_askp: Hỏi để đặt mật khẩu khi khởi động
+txt_6_5_chp: Thay đổi mật khẩu
+txt_6_5_def: Định nghĩa
+txt_6_5_nop: Không hỏi để đặt mật khẩu khi khởi động
+txt_6_5_error: Lỗi
+txt_6_5_seqerr: Phát hiện lỗi, các tệp gốc sẽ không bị xóa
+txt_6_5_sni: Bao gồm thông tin bảo mật NT
+txt_6_5_sns: Bao gồm NTFS Alternate Data Stream
+txt_6_5_privacy: Quyền riêng tư
+txt_6_5_showvolatile: Hiển thị các tùy chọn dễ thay đổi / phụ thuộc vào ngữ cảnh
+txt_6_5_force: Thử mở kho lưu trữ có chứa lỗi
+txt_6_5_warning: Cảnh báo
+txt_6_5_yes: Có
+txt_6_5_yesall: Có cho tất cả
+txt_6_5_np: Bây giờ bạn có thể thay đổi mật khẩu của (các) kho lưu trữ đã chuyển đổi thành mật khẩu mới, hoặc bỏ trống mật khẩu để bỏ qua mã hóa
+txt_6_4_absolute: Đường dẫn tuyệt đối
+txt_6_4_appdirn: Nối tên thư mục
+txt_6_4_closeallother: Đóng tất cả các tab khác
+txt_6_4_closeright: Đóng các tab bên phải
+txt_6_4_collapse: Thu gọn các tab
+txt_6_4_expand: Mở rộng các tab
+txt_6_4_full: Đường dẫn đầy đủ
+txt_6_4_new: Mới
+txt_6_4_openintab: Mở trong một tab mới
+txt_6_4_paths: Đường dẫn
+txt_6_4_prepdirn: Đặt tên thư mục vào trước
+txt_6_4_relative: Đường dẫn tương đối
+txt_6_4_tabbar: Thanh tab
+txt_6_3_autoadjust: Tự động điều chỉnh cột
+txt_6_3_cinfo: Thông tin và bình luận
+txt_6_3_syn: Đồng bộ hóa kho lưu trữ với đĩa
+txt_6_3_uar: Chỉ cập nhật các tệp đã có trong kho lưu trữ
+txt_6_2_encext: Thêm hậu tố ".enc" vào kho lưu trữ được mã hóa
+txt_6_2_archive: Loại tệp kho lưu trữ
+txt_6_2_container: Loại tệp container
+txt_6_1_ec: Mở rộng / thu gọn cây kho lưu trữ
+txt_6_0_msq: Sắp xếp theo loại tệp cho nén khối
+txt_5_9_lff: Phân tích tệp và thư mục
+txt_5_9_pff: Phân tích, hiển thị tiêu đề tệp/EOF
+txt_5_9_start: Bắt đầu từ
+txt_5_8_l0: Cho phép mọi thành phần/định dạng được hỗ trợ
+txt_5_8_l1: Chỉ cho phép các thành phần Phần mềm Miễn phí
+txt_5_8_l2: Chỉ cho phép các định dạng kho lưu trữ mở
+txt_5_8_ascii: An toàn ASCII, script an toàn trên các môi trường cũ
+txt_5_8_cp: An toàn Trang mã, script có thể gây ra sự cố trên các môi trường cũ với Trang mã khác nhau
+txt_5_8_fs: Tuân thủ Phần mềm Miễn phí
+txt_5_8_utf: Script cần môi trường UTF-8 / Unicode đầy đủ
+txt_5_8_fsr: Định dạng này không được hỗ trợ do các hạn chế tuân thủ Phần mềm Miễn phí (Options > Advanced)
+txt_5_7_pinstalled: ĐÃ CÀI ĐẶT
+txt_5_7_pmissing: THIẾU
+txt_5_7_plugin: Plugin bị thiếu, có thể được cài đặt từ Help > Check for pulgin and addon
+txt_5_6_basic: Cơ bản
+txt_5_6_exarc: Giải nén kho lưu trữ
+txt_5_6_tab: Mở trong tab mới
+txt_5_6_rc: Nhấp chuột phải để xem tùy chọn
+txt_5_6_layouts: Bố cục đã lưu
+txt_5_6_upexisting: Cập nhật kho lưu trữ hiện có
+txt_5_6_verbose: Chi tiết
+txt_5_5_case: (phân biệt chữ hoa/thường)
+txt_5_5_add: Thêm chuỗi tại vị trí quy định
+txt_5_5_addsel: Thêm vào lựa chọn hiện tại
+txt_5_5_ext: Thay đổi phần mở rộng tệp
+txt_5_5_plugin: Kiểm tra plugin và addon
+txt_5_5_copypath: Sao chép đường dẫn
+txt_5_5_delete: Xóa ký tự tại vị trí quy định
+txt_5_5_halt: Dừng hệ thống khi tác vụ hoàn tất
+txt_5_5_positionw: Gợi ý: 1 thêm trước ký tự đầu tiên, 2 ký tự thứ hai, v.v... "z" cho cuối tên tệp
+txt_5_5_positionwd: Gợi ý: 1 xóa từ ký tự đầu tiên được bao gồm, 2 thứ hai, ... "z" cho cuối tên tệp
+txt_5_5_replaceneww: Gợi ý: cung cấp một chuỗi mới trống để đơn giản là xóa chuỗi cũ
+txt_5_5_lower: Chữ thường
+txt_5_5_replaceoldw: Sửa đổi tất cả các lần xuất hiện của chuỗi hoặc ký tự này trong tên tệp
+txt_5_5_newext: Phần mở rộng mới
+txt_5_5_new: Chuỗi mới
+txt_5_5_n: Số ký tự cần xóa
+txt_5_5_old: Chuỗi cũ
+txt_5_5_position: Vị trí (số hoặc "z" cho cuối)
+txt_5_5_intdir: Thư mục mới thông minh
+txt_5_5_replacestr: Thay thế/xóa chuỗi
+txt_5_5_datesameday: Cùng ngày với đối tượng đã chọn
+txt_5_5_datesamehour: Cùng giờ với đối tượng đã chọn
+txt_5_5_datesamemonth: Cùng tháng với đối tượng đã chọn
+txt_5_5_datesameweek: Cùng tuần với đối tượng đã chọn
+txt_5_5_datesameyear: Cùng năm với đối tượng đã chọn
+txt_5_5_scan: Quét
+txt_5_5_select: Chọn
+txt_5_5_similar: Tương tự đối tượng đã chọn
+txt_5_5_starting: Bắt đầu bằng cùng ký tự
+txt_5_5_string: Chuỗi cần thêm
+txt_5_5_subtractsel: Trừ khỏi lựa chọn hiện tại
+txt_5_5_datehour: Giờ này
+txt_5_5_datemonth: Tháng này
+txt_5_5_dateweek: Tuần này
+txt_5_5_dateyear: Năm này
+txt_5_5_dateday: Hôm nay
+txt_5_5_upper: Chữ hoa
+txt_5_5_extw: Cảnh báo: thay đổi phần mở rộng tệp có thể khiến tệp không sử dụng được
+txt_5_4_da: Ngày thêm
+txt_5_4_deletearchives: Xóa kho lưu trữ sau khi giải nén
+txt_5_4_deletefiles: Xóa tệp sau khi nén
+txt_5_4_deleteoriginal: Quy trình xóa, như được đặt trong màn hình chính, sẽ được thêm vào script.
+txt_5_4_lv: Lần truy cập cuối
+txt_5_4_deletearchivesconfirm: Xác nhận xóa các kho lưu trữ gốc?
+txt_5_4_deletefilesconfirm: Xác nhận xóa các tệp gốc?
+txt_5_4_used: Đã sử dụng
+txt_5_3_profilebest: Nén tốt nhất, định dạng 7Z mức Ultra
+txt_5_3_profileadvanced: Nén nâng cao, định dạng 7Z
+txt_5_3_profilenormal: Nén ZIP thông thường, tương thích với hầu hết các trình giải nén
+txt_5_3_profileveryfast: Nén ZIP rất nhanh, khuyến nghị cho các tệp đa phương tiện lớn
+txt_5_3_profilepassword: Bảo vệ bằng mật khẩu, định dạng 7Z
+txt_5_3_profile10mb: Giữ đầu ra dưới 25 MB, cho giới hạn tệp đính kèm thư
+txt_5_3_profilesfx: Tự giải nén, người nhận sẽ không cần phần mềm giải nén
+txt_5_3_cml: Ngôn ngữ menu ngữ cảnh hệ thống
+txt_5_3_cmlmessage: Nhấp đúp vào ngôn ngữ menu ngữ cảnh mong muốn và xác nhận hợp nhất registry. Cài đặt này cần được áp dụng lại khi ứng dụng được cài đặt/cập nhật hoặc sau khi sử dụng trình hướng dẫn Tích hợp hệ thống.
+txt_5_3_exc: Bộ lọc loại trừ được ưu tiên hơn bộ lọc bao gồm
+txt_5_3_ia: Bao gồm cả
+txt_5_3_io: Chỉ bao gồm
+txt_5_3_rec: Duyệt thư mục con đệ quy
+txt_5_3_resetsi: Định cấu hình lại tích hợp hệ thống (menu ngữ cảnh, SendTo, liên kết tệp)?
+txt_5_2_oadd: Nén vào đường dẫn gốc
+txt_5_2_zerodelete: Bạn có muốn xóa và ghi đè bằng toàn bộ 0 các tệp đã chọn không? Thao tác không thể hoàn tác và các tệp sẽ không thể khôi phục
+txt_5_2_zfree: Bạn có muốn ghi đè bằng toàn bộ 0 dung lượng trống trên ổ đĩa này không?
+txt_5_2_sdfree: Bạn có muốn xóa an toàn dung lượng trống trên ổ đĩa này không?
+txt_5_2_oext: Giải nén vào đường dẫn gốc
+txt_5_2_securedeletefree: Xóa an toàn dung lượng trống
+txt_5_2_free: Thao tác này có thể mất vài phút và nếu được thực hiện thường xuyên, nó có thể làm hao mòn nhanh chóng các đĩa dựa trên bộ nhớ flash
+txt_5_2_zerofiles: Xóa bằng 0
+txt_5_2_zerofree: Xóa bằng 0 dung lượng trống
+txt_5_1_schedadd: Thêm lịch trình
+txt_5_1_schederr: Không thể tạo lịch trình
+txt_5_1_daily: Hàng ngày
+txt_5_1_day: Ngày
+txt_5_1_days: Ngày
+txt_5_1_enddate: Ngày kết thúc
+txt_5_1_every: Mỗi
+txt_5_1_w6: Thứ Sáu
+txt_5_1_hourly: Hàng giờ
+txt_5_1_hours: Giờ
+txt_5_1_last: Cuối cùng
+txt_5_1_schedmanage: Task Scheduler, quản lý các tác vụ được lưu trong nhánh PeaZip
+txt_5_1_scriptmanage: Quản lý các script đã lên lịch đã lưu
+txt_5_1_w2: Thứ Hai
+txt_5_1_monthly: Hàng tháng
+txt_5_1_months: Tháng
+txt_5_1_onlogin: Khi đăng nhập
+txt_5_1_onstart: Khi khởi động
+txt_5_1_once: Một lần
+txt_5_1_w7: Thứ Bảy
+txt_5_1_schedule: Lịch trình
+txt_5_1_schedexplain: Tạo một script văn bản thuần túy từ định nghĩa tác vụ GUI và lên lịch cho nó. Script của các tác vụ đã lên lịch được lưu trong thư mục "Scheduled scripts". Để chỉnh sửa hoặc xóa các tác vụ đã lên lịch, bạn có thể sử dụng Task Scheduler của hệ thống, tất cả các tác vụ đã lên lịch được tạo bởi PeaZip được thu thập trong nhánh "PeaZip" của thư viện tác vụ.
+txt_5_1_schedok: Lịch trình được tạo thành công
+txt_5_1_schedscripts: Script đã lên lịch đã lưu
+txt_5_1_startdate: Ngày bắt đầu
+txt_5_1_starttime: Giờ bắt đầu
+txt_5_1_w1: Chủ Nhật
+txt_5_1_schedname: Tên tác vụ, xác định cả script đã lên lịch đã lưu và tác vụ đã lên lịch của hệ thống
+txt_5_1_ts: Task Scheduler
+txt_5_1_w5: Thứ Năm
+txt_5_1_w3: Thứ Ba
+txt_5_1_w4: Thứ Tư
+txt_5_1_weekly: Hàng tuần
+txt_5_1_weeks: Tuần
+txt_5_0_bc: Breadcrumb (Đường dẫn điều hướng)
+txt_5_0_resetpm: Bạn có xác nhận đặt lại Trình quản lý mật khẩu không? Tất cả mật khẩu được lưu trữ trong Trình quản lý mật khẩu của PeaZip sẽ bị mất nếu xác nhận.
+txt_5_0_enum: Liệt kê nội dung thư mục
+txt_5_0_music: Nhạc
+txt_5_0_ps: Mở PowerShell tại đây
+txt_5_0_perf: Hiệu suất
+txt_5_0_pictures: Ảnh
+txt_5_0_removeall: Xóa tất cả
+txt_5_0_resetbookmarks: Đặt lại Dấu trang về mặc định? (Dấu trang sau đó có thể được tùy chỉnh bằng Bookmarks > Organize)
+txt_5_0_sh: Lịch sử phiên
+txt_5_0_skip: Bỏ qua việc liệt kê nội dung thư mục trong bố cục
+txt_5_0_videos: Video
+txt_4_9_frame: Khung
+txt_4_9_listth: Danh sách và hình thu nhỏ
+txt_4_9_shadow: Bóng
+txt_4_9_style: Kiểu
+txt_4_8_attach25: 25 MB (giới hạn tệp đính kèm)
+txt_4_8_crop: Cắt
+txt_4_8_detailsno: Trình duyệt tệp nhẹ
+txt_4_8_details: Trình duyệt tệp có hình thu nhỏ
+txt_4_8_fit: Vừa với
+txt_4_8_fitl: Vừa với lớn nhất
+txt_4_8_flip: Lật
+txt_4_8_fullscreen: Toàn màn hình
+txt_4_8_fun: Chức năng
+txt_4_8_h: Chiều cao
+txt_4_8_keeparchive: Giữ lại kho lưu trữ
+txt_4_8_noresize: Giữ kích thước gốc
+txt_4_8_iconl: Hình ảnh lớn
+txt_4_8_iconm: Biểu tượng và hình ảnh
+txt_4_8_imagemanager: Trình quản lý hình ảnh
+txt_4_8_immersive: Nhập vai
+txt_4_8_listno: Danh sách tối giản
+txt_4_8_aspect: Duy trì tỷ lệ khung hình
+txt_4_8_mirror: Phản chiếu
+txt_4_8_presets: Cài đặt sẵn
+txt_4_8_replace: Thay thế (các) hình ảnh gốc? "No" (Không) áp dụng phép biến đổi trong (các) tệp mới.
+txt_4_8_resize: Thay đổi kích thước
+txt_4_8_rl: Xoay trái
+txt_4_8_rr: Xoay phải
+txt_4_8_stop: Dừng
+txt_4_8_t: Biến đổi
+txt_4_8_w: Chiều rộng
+txt_4_7_pk: Tạo mật khẩu / tệp khóa ngẫu nhiên
+txt_4_7_spchar: Giới hạn ký tự là chữ cái và số
+txt_4_7_recycleask: Chuyển (các) tệp đã chọn vào Thùng rác?
+txt_4_7_recycle: Chuyển vào Thùng rác
+txt_4_7_pcomp: Khả năng nén
+txt_4_6_am: Trình quản lý kho lưu trữ
+txt_4_6_fm: Trình quản lý tệp
+txt_4_6_users: Người dùng
+txt_4_5_goupdate: Có phiên bản mới. Mở trang web chính thức của PeaZip để tải xuống bản cập nhật?
+txt_4_5_b: Dưới
+txt_4_5_koupdate: Không thể kiểm tra cập nhật, không có kết nối với máy chủ cập nhật
+txt_4_5_update: Kiểm tra cập nhật
+txt_4_5_dock: Dock
+txt_4_5_l: Trái
+txt_4_5_noupdate: PeaZip đã được cập nhật
+txt_4_5_properties: Thuộc tính
+txt_4_5_r: Phải
+txt_4_5_pj: Script định nghĩa tác vụ đã lưu
+txt_4_5_shaddress: Hiển thị thanh địa chỉ
+txt_4_5_shnav: Hiển thị thanh điều hướng
+txt_4_5_shstatus: Hiển thị thanh trạng thái
+txt_4_5_shtool: Hiển thị thanh công cụ
+txt_4_5_upxpj: Xin lỗi, không thể xuất định nghĩa tác vụ vì hành động hoặc tùy chọn này yêu cầu thực hiện nhiều lệnh riêng biệt
+txt_4_5_t: Trên
+txt_4_4_confremoveall: Xóa tất cả các tệp tùy chỉnh của PeaZip (Applications, Bookmarks, Password manager)?
+txt_4_4_confremove: Xóa cấu hình PeaZip?
+txt_4_3_pwmanhint: Nhấp đúp để chỉnh sửa mục trong danh sách mật khẩu, nhấp chuột phải để xem tùy chọn, Ctrl+C để sao chép mật khẩu
+txt_4_3_exppl: Xuất danh sách mật khẩu
+txt_4_3_expple: Được mã hóa (sao lưu Trình quản lý mật khẩu)
+txt_4_3_keeppw: Giữ mật khẩu/tệp khóa cho phiên hiện tại
+txt_4_3_pwmanpwhint: Nên đặt mật khẩu/tệp khóa (tùy chọn) để mã hóa danh sách mật khẩu, bằng cách này sẽ yêu cầu xác thực để truy cập trình quản lý mật khẩu. Mật khẩu/tệp khóa có thể được thay đổi bất cứ lúc nào từ biểu mẫu này.
+txt_4_3_pwmanmaster: Đặt/thay đổi mật khẩu chính
+txt_4_3_pwmanlist: Danh sách mật khẩu
+txt_4_3_pwman: Trình quản lý mật khẩu
+txt_4_3_pwmancorr: Trình quản lý mật khẩu có vẻ bị giả mạo hoặc bị hỏng. Dù sao vẫn giữ Trình quản lý mật khẩu và cố gắng khôi phục danh sách mật khẩu hiện tại, nếu bạn tin tưởng nó? (Không sẽ đặt lại trình quản lý mật khẩu, được khuyến nghị)
+txt_4_3_expplp: Văn bản thuần túy (tất cả các mục đích sử dụng)
+txt_4_3_recsrc: Tìm kiếm đệ quy theo mặc định
+txt_4_3_resetpm: Đặt lại Trình quản lý mật khẩu? Tất cả mật khẩu đã lưu sẽ bị xóa
+txt_4_3_breadcrumb: Hiển thị địa chỉ dưới dạng breadcrumb
+txt_4_2_arcabspath: Sử dụng đường dẫn tuyệt đối
+txt_4_1_duplicateshint: Chuỗi "size"/"checksum" được báo cáo trong cột CRC cho tất cả các ứng viên trùng lặp được tìm thấy trong thư mục hiện tại hoặc bộ lọc tìm kiếm
+txt_4_1_adminhint: (GỢI Ý: thay vào đó, bạn có thể yêu cầu nâng quyền UAC để làm việc trong các đường dẫn được bảo vệ, Alt+F10 hoặc Options > Run as administrator)
+txt_4_1_selected: (đã chọn)
+txt_4_1_duplicatesfound: tìm thấy các bản sao
+txt_4_1_duplicatesfind: Tìm các bản sao
+txt_4_1_runasadmin: Chạy với tư cách quản trị viên
+txt_4_1_simplesearch: Tìm kiếm đơn giản
+txt_4_0_thim: Hiển thị hình thu nhỏ ảnh
+txt_3_8_type_description_wim: WIM: định dạng hình ảnh đĩa của Microsoft
+txt_3_8_type_description_xz: XZ: nén tệp mạnh mẽ dựa trên LZMA2
+txt_3_7_donations: Quyên góp
+txt_3_7_nameasparent: Đặt tên kho lưu trữ theo thư mục cha của mục đã chọn, nếu nhiều mục được thêm vào
+txt_3_7_tracker: Theo dõi PeaZip: lỗi, yêu cầu tính năng
+txt_3_7_sort: Sắp xếp theo
+txt_3_7_swapbars: Hoán đổi Thanh công cụ / Thanh địa chỉ
+txt_3_7_themedbars: Thanh theo chủ đề
+txt_3_6_ignoredd: Luôn bỏ qua đường dẫn cho giải nén kéo và thả
+txt_3_6_close: Đóng
+txt_3_6_resetapps: Bạn có muốn đặt lại Applications (nhóm chương trình và script có thể tùy chỉnh để mở tệp, ghi đè liên kết tệp)?
+txt_3_6_ethemes: Chủ đề hiện có
+txt_3_5_td: Tải xuống Chủ đề
+txt_3_5_managecustomthemes: Quản lý Chủ đề
+txt_3_4_nopaths: Không có đường dẫn
+txt_3_4_smallicons: Biểu tượng
+txt_3_3_skipunits: (Windows) Lấy thông tin ổ đĩa cho các đơn vị mạng, khởi động chậm hơn
+txt_3_3_stralt: Lệnh thay thế, khi không có tham số nào được truyền
+txt_3_3_apps: Ứng dụng
+txt_3_3_multi: Nhiều lựa chọn
+txt_3_3_runexp: Mở một chương trình, tệp, thư mục hoặc trang web
+txt_3_3_apppath: Mở thư mục của PeaZip
+txt_3_3_run: Chạy
+txt_3_2_7zutf8nonascii: 7z / p7zip -mcu sử dụng UTF8 cho tên tệp chứa các ký hiệu không phải ASCII bên trong tệp .zip
+txt_3_2_alltasks: Tất cả các tác vụ
+txt_3_2_conf: Cấu hình
+txt_3_2_donations: Quyên góp cho các tổ chức từ thiện
+txt_3_1_sccenc: Mã hóa ký tự 7z / p7zip -scc
+txt_3_1_downloads: Tải xuống
+txt_3_1_lib: Thư viện
+txt_3_1_more: Thêm
+txt_3_1_openasarchive: Mở dưới dạng kho lưu trữ
+txt_3_1_sendto: Mở thư mục SendTo của người dùng
+txt_3_1_pathexc: Đường dẫn vượt quá kích thước tối đa cho phép
+txt_3_1_recent: Gần đây
+txt_3_1_plsmartmin: Chạy thu nhỏ, chỉ hiển thị/giữ mở nếu cần
+txt_3_1_src: Tìm kiếm
+txt_3_1_systmp: Thư mục tạm thời của hệ thống
+txt_3_1_languagetools: Dịch
+txt_3_1_workingdir: Thư mục làm việc
+txt_3_0_nonreadableorpw: Kho lưu trữ có vẻ không đọc được hoặc được bảo vệ bằng mật khẩu
+txt_3_0_readablepw: Kho lưu trữ có vẻ được bảo vệ bằng mật khẩu
+txt_3_0_configure: Cấu hình liên kết tệp, menu ngữ cảnh và menu SendTo
+txt_3_0_resettmp: Đặt lại peazip-tmp
+txt_2_9_address: Thanh địa chỉ
+txt_2_9_adv: Bộ lọc nâng cao được áp dụng khi quản lý bất kỳ tệp nào được hỗ trợ thông qua backend 7z hoặc FreeArc, xem tài liệu, và ghi đè bộ lọc cơ bản (được sử dụng cho chức năng tìm kiếm và được hiển thị trong bảng Dấu trang và Lịch sử)
+txt_2_9_columns: Cột
+txt_2_9_copyhere: Sao chép tại đây
+txt_2_9_noscan: Không quét các tệp đang được thêm vào bố cục
+txt_2_9_extconsole: Bảng điều khiển giải nén chỉ khả dụng khi đang duyệt kho lưu trữ
+txt_2_9_thl: Đánh dấu các nút
+txt_2_9_home: Trang chủ
+txt_2_9_lt: Lớn
+txt_2_9_mt: Trung bình
+txt_2_9_movehere: Di chuyển tại đây
+txt_2_9_nav: Điều hướng
+txt_2_9_navbar: Thanh điều hướng
+txt_2_9_none: Không
+txt_2_9_organize: Tổ chức
+txt_2_9_public: Công khai
+txt_2_9_rec: Đệ quy: tìm kiếm trong các thư mục con, có thể mất một lúc
+txt_2_9_selected: Đã chọn
+txt_2_9_setapps: Đặt ứng dụng ưu tiên
+txt_2_9_showmenu: Hiển thị thanh menu
+txt_2_9_st: Nhỏ
+txt_2_9_test_pw2G: Kiểm tra mã hóa kho lưu trữ <2GB
+txt_2_9_vst: Chỉ văn bản
+txt_2_9_toolbar: Thanh công cụ
+txt_2_9_tree: Cây
+txt_2_9_views: Chế độ xem
+txt_2_8_experimental: (thử nghiệm)
+txt_2_8_zcopy: (Windows) Sao chép tệp ở chế độ có thể khởi động lại, chậm hơn
+txt_2_8_addvol: Thêm toàn bộ (các) ổ đĩa vào kho lưu trữ có thể mất nhiều thời gian, vẫn tiếp tục chứ?
+txt_2_8_uniterror: Không thể truy cập ổ đĩa
+txt_2_8_cannotconvert: Không thể chuyển đổi các kho lưu trữ đã chọn
+txt_2_8_convertbegin: Tiếp tục với giai đoạn nén để hoàn tất chuyển đổi?
+txt_2_8_convert: Chuyển đổi
+txt_2_8_convertexisting: Chuyển đổi các kho lưu trữ hiện có
+txt_2_8_convertdelete: Xóa các tệp và thư mục được tạo tạm thời để chuyển đổi?
+txt_2_8_details: Chi tiết
+txt_2_8_parallel: Thực hiện các tác vụ song song khi có thể
+txt_2_8_convertnote: Trong mọi trường hợp, các kho lưu trữ gốc không bị sửa đổi, để người dùng kiểm soát việc giữ lại hay xóa chúng
+txt_2_8_custom: không được PeaZip hỗ trợ trực tiếp, nhưng trong giai đoạn giải nén bạn có thể đặt PeaZip để xử lý các loại tệp tùy chỉnh trong tab "Advanced". Tiếp tục mở tệp này chứ?
+txt_2_8_unitrecommend: Khuyến nghị giải nén (nhấp chuột phải > giải nén đã chọn) hoặc mở hệ thống tệp từ thư mục gốc của máy tính (system tools > Open unit as archive)
+txt_2_8_viewasarchive: Mở ổ đĩa dưới dạng kho lưu trữ
+txt_2_8_nounit: Chưa chọn ổ đĩa
+txt_2_8_rowselect: Chọn hàng
+txt_2_8_statusbar: Thanh trạng thái
+txt_2_8_typeunit: Nhập tên ổ đĩa logic hoặc vật lý
+txt_2_8_usedefaultoutpath: Sử dụng đường dẫn đầu ra mặc định
+txt_2_7_experimental: (thử nghiệm, xem tài liệu)
+txt_2_7_optional: (tùy chọn)
+txt_2_7_list_tryflatorpw: , các giải pháp khả thi: thử chế độ xem phẳng (F6), cung cấp mật khẩu (F9), lấy một bản sao mới của kho lưu trữ
+txt_2_7_separate: Thêm mỗi đối tượng vào một kho lưu trữ riêng
+txt_2_7_pwsupported: nén với mật khẩu
+txt_2_7_cancel: Hủy bỏ
+txt_2_7_encfn: Mã hóa cả tên tệp (nếu định dạng hỗ trợ)
+txt_2_7_setpw: Nhập mật khẩu / tệp khóa
+txt_2_7_ext: Đang giải nén:
+txt_2_7_extfrom: Đang giải nén từ kho lưu trữ:
+txt_2_7_es: Giải nén các loại tệp không phải kho lưu trữ được hỗ trợ, tức là các tệp thực thi, tệp MS Office và OOo
+txt_2_7_eu: Giải nén các loại tệp không được hỗ trợ, chỉ định tiện ích giải nén tùy chỉnh
+txt_2_7_clipboard: Bảng tạm của trình duyệt tệp
+txt_2_7_goarclayout: Chuyển đến bố cục nén
+txt_2_7_goextlayout: Chuyển đến bố cục giải nén
+txt_2_7_ok: OK
+txt_2_7_drag_archive: mở tệp dưới dạng kho lưu trữ mới? ("No" (Không) để thêm tệp vào bố cục nén hiện tại)
+txt_2_7_oop: Mở đường dẫn đầu ra khi tác vụ hoàn tất
+txt_2_7_validatefn: Thao tác bị dừng, phát hiện tên tệp không hợp lệ:
+txt_2_7_validatecl: Thao tác bị dừng, phát hiện lệnh có khả năng nguy hiểm (tức là không cho phép nối lệnh trong chương trình):
+txt_2_7_output: Đầu ra
+txt_2_7_pwnotset: Mật khẩu chưa được đặt
+txt_2_7_pwarcset: Mật khẩu đã được đặt
+txt_2_7_pwextset: Mật khẩu đã được đặt, có thể giải nén/liệt kê/kiểm tra các kho lưu trữ được mã hóa
+txt_2_7_archivehint: Nhấp chuột phải để thêm tệp vào kho lưu trữ và xem các chức năng khả dụng khác, hoặc kéo tệp cần thêm vào đây
+txt_2_7_exthint: Nhấp chuột phải để thêm tệp cần giải nén và xem các chức năng khả dụng khác, hoặc kéo tệp cần giải nén vào đây
+txt_2_7_setadvf: Đặt bộ lọc nâng cao
+txt_2_7_selpath: Đường dẫn của mục đã chọn
+txt_2_7_separateerror: Xin lỗi, không thể nhập dòng lệnh định nghĩa tác vụ khi sử dụng công tắc "Add each object to a separate archive" (Thêm mỗi đối tượng vào một kho lưu trữ riêng), vì tác vụ được thực hiện dưới dạng nhiều lệnh riêng biệt
+txt_2_7_noinput: Bố cục trống: vui lòng sử dụng Add file(s) hoặc Load Layout để điền vào danh sách các kho lưu trữ cần giải nén
+txt_2_7_dirsize: Kích thước nội dung thư mục không được kiểm tra để tính tổng kích thước
+txt_2_7_un7z_browse_flat: thử chế độ xem phẳng (F6)
+txt_2_7_updating: Đang cập nhật, thêm vào kho lưu trữ hiện có:
+txt_2_6_folders: (thư mục)
+txt_2_6_advanced: Nâng cao
+txt_2_6_plalways: Luôn luôn mở để hỗ trợ cho công việc báo cáo
+txt_2_6_plsmart: Chỉ mở khi cần thiết (lỗi, báo cáo hoặc danh sách)
+txt_2_5_sessionio: (tiến trình này)
+txt_2_5_advanced: Chỉnh Sửa nâng cao: khoảng trống phân cách giữa các chuỗi thông số và tên file nếu cần thiết
+txt_2_5_basic: Basic edit: điền tên ứng dụng và các thông số trước
+txt_2_5_cannotrun: Không thể chạy
+txt_2_5_custeditors: Lựa chọn phần chương trình chỉnh sửa, giải trí, quét virus... (ưu tiên các định dạng của hệ thống)
+txt_2_5_delete: Xóa
+txt_2_5_delete_fromarchive: Xóa từ file nén
+txt_2_5_langflag: Hiển thị tên các đối tượng của file nén dưới dạng UTF-8; không kiểm tra để thay thế các ký tụ "?"
+txt_2_5_encpj: Mã hóa công việc dưới dạng mã hóa văn bản UTF-8
+txt_2_5_execommand: Chương trình xuất ra hoặc dòng lệnh
+txt_2_5_help: Trợ giúp
+txt_2_5_langhint: Hint: thay thế các ký tự mở rộng với dấu "?" jolly character can improve syntax if archive's character set cannot be successfully converted on the current machine
+txt_2_5_mini_help: Hướng dẫn nhanh
+txt_2_5_offline_help: Trợ giúp của Peazip
+txt_2_5_tray: Thu nhỏ xuống Tray
+txt_2_5_remove: Loại bỏ
+txt_2_5_hintpaths: Click chuột phải để mở đường dẫn hệ thống và người dùng
+txt_2_5_selectapp: Chọn ứng dụng
+txt_2_5_strafter: Chuỗi sau tên nhập vào
+txt_2_5_strbefore: Chuỗi trước tên nhập vào
+txt_2_5_encoding: Chuyển mã văn bản
+txt_2_5_nopw: loại file nén này không được hỗ trợ mã hóa
+txt_2_4_draghint: [mở file trong Explorer với việc kích hoạt thanh địa chỉ]
+txt_2_4_tb: Cập nhật các nút trên thanh công cụ (khởi động lại PeaZip)
+txt_2_4_adding: Đang thêm
+txt_2_4_advclip: Nâng cao: giữ nhiều vùng lựa chọn trong clipboard (không trùng lặp), loại bỏ khi dán
+txt_2_4_yanswers: Trả lời
+txt_2_4_itemsheight: Tự động canh chỉnh chiều cao của đối tượng
+txt_2_4_clearclipboard: Làm rỗng clipboard (Esc)
+txt_2_4_wcommons: Tương tự
+txt_2_4_copyfrom: Sao chép từ
+txt_2_4_deletebookmarks: Bạn có muốn xóa danh sách các file và các folder được đánh dấu không?
+txt_2_4_documents: Tài liệu
+txt_2_4_wenc: Bách khoa toàn thư
+txt_2_4_extractfrom: Giải nén từ
+txt_2_4_hexp: Chế độ xem dạng Hex
+txt_2_4_operation: Quá trình
+txt_2_4_path: đường dẫn bị lỗi (thiếu, hoặc chỉ đọc), hãy lựa chọn một đường dẫn xuất dữ liệu khác
+txt_2_4_removefromclipboard: Xóa khoi clipboard
+txt_2_4_stdclip: Standard: giữ một vùng lựac chọn trong clipboard, xóa toàn bộ quá trình khi dán
+txt_2_4_totalmem: bộ nhớ tổng cộng
+txt_2_4_gvideo: Video
+txt_2_4_wbook: Sách Wiki
+txt_2_4_wnews: Tin Tức Wiki
+txt_2_4_wsrc: Nguồn Wiki
+txt_2_4_wdict: Từ điển Wiki
+txt_2_3_pw_errorchar: :ký tự này không thể được sử dụng trong phần mật mã của Peazip, hãy đổi mật khẩu khác hoặc chọn chế độ Console ở phần Công cụ->Thiết lập
+txt_2_3_envstr: Hiển thị các thông số biến
+txt_2_3_never_pw: Không yêu cầu mật khẩu
+txt_2_3_home: Giao diện chính
+txt_2_3_on_pw: Trong menu giải nén/danh sách/quá trình thử nghiệm của hệ thống:
+txt_2_3_test_pw100: Thử nghiệm mã hóa file nén<100MB 
+txt_2_3_test_pw: Thử nghiệm mã hóa (có thể chậm)
+txt_exclude_recourse: Đệ quy thư mục con "loại trừ"
+txt_action_extopen: Thao tác "Giải nén và mở bằng ứng dụng liên kết"
+txt_error_passwordnotmatch: "Mật khẩu" và "Xác nhận Mật khẩu" không trùng nhau, hãy xem lại
+txt_action_preview: Thao tác "Xem trước bằng ứng dụng liên kết"
+txt_preview_hint: Thao tác "Xem trước" thực hiện cùng tác vụ với "Giải nén và mở" nhưng vào một đường dẫn tạm thời trong thư mục đầu ra, sẽ tự động bị xóa khi kho lưu trữ được đóng.
+txt_better: (tốt hơn)
+txt_default2: (mặc định)
+txt_faster: (nhanh hơn)
+txt_fastermem: (nhanh hơn, tốn ít bộ nhớ)
+txt_tempdir: (Folder tạm của PeaZip)
+txt_stream: (tạo bởi "Điều khiển phân luồng")
+txt_slowermem: (chậm hơn, tốn bộ nhớ)
+txt_store: (lưu trữ, nhanh nhất)
+txt_newfolder: (trong folder mới)
+txt_7z_exitcodeunknown: : Lỗi chưa biết trong công việc
+txt_list_isfolder:  [folder]
+txt_none: <không>
+txt_fd: Đĩa mềm 1.44 MB
+txt_7z_exitcode1: 1: Cảnh báo: không phải lỗi hệ thống; vd: một vài file bị thiếu hoặc bị khóa
+txt_attach10: 10 MB (giới hạn kèm theo)
+txt_7z_exitcode2: 2: Đã xảy ra lỗi hệ thống
+txt_7z_exitcode255: 255: Công việc bị ngừng bởi người dùng
+txt_fat32: 4 GB (kích thước tối đa của file FAT32)
+txt_dvd: 4.7 GB DVD
+txt_attach5: 5 MB (giới hạn kèm theo)
+txt_cd650: 650 MB CD
+txt_7z_exitcode7: 7: Lỗi: dòng lệnh bị sai
+txt_cd700: 700 MB CD
+txt_type_description_7z: 7Z: tính năng nén file tối ưu
+txt_dvddl: 8.5 GB DVD DL
+txt_7z_exitcode8: 8: Lỗi: không đủ bộ nhớ để hoàn thành quá trình được yêu cầu
+txt_abort: Bỏ qua quá trinh sao chép/di chuyển file đã thao tác?
+txt_about: Thông tin
+txt_action: Thao tác
+txt_action_hint: Thao tác với các 
+txt_add: Thêm
+txt_add_existing_archive: thêm (nếu file nén tồn tại)
+txt_add_archive: Thêm file nén
+txt_add_files: Thêm file
+txt_add_folder: Thêm folder
+txt_add_path: Thêm đường dẫn
+txt_add_tolayout: Thêm file và folder đã chọn vào nội dung file nén
+txt_add_toarchive: Thêm vào file nén
+txt_add_tobookmarks: Thêm vào đánh dấu
+txt_address_hint: Địa chỉ: accepts wildcards ? for character and * for string; doesn't need " or ' delimiters
+txt_adv_filters: Lọc nâng cao
+txt_algo: Thuật toán
+txt_all: tất cả
+txt_all_default: Tất cả (mặc định)
+txt_all_type: Tất cả đối tượng của loại này
+txt_all_date:Tất cả đối tượng với ngày tháng...
+txt_all_psize: Tất cả đối tượng với dung lượng nén...
+txt_all_attributes: Tất cả đối tượng với cùng thuộc tính
+txt_all_size:Tất cả đối tượng với kích thước...
+txt_error_input_upx: cho phép một file tự chạy dưới dạng nhập dữ liệu vào
+txt_always_pw: Luôn luôn yêu cầu mật mã
+txt_ignore_ext: Luôn luôn bỏ qua các đường dẫn của "Giải nén và..."
+txt_ignore_disp: Luôn luôn bỏ qua các đường dẫn của "hiển thị Giải nén..."
+txt_ignore_sel: Luôn luôn bỏ qua các đường dẫn của "Giải nén được chọn..."
+txt_key_hint: Append keyfile's hash to password; the archive can be decrypted by PeaZip and other applications following the same standard, or entering the hash as part of the password
+txt_timestamp: Append timestamp to archive name
+txt_appoptions: Application options
+txt_type_description_arc: ARC: experimental archiver, powerful, efficient and feature-rich
+txt_archive: Nén
+txt_un7z_browse_ok: đã duyệt file nén thành công
+txt_interface: Giao diện duyệt file nén
+txt_archivecreation: Tạo file nén
+txt_tarbefore_hint: Dữ liệu nén ở định dạng TAR trước khi chọn định dạng khác.
+txt_archive_hint: Nén, tối ưu, chia cắt và lưu trữ file, folder, volumne 1 cách cá nhân
+txt_compressionratio_hint: Tỉ lện nén file
+txt_archiving: Đang nén:
+txt_cl_long: Các thông số dường như đã vượt khỏi dung lượng cho phép của PeaZip, hãy chọn file nhập vào ít hơn(vd: select chọn các folder thay vì từng file một)
+txt_overwrite_askbefore: Hỏi trước khi ghi đè (sử dụng trong chế độ console)
+txt_associated: ứng dụng thích hợp
+txt_attributes: Thuộc tính
+txt_author: Tác giả
+txt_ren_existing: Tự động đổi tên các file đã tồn tại
+txt_ren_extracted: Tự động đổi tên các file đã giải nén
+txt_autofolder: Tự động tạo một folder mới và giải nén file vào đó?
+txt_back: Quay lại
+txt_backend: Backend binaries user interface
+txt_backupexe: Sao lưu file tự chạy (khuyến khích)
+txt_bettercompression: nén tốt hơn
+txt_blogs: Blogs
+txt_blowfish: Blowfish448 (64 bit blocks)
+txt_bookmarks: Đánh dấu
+txt_browse: Duyệt
+txt_browser: Trình duyệt
+txt_aborted_error: Duyệt file nén đã dừng lại, it would take too much time. You can narrow the selection using search or filters functions (or exiting "Flat view"); extract/list/test operations are not affected by this issue.
+txt_list_browsing: Đang duyệt:
+txt_archive_root: Đang duyệt: thư mục gốc của file nén
+txt_type_description_bzip2: BZip2: nén tương đối tốt, tốc độ trung bình
+txt_pw_empty: Không chấp nhận mật khẩu trống, hãy cung cấp mật khẩu hoặc bỏ chọn phần "Mã hóa"
+txt_add_error: Không thể thêm/cập nhật hoặc xóa đối tượng; có thể định dạng nén này chỉ cho phép duyệt/giải nén, hoặc không hỗ trợ các thao tác của hệ thống(vd: có quá nhiều file nén trong đó hoặc quá đầy ),hoặc Peazip không thể thao tác với loại định dạng tên file này
+txt_un7z_browse_failure: không thể duyệt file nén
+txt_list_error: Không thể lập danh sách nội dung file nén, hãy kiểm tra lại mật khẩu có thể bị sai hoặc bị lỗi.
+txt_conf_cannotsave: Không thể lưu file thiết lập, hãy kiểm tra lại độ chính xác của đường dẫn và dung lượng còn trống
+txt_check_hint: Kiểm tra các lỗi sai dư liệu thông thường; thuật toán Hash làm rất tốt công việc này (xem phần tài liệu đi kèm)
+txt_check: Checksum/file hash
+txt_check_select: Thực hiện Checksum/hash 
+txt_clear: Làm rỗng
+txt_clearlayout: Làm rỗng file nén
+txt_pj_hint: Click để nhập công viẹc, thiết lập lại các thay đổi và tải lại lại đích ngày tháng từ GUI
+txt_autoclose: Đóng PeaLauncher khi công việc hoàn tất
+txt_cl: dòng lệnh:
+txt_compare: So sánh file
+txt_compress: Nén
+txt_compress_executable: File nén tự chạy
+txt_compress_openforwriting: Nén file cho phép chỉnh sửa
+txt_compression: Nén file
+txt_compmanagement: Quản lý máy tính
+txt_pw_confirm: Xác nhận mật khẩu
+txt_console: Console
+txt_console_interface: Console: giao diện thô
+txt_content: Nội dung
+txt_controlpanel: Control panel
+txt_convert: Chuyển ổ đĩa sang dạng NTFS
+txt_copy: Sao chép
+txt_copyto: Sao chép đến...
+txt_create: Tạo
+txt_create_archive: Tạo file nén
+txt_title_create: Tạo file ne, mã hóa, chia cắt...
+txt_create_keyfile: Tạo khóa file
+txt_create_folder: Tạo folder mới
+txt_create_theme: Tạo giao diện mới từ thiết lập hiện tại:
+txt_rr: Tạo bản lưu trữ dự phòng
+txt_create_sfx: Tạo file nén tự chạy
+txt_cr_current: Đường dẫn hiện tại hoặc tỉ lệ bộ lọc nén tỉ lệ
+txt_custom: Tự chọn
+txt_type_description_custom: Tự chọn (nâng cao): điền vào tên file tự chạy và các thông số
+txt_customapp: tự chọn ứng dụng
+txt_custom_parameters: Thông số tự chọn
+txt_customsize: Kích thước tự chọn
+txt_cut: Cắt
+txt_datetime: Ngày/thời gian
+txt_default: mặc định
+txt_default_compression: nén mặc định
+txt_default_format: Định dạng mặc định
+txt_theme_default: Giao diện mặc định
+txt_hard_reset_hint: Xóa file đánh dấu
+txt_desktop: Desktop
+txt_dictionary: Tụ điển
+txt_dirs: thư mục,
+txt_dis: Disambiguation:
+txt_disk_cleanup: Dọn dẹp ổ đĩa
+txt_disk_defrag: Phân mảnh ổ đĩa
+txt_disk_management: Quản lý ỗ đĩa
+txt_dispaly: Trình bày kết quả như
+txt_displayedmnu_obj: được trình bày
+txt_displayedobjects: đối tượng được trình bày
+txt_nocompress: không nén
+txt_delete: Bạn có muốn xóa các file được chọn không? Quá trình này không thể hủy bỏ và bạn không thể phục hồi các file này từ Recycle Bin.
+txt_wipe: Bạn có muốn xóa các file được chọn một cách an toàn không? Quá trình này không thể hủy bỏ và bạn không thể phục hồi các file này.
+txt_done: Hoàn tất
+txt_edit: Sửa
+txt_elapsed: còn lại:
+txt_error_emptycl: Loại bỏ dòng lệnh!
+txt_encrypt: Mã hóa
+txt_encrypted: đã mã hóa
+txt_encryption: Sự mã hóa
+txt_note: Điền vào ghi chú/miêu tả
+txt_random_keys: Điền vào khóa ngẫu nhiên
+txt_random_keys_hint:  Điền vào khóa ngẫu nhiên (bạn không cần phải nhớ)
+txt_ent: Enthropy evaluation
+txt_ent_tools: Enthropy sampling tools
+txt_eqorlarger: bằng hoặc lớn hơn đối tượng được chọn
+txt_eqorrecent: bằng hoặc thường xuyên hơn đối tượng được chọn
+txt_eqorolder: bằng hoặc lâu hơn đối tượng được chọn
+txt_eqorsmaller: bằng hoặc nhỏ hơn đối tượng được chọn
+txt_equal: bằng đối với đối tượng được chọn
+txt_erase_hint: Xóa file: ghi đè lên với dữ liệu ngẫu nhiên, kích thước mặt nạ, đổi tên, và sau cùng là xóa
+txt_extraction_error: Lỗi xảy ra khi giải nén các đối tượng được chọn. Nếu file nén được bảo vệ bằng mật mã thì hãy điền vào mật mã.
+txt_exclude_hint: Xuất file, mỗi file mỗi dòng; sử dụng * và ? wildcards; " và ' delimiters are not needed
+txt_exclusion_recourse: Loại trừ bộ lọc nguồn của thư mục con
+txt_exclusion: Loại trừ:
+txt_exe: Tự chạy
+txt_overwrite_qry: tồn tại ở đường dẫn đích; ghi đè lên file với cùng tên từ đường dẫn gốc? (Hủy bỏ: bỏ qua việc sao chép đối tượng này)
+txt_confirm_overwrite: đã tồn tại; ghi đè lên? (không thể bỏ qua)
+txt_explore_outpath: Chọn đường dẫn xuất dữ liệu
+txt_explore_path: Chọn đường dẫn
+txt_ext: G.nén:
+txt_caption_extract: Giải nén
+txt_ext_nopath: Giải nén (không có đường dẫn)
+txt_ext_all: Giải nén tất cả
+txt_ext_allhere: Giải nén tất cả ở đây
+txt_ext_allto: Giải nén tất cả đến
+txt_extopen_custom: Giải nén và mở với chương trình tương thích
+txt_extopen_with:Giải nén và mở với...
+txt_ext_disp_here: Trình bày giải nén ở đây
+txt_ext_disp: Trình bày đối tượng giải nén
+txt_ext_disp_to: Trình bày đối tượng giải nén đến...
+txt_ext_here: Giải nén ở đây
+txt_ext_sel_here: Giải nén đối tượng ở đây
+txt_ext_sel: Giải nén đối tượng được chọn
+txt_ext_sel_to: Giải nén đối tượng được chọn đến...
+txt_extobj: Giải nén the đối tượng
+txt_newfoldermenu: Giải nén ở folder mới
+txt_extto: Giải nén đến...
+txt_level_fast: nhanh
+txt_fastcompr: nén nhanh
+txt_fastopen: Fast open routine, stop browsing if list exceeds
+txt_level_fastest: nhanh nhất
+txt_favformats: Định dạng yêu thích
+txt_file: File
+txt_filebrowser: Trình duyệt file / file nén
+txt_filetools: Công cụ file
+txt_files: file,
+txt_nfiles: File
+txt_fs: File hệ thống
+txt_filters_recourse: bộ lọc file nguồn của thư mục con
+txt_filters: Bộ lọc
+txt_flat: Bằng phẳng (hiển thị hết)
+txt_list_flat: Xem bằng phẳng:
+txt_unit_floppy: Đĩa mềm
+txt_foldername: Tên Folder
+txt_nfolders: Folder
+txt_error_input_multi: format allows a single file as input; you can use "TAR before" switch to save input in a .TAR archive before, otherwise you can chose another format. HINT: chose archive format after had selected input data: "TAR before" switch will be automatically set
+txt_fwd: Trước đó
+txt_list_found: Đã tìm thấy:
+txt_free: Tự do
+txt_free2: tự do
+txt_name_full: Tên đầy đủ
+txt_function: Chức năng
+txt_general: Tổng quát
+txt_multithreading: generic multithreading
+txt_go_browser: Đi đến trình duyệt file
+txt_go_path: Duyệt tìm đường dẫn (với PeaZip)
+txt_guicl: Đồ họa + console
+txt_guipealauncher: Đồ họa: bao bọc bởi PeaLauncher
+txt_graphic: Folder của  Đồ họa
+txt_gridaltcolor: Grids alternate color
+txt_gridrowheight: Grids row height
+txt_gui: GUI
+txt_type_description_gzip: GZip: nén nhanh
+txt_here: ở đây
+txt_list_history: Lịch sử
+txt_homeroot: Cấp độ nén của máy tính/file nén
+txt_quickbrowse_hint: Nếu trình duyệt không hoạt động, người dùng có thể lựa chọn kỹ hơn bằng cách sử dụng tính năng tìm kiếm hoặc bộ lọc. Bộ lọc giải nén/danh sách/thử nghiệm không hề tác động vào đối tượng.
+txt_backupexe_hint: Nếu có trục trặc xảy ra và ảnh hưởng đến kết quả của việc hiển thị, bạn có thể khôi phục lại nguyên bản bằng cách sao lưu dự phòng
+txt_attach: Nếu chương trình email hỗ trợ dòng lệnh đó, file nén sẽ được đính kèm vào một mail mới.
+txt_images: Hình ảnh
+txt_include_hint: Bao gồm các file, mỗi cái mỗi dòng; sử dụng * và ? wildcards; " và ' không cần thiết
+txt_filters_hint: Inclusion and exclusion filters for 7z binary, please carefully read 7-Zip documentation to understand how those filters works
+txt_inclusion_recourse: Bao gồm bộ lọc nguồn từ thư mục con
+txt_inclusion: Bao gồm:
+txt_error_function: Tính năng yêu cầu không đúng
+txt_info: Thông tin
+txt_infoall: Thông tin về tất cả
+txt_infodisp: Thông tin về đối tượng hiển thị
+txt_infosel: Thông tin về đối tượng được chọn
+txt_inputinfo: Thông tin nhập vào
+txt_input_list: Danh sách nhập vào:
+txt_iop: nhập, xuất, thông số dữ liệu
+txt_ipo: nhập, thông số, xuất dữ liệu
+txt_input: nhập dữ liệu:
+txt_integrity: Kiểm tra sự toàn vẹn
+txt_chunk_size: Kích thước tự chọn không đúng, hãy sửa lại với một giá trị số
+txt_invertsel: Đảo ngược vùng lựa chọn
+txt_type_exe: làm một chương trình tự chạy trong môi trường Windows, bạn có muốn chạy file này không? ("Không" để mở trong chế độ duyệt file nén của Peazip; chỉ có NSIS installers, 7-Zip's sfx và .MSI installers có thể duyệt bằng cách đó)
+txt_return_to_archive: đang được mở; bạn có muốn duyệt file nén này không?
+txt_not_accessible: không thể truy cập được
+txt_type_unsupported: không phải loại file nén được hỗ trợ
+txt_checkname_failed: không phải là tên file hợp lệ.
+txt_not_accessible_list: không thể truy cập được, hãy kiểm tra nếu danh sách file này là hợp lệ và đã được cập nhật cho tới thời điểm này.
+txt_theme_create_error: Không thể tạo được một file giao diện, thử sử dụng một tên đúng cho thư mục cho tên file giao diện và chọn một đường dẫn có thể ghi.
+txt_theme_exists: đã có, hãy cung cấp một đường dẫn khác
+txt_job_code: mã công việc:
+txt_job_definition_saved: Công việc đã được lưu thành công vào
+txt_job_success: Công việc đã hoàn tất thành công!
+txt_join: Nối
+txt_joinfiles: Nối file
+txt_keyfile: Khóa của file
+txt_keyfile_not_found: Khóa của file không thể tìm thấy hoặc đọc được. Hãy chọn một khóa file khác.
+txt_keyfile_notcreated: Khóa file chưa được tạo
+txt_larger: lớn hơn đối tượng được chọn
+txt_lastused: Lần cuối dùng
+txt_launch: Tải công việc
+txt_layout: Nội dung
+txt_filelist_savedas: Lưu nội dung dưới dạng
+txt_level: Cấp độ
+txt_license: Bản quyền
+txt_caption_list: Danh sách
+txt_list_details: Danh sách (với chi tiết)
+txt_list_all: Lập danh sách tất cả
+txt_list_disp: Lập danh sách các đối tượng được hiển thị
+txt_list_sel: Lập danh sách các đối tượng được chọn
+txt_toggle_warning: Listing flat view of path's content may take long time, continue anyway?
+txt_loadfile: Tải file
+txt_loadlayout: Tải nội dung
+txt_unit_hd: Ổ đĩa hệ thống
+txt_localization: Ngôn ngữ giao diện
+txt_lpaqver: Phiên bản LPAQ
+txt_type_description_lpaq: LPAQ: phiên bản nhanh hơn của PAQ, nén rất tốt
+txt_maininterface: Giao diện chính
+txt_maxcomp: Chế độ nén tối đa
+txt_level_maximum: tối đa
+txt_restartrequired: Có thể yêu cầu khởi động lại để có thể có hiệu lực
+txt_required_memory: Số lượng MB mà bộ nhớ cần
+txt_method: Phương pháp
+txt_misc: Tổng hợp
+txt_modify: Hiệu chỉnh
+txt_morecontrols: Thêm phần điều khiển (lịch sử, đánh dấu ...)
+txt_morerecent: thêm phần các đối tượng mở gần đây so với phần được chọn
+txt_ent_hint: Di chuyển chuột, điền vào khóa trong khung sửa, tải file để thu thập dữ liệu từ hệ thống...
+txt_moveto: Di chuyển đến...
+txt_mypc: Gốc của máy tính
+txt_list_na: n/a
+txt_name: Tên
+txt_naming: Đặt tên chính sách
+txt_unit_remote: Ổ đĩa mạng lưới
+txt_newarchive: file nén mới
+txt_cnewfolder: Thư mục mới
+txt_news: Tin tức
+txt_no: Không
+txt_noinput: Không thể truy cập dữ liệu được nhập vào
+txt_nocompress_hint: không nén (nhanh hơn)
+txt_split_noinput: Chưa chọn đầu vào; vui lòng chọn một tệp để chia
+txt_open_noinput: Chưa chọn đầu vào; vui lòng chọn một kho lưu trữ (tập tin đầu tiên của kho lưu trữ nhiều tập)
+txt_list_nomatch: không khớp
+txt_singlethread: không đa luồng
+txt_none2: không
+txt_nonsolid: Không khối (Non-solid)
+txt_level_normal: thông thường
+txt_copy_error: không sao chép hoặc di chuyển thành công, mã lỗi:
+txt_description: Ghi chú/mô tả
+txt_compare_second: Bây giờ chọn tệp để so sánh với
+txt_peaobj: Điều khiển đối tượng
+txt_displayed_obj: đối tượng
+txt_olderthan: cũ hơn đối tượng đã chọn
+txt_on: vào
+txt_ondblclick: Khi nhấp đúp thực hiện:
+txt_opacity: Độ mờ
+txt_open: Mở
+txt_openarchive: Mở kho lưu trữ
+txt_title_open: Mở kho lưu trữ, giải mã, nối...
+txt_open_bookmark: Mở dấu trang
+txt_cphere: Mở dấu nhắc lệnh tại đây
+txt_open_file: Mở tệp
+txt_open_files: Mở tệp
+txt_open_path: Mở đường dẫn
+txt_opensource: Trình lưu trữ di động mã nguồn mở
+txt_openwith: Mở bằng...
+txt_aborted: Thao tác đã bị hủy
+txt_unit_cd: Ổ đĩa quang
+txt_options: Tùy chọn
+txt_other: Khác
+txt_otherparams: Các tham số khác (chỉnh sửa tự do)
+txt_oip: đầu ra, đầu vào, tham số
+txt_opi: đầu ra, tham số, đầu vào
+txt_output: đầu ra:
+txt_overwrite: Ghi đè các tệp hiện có
+txt_compressed_size: Đã đóng gói
+txt_paqver: Phiên bản PAQ
+txt_type_description_paq: PAQ: trình nén chậm nhưng cực kỳ mạnh mẽ
+txt_pio: tham số, đầu vào, đầu ra
+txt_poi: tham số, đầu ra, đầu vào
+txt_parameters: Tham số:
+txt_error_partial: Giải nén một phần chưa được triển khai cho loại kho lưu trữ hiện tại
+txt_passes: Số lần chạy
+txt_pw: Mật khẩu
+txt_pwlength: Độ dài mật khẩu tính bằng ký tự (4..64)
+txt_un7z_browse_pw: có thể cần mật khẩu
+txt_un7z_browse_pw_other: mật khẩu có thể sai
+txt_paste: Dán
+txt_path: Đường dẫn:
+txt_pea_appcolor: Màu ứng dụng Pea
+txt_pea_textcolor: Màu văn bản Pea
+txt_type_description_pea: PEA: định dạng kho lưu trữ định hướng bảo mật với nén nhanh
+txt_peazip_new: PeaZip (phiên bản mới)
+txt_peazip_help: Trợ giúp PeaZip (trực tuyến)
+txt_peazip_web: Trang web dự án PeaZip
+txt_performall: Thực hiện tất cả các thuật toán được hỗ trợ
+txt_name_provide: Tên mới (vui lòng tránh các ký tự \ / : * ? ' " < > |)
+txt_upxorstrip: Vui lòng chọn Strip và/hoặc UPX trên tệp nhị phân
+txt_not_removable_file: Vui lòng đóng tệp đang được sử dụng, để PeaZip có thể xóa nó:
+txt_not_removable: Vui lòng đóng các tệp đang được sử dụng, để PeaZip có thể xóa thư mục:
+txt_custom_executable_missing: Vui lòng cung cấp tên của tệp thực thi tùy chỉnh
+txt_type_unsupported_select: Vui lòng chọn một loại kho lưu trữ được hỗ trợ:
+txt_no_theme_name: Vui lòng chỉ định tên chủ đề
+txt_please_wait: Vui lòng chờ
+txt_copy_wait: Vui lòng chờ các thao tác sao chép/di chuyển tệp đã lên lịch hiện tại hoàn tất trước khi lên lịch các thao tác khác cùng loại
+txt_previewwith: Xem trước bằng...
+txt_projectadmin: Quản trị viên dự án:
+txt_type_description_quad: BALZ/QUAD: trình nén tệp dựa trên ROLZ hiệu suất cao
+txt_quickdelete: Xóa nhanh
+txt_quit: Thoát
+txt_unit_ram: Ổ đĩa RAM
+txt_read: Đọc:
+txt_recentarchives: Kho lưu trữ gần đây
+txt_rr_hint: Các bản ghi phục hồi cho phép cố gắng sửa chữa kho lưu trữ trong trường hợp dữ liệu bị hỏng
+txt_search_refine: Tinh chỉnh bộ lọc tìm kiếm, chấp nhận các ký tự đại diện ? và *
+txt_fefreshf5: Làm mới (F5)
+txt_release: phiên bản:
+txt_unit_removable: Ổ đĩa di động
+txt_remove_bookmark: Xóa dấu trang
+txt_remove_external_unit: Xóa ổ đĩa ngoài
+txt_removeselected: Xóa đối tượng đã chọn
+txt_rename: Đổi tên
+txt_caption_repair: Sửa chữa
+txt_restartrequired2: yêu cầu khởi động lại ứng dụng để áp dụng
+txt_reset: Đặt lại
+txt_reset_archivename: Đặt lại tên kho lưu trữ
+txt_hardreset: Đặt lại dấu trang
+txt_reset_theme: Đặt lại về chủ đề nhúng
+txt_restore_att: khôi phục các thuộc tính gốc
+txt_run_as: Chạy với tư cách (không thể chuyển sang người dùng có mật khẩu trống)
+txt_run_as2: Chạy với tư cách người dùng khác
+txt_sample: Mẫu: 
+txt_saveas: Lưu thành
+txt_savehistory: Lưu lịch sử kho lưu trữ được sử dụng gần đây nhất
+txt_save_infolder: Lưu trong thư mục (tự động)
+txt_savejob: Lưu tác vụ
+txt_savejobdefinition: Lưu định nghĩa tác vụ
+txt_savejobdefinition_hint: Lưu định nghĩa tác vụ dưới dạng văn bản thuần túy; bạn có thể sử dụng nó từ các script của mình
+txt_savelayout: Lưu bố cục
+txt_save_winstate: Lưu trạng thái cửa sổ chính
+txt_search: Tìm kiếm (đệ quy, có thể mất một lúc)
+txt_searchanddrag: Tìm kiếm và kéo vào đây
+txt_searchfor: Tìm kiếm
+txt_nrsearch: Tìm kiếm tại đây (không đệ quy)
+txt_search_hint: Tìm kiếm trong các thư mục con của kho lưu trữ các mục khớp với bộ lọc
+txt_search_web: Tìm kiếm trên web
+txt_list_searching: Đang tìm kiếm...
+txt_securedelete: Xóa an toàn
+txt_default_description: Chọn một chức năng hoặc kéo tệp vào đây
+txt_selectall: Chọn tất cả
+txt_selectdir: Chọn thư mục
+txt_selected_obj: đã chọn
+txt_selected_objects: Các đối tượng đã chọn
+txt_sfx: Tự giải nén
+txt_sendbymail: Gửi qua thư (nếu được hỗ trợ)
+txt_set_defaults: Đặt các tham số mặc định của ứng dụng
+txt_settings: Cài đặt
+txt_sfx_interface: giao diện sfx
+txt_showhints: Hiển thị gợi ý
+txt_show_messages: Hiển thị thông báo thông tin
+txt_showpw: Hiển thị nội dung trường mật khẩu
+txt_singlevol: Một tập
+txt_size: Kích thước
+txt_sizeb: Kích thước (B)
+txt_skip_existing: Bỏ qua các tệp hiện có
+txt_slowercomp: nén chậm hơn nhưng giải nén nhanh như nhau
+txt_smaller: nhỏ hơn đối tượng đã chọn
+txt_solid: Khối (Solid)
+txt_solid_block: Khối rắn
+txt_solid_auto: Khối, tự động điều chỉnh
+txt_solid_extension: Khối, nhóm theo phần mở rộng
+txt_listtest: xin lỗi, thao tác liệt kê/kiểm tra chưa được triển khai cho định dạng này
+txt_sortbysel: Sắp xếp theo trạng thái lựa chọn
+txt_list_sorting: Đang sắp xếp...
+txt_speed: tốc độ
+txt_split: Chia
+txt_type_description_split: Chia một tệp với kiểm tra tính toàn vẹn tùy chọn
+txt_split_file: Chia tệp
+txt_list_nostats: số liệu thống kê không khả dụng
+txt_status: Trạng thái
+txt_level_store: lưu trữ
+txt_stream_control: Kiểm soát luồng
+txt_strip: Tách trước UPX (khuyến nghị)
+txt_keyfile_created: Đã tạo KeyFile thành công dưới dạng:
+txt_suggestpw: Đề xuất mật khẩu
+txt_noupx: Các ký hiệu đã được tách, bỏ qua nén UPX
+txt_syntax: Cú pháp:
+txt_sysbenchmark: Điểm chuẩn hệ thống
+txt_benchmark: Điểm chuẩn hệ thống sẽ mất vài phút và sẽ sử dụng tất cả tài nguyên CPU và bộ nhớ khả dụng. Hệ thống có thể không phản hồi trong quá trình kiểm tra; vẫn chạy chứ?
+txt_systools: Công cụ hệ thống
+txt_tarbefore: TAR trước
+txt_type_description_tar: TAR: định dạng lưu trữ phổ biến trên các hệ thống UNIX
+txt_taskman: Trình quản lý tác vụ
+txt_caption_test: Kiểm tra
+txt_testall: Kiểm tra tất cả
+txt_testdisp: Kiểm tra đối tượng đang hiển thị
+txt_testpw: Kiểm tra mật khẩu / tệp khóa
+txt_testsel: Kiểm tra đối tượng đã chọn
+txt_col_hint: Màu sắc nên được chọn để hài hòa với màu biểu tượng và các yếu tố GUI khác
+txt_bookmarks_hint: Danh sách đầy đủ và có thể chỉnh sửa của dấu trang có sẵn trong giao diện trình duyệt tệp, nhấp vào biểu tượng "More controls" (Thêm điều khiển) và "Toggle history/bookmarks" (Bật/tắt lịch sử/dấu trang)
+txt_archive_noinput_tolist: Bố cục trống: vui lòng sử dụng Add file(s), Add folder(s) hoặc Load Layout để điền vào bố cục kho lưu trữ
+txt_theme: Chủ đề
+txt_icons_found: Đã tải chủ đề thành công.
+txt_themename: Tên chủ đề
+txt_icons_not_found: Chủ đề không tải đúng. Thử chuyển sang chủ đề mặc định, hoặc một chủ đề đã biết là hoạt động.
+txt_theme_create_success: đã tạo chủ đề thành công tại
+txt_theming: Chủ đề hóa
+txt_extand_error: Chức năng này chỉ có thể được thực hiện trên một đối tượng tại một thời điểm
+txt_threads: Luồng
+txt_titlescolor: Màu tiêu đề
+txt_to: đến
+txt_toggle_browseflat: Bật/tắt chế độ xem duyệt/phẳng
+txt_toggle_historybookmarks: Bật/tắt lịch sử/dấu trang
+txt_toolbarscolor: Màu thanh công cụ
+txt_tools: Công cụ
+txt_best: thử cài đặt tốt nhất (chậm)
+txt_type: Loại
+txt_level_ultra: ultra
+txt_error_openfile: Không thể mở tệp đã chỉ định
+txt_cl_hint: UNACE và UPX luôn chạy bằng chế độ console; các tác vụ liệt kê, kiểm tra và điểm chuẩn luôn chạy bằng chế độ GUI
+txt_ace_missing: Plugin UNACE bị thiếu; để xử lý các kho lưu trữ ACE, bạn có thể tải xuống plugin từ trang web của PeaZip (vì UNACE là mã nguồn đóng, plugin không có trong gói cơ bản)
+txt_units: ổ đĩa
+txt_unit_unknown: Loại ổ đĩa không xác định
+txt_un7z_pw_untested: Chưa kiểm tra
+txt_up: Lên
+txt_update: cập nhật (nếu kho lưu trữ tồn tại)
+txt_type_description_upx: UPX: chỉ nén các tệp thực thi
+txt_advfilters: Sử dụng bộ lọc nâng cao
+txt_openfiles_hint: Sử dụng tùy chọn này để bao gồm các tệp đang được các ứng dụng khác mở để ghi vào kho lưu trữ (hữu ích trong các tác vụ sao lưu)
+txt_usenet: Usenet
+txt_user_name: Tên người dùng; sử dụng user@DOMAIN hoặc DOMAIN\user nếu cần.
+txt_using: Đang sử dụng:
+txt_volumepea: Điều khiển âm lượng
+txt_volume_size: Kích thước âm lượng
+txt_type_ext_uns: đã được giải nén thành công
+txt_websearch: Tìm kiếm trên web
+txt_websites: Trang web
+txt_word: Từ
+txt_write: Ghi:
+txt_ramdompw_hint: Bạn có thể sao chép mật khẩu được tạo ngẫu nhiên từ đây
+txt_exe_hint: Bạn có thể tự do nhập tên tệp thực thi và tham số cho nén tùy chỉnh, và chọn cấu trúc cú pháp. Xin lưu ý rằng bạn cũng có thể thay đổi cú pháp lệnh theo cách thủ công trong tab "Console".
+txt_pj_hint2: Bạn có thể nhập định nghĩa tác vụ từ giao diện người dùng GUI vào trường ghi nhớ bên dưới. Sau đó, bạn có thể chỉnh sửa, khởi chạy hoặc lưu nó mà không thay đổi hoặc làm mất tác vụ đã định nghĩa cho giao diện người dùng GUI.
+txt_type_description_zip: ZIP: định dạng nén/lưu trữ nhanh, phổ biến trên các hệ thống Windows
+txt_zipcrypto_hint: ZipCrypto (cũ)
+
+=== end PeaZip text group ===
+
+=== PeaLauncher text group ===
+
+txt_6_9_remaining: còn lại
+txt_6_5_abort: Hủy bỏ
+txt_6_5_error: Lỗi
+txt_6_5_no: Không
+txt_6_5_warning: Cảnh báo
+txt_6_5_yes: Có
+txt_6_5_yesall: Có cho tất cả
+txt_5_6_update: Kiểm tra cập nhật
+txt_5_6_cml: Ngôn ngữ menu ngữ cảnh hệ thống
+txt_5_6_donations: Quyên góp
+txt_5_6_localization: Bản địa hóa
+txt_5_6_runasadmin: Chạy với tư cách quản trị viên
+txt_5_6_help: Hỗ trợ trực tuyến
+txt_5_5_cancelall: Hủy tất cả
+txt_5_3_details: Chi tiết
+txt_5_3_files: tệp
+txt_5_3_folders: thư mục
+txt_5_3_info: Thông tin
+txt_5_3_list: Danh sách
+txt_5_3_os: Kích thước gốc
+txt_5_3_ps: Kích thước đóng gói
+txt_5_3_test: Kiểm tra
+txt_5_0_extract: Giải nén
+txt_5_0_from: từ
+txt_5_0_in: trong
+txt_5_0_to: đến
+txt_4_5_search: tìm kiếm
+txt_4_0_drag: Kéo kho lưu trữ vào đây để giải nén, hoặc
+txt_4_0_dragorselect: Kéo vào đây hoặc chọn tệp
+txt_4_0_select: chọn tệp
+txt_3_6_selectdir: Chọn thư mục
+txt_3_5_close: Đóng
+txt_3_0_details: Để biết thêm chi tiết, vui lòng xem tab "Report" (Báo cáo) để xem nhật ký tác vụ đầy đủ và tab "Console" (Bảng điều khiển) để xem định nghĩa tác vụ dưới dạng dòng lệnh.
+txt_3_0_hints: Gợi ý về lỗi
+txt_3_0_arc: Các nguyên nhân có thể gây ra lỗi có thể là tệp đầu vào không đọc được (bị khóa, không thể truy cập, bị hỏng, thiếu tập trong kho lưu trữ nhiều phần...), hoặc đường dẫn đầu ra đầy hoặc không thể truy cập.
+txt_3_0_ext: Kho lưu trữ có thể yêu cầu mật khẩu khác cho thao tác hiện tại.
+txt_2_8_oop: Mở đường dẫn đầu ra khi tác vụ hoàn tất
+txt_2_7_validatefn: Thao tác bị dừng, phát hiện tên tệp không hợp lệ:
+txt_2_7_validatecl: Thao tác bị dừng, phát hiện lệnh có khả năng nguy hiểm (tức là không cho phép nối lệnh trong chương trình):
+txt_2_6_open: Mở kho lưu trữ
+txt_2_5_ace_missing: Plugin UNACE bị thiếu; để xử lý các kho lưu trữ ACE, bạn có thể tải xuống plugin từ trang web của PeaZip (vì UNACE là mã nguồn đóng, plugin không có trong gói cơ bản)
+txt_2_3_pw_errorchar_gwrap: : ký tự này không thể được PeaLauncher sử dụng trong mật khẩu dưới hệ thống hiện tại, vui lòng thay đổi mật khẩu hoặc sử dụng PeaZip trong chế độ Console (Tools > Settings)
+txt_2_3_renameexisting: Tự động đổi tên các tệp hiện có
+txt_2_3_renameextracted: Tự động đổi tên các tệp đã giải nén
+txt_2_3_cancel: Hủy bỏ
+txt_2_3_encryption: Mã hóa
+txt_2_3_extinnew: Giải nén vào thư mục mới
+txt_2_3_keyfile: Keyfile (Tệp khóa)
+txt_2_3_kf_not_found_gwrap: Không thể tìm thấy hoặc đọc Keyfile. Vui lòng chọn Keyfile khác.
+txt_2_3_moreoptions: Thêm tùy chọn...
+txt_2_3_nopaths: Không có đường dẫn
+txt_2_3_options: Tùy chọn
+txt_2_3_overexisting: Ghi đè các tệp hiện có
+txt_2_3_pw: Mật khẩu
+txt_2_3_skipexisting: Bỏ qua các tệp hiện có
+txt_job_unknown: : Lỗi không xác định đã xảy ra
+txt_stdjob: [hoạt hình sẽ dừng khi tác vụ hoàn tất]
+txt_benchmarkjob: [hệ thống sẽ phản hồi chậm trong khi chạy điểm chuẩn (vài phút)]
+txt_defragjob: [sẽ không phản hồi trong khi chống phân mảnh, bạn có thể để nó chạy trong nền]
+txt_consolejob: [bạn có thể xem tiến trình chi tiết trong cửa sổ console của tác vụ]
+txt_job1: 1: Cảnh báo: lỗi không nghiêm trọng; tức là một số tệp bị thiếu hoặc bị khóa
+txt_job127: 127: Không thể thực hiện thao tác được yêu cầu
+txt_job2: 2: Đã xảy ra lỗi nghiêm trọng
+txt_job255: 255: Tác vụ bị người dùng dừng
+txt_job7: 7: Lỗi: nhận được dòng lệnh không chính xác
+txt_job8: 8: Lỗi: không đủ bộ nhớ cho thao tác được yêu cầu
+txt_autoclose: Đóng cửa sổ này khi tác vụ hoàn tất
+txt_crscale: Tỷ lệ nén (càng thấp càng tốt):
+txt_console: Bảng điều khiển (Console)
+txt_benchscale: Xếp hạng Core 2 Duo 6600, tốc độ MHz tương đương.
+txt_create: Tạo
+txt_done: Hoàn thành:
+txt_nocl: Dòng lệnh trống
+txt_error: Lỗi:
+txt_explore: Khám phá
+txt_extto: Giải nén đến
+txt_halt: Dừng hệ thống khi tác vụ hoàn tất
+txt_halted: Đã dừng:
+txt_hardware: phần cứng
+txt_high: ưu tiên cao
+txt_idle: ưu tiên rỗi
+txt_input: Đầu vào:
+txt_jpaused: Tác vụ đã tạm dừng
+txt_jresumed: Tác vụ đã tiếp tục
+txt_job_started: Tác vụ đã bắt đầu
+txt_jobstatus: Trạng thái tác vụ:
+txt_jstopped: Tác vụ bị người dùng dừng
+txt_jobstopped: Tác vụ bị người dùng dừng; bạn có thể kiểm tra kết quả một phần của tác vụ bằng cách nhấp vào nút "Khám phá" hoặc đọc nhật ký tác vụ
+txt_job_success: Tác vụ hoàn thành thành công
+txt_lt: Liệt kê/kiểm tra/sửa chữa kho lưu trữ
+txt_normal: ưu tiên bình thường
+txt_ok: OK
+txt_output: Đầu ra:
+txt_pause: Tạm dừng
+txt_paused: đã tạm dừng,
+txt_p_high: Độ ưu tiên được đặt thành cao
+txt_p_idle: Độ ưu tiên được đặt thành rỗi
+txt_p_normal: Độ ưu tiên được đặt thành bình thường
+txt_p_realtime: Độ ưu tiên được đặt thành thời gian thực
+txt_rating: Xếp hạng:
+txt_rt: ưu tiên thời gian thực
+txt_report: Báo cáo
+txt_resume: Tiếp tục
+txt_priority: Nhấp để đặt độ ưu tiên của tác vụ
+txt_running: đang chạy,
+txt_isrunning: Đang chạy...
+txt_saveas: Lưu thành
+txt_savejob: Lưu định nghĩa tác vụ (có thể bao gồm mật khẩu!)
+txt_savelog: Lưu nhật ký tác vụ
+txt_software: phần mềm
+txt_speedscale: Tốc độ, thang logarit (càng cao càng tốt):
+txt_status: Trạng thái
+txt_stop: Dừng
+txt_bench: Điểm chuẩn hệ thống
+txt_threads: Luồng:
+txt_time: Thời gian:
+
+=== end PeaLauncher text group ===
+
+=== about text group ===
+
+Yêu cầu đã rõ, tôi sẽ dịch toàn bộ văn bản sang tiếng Việt mà không dùng dấu ngoặc đơn cho các từ gốc.
+
+GIẢI NÉN KHO LƯU TRỮ
+
+Từ hệ thống
+- nhấp chuột phải vào kho lưu trữ và trong menu ngữ cảnh của hệ thống nhấp "Giải nén tại đây" hoặc "Giải nén tại đây (trong thư mục mới)" để giải nén mà không cần tương tác thêm
+- nếu không, sử dụng mục menu "Giải nén..." để có thêm tùy chọn: đường dẫn đầu ra, mật khẩu, giải nén tệp vào một thư mục mới, chọn bỏ qua, đổi tên hoặc ghi đè các tệp hiện có, v.v.
+
+Mở một kho lưu trữ trong PeaZip, tức là bằng cách nhấp đúp, hoặc kéo kho lưu trữ vào cửa sổ hoặc biểu tượng của PeaZip
+- nhấp vào "Giải nén" trên thanh công cụ hoặc trong menu ngữ cảnh để chỉ giải nén các đối tượng đã chọn thông qua hộp thoại xác nhận cho phép đặt tất cả các tùy chọn (đường dẫn đầu ra, mật khẩu, chính sách đặt tên, giải nén vào một thư mục mới, v.v.)
+- kéo tệp và thư mục đến đích mong muốn, chỉ nội dung đã chọn sẽ được giải nén (để biết thêm thông tin xem chương về kéo và thả trong PeaZip)
+- nhấp vào nút thả xuống giải nén nhanh ở bên phải "Giải nén" trên thanh công cụ, nó cho phép giải nén trực tiếp toàn bộ kho lưu trữ đến các đích phổ biến nhất (bỏ qua hộp thoại xác nhận) và đặt các tùy chọn quan trọng nhất; phím tắt: Ctrl+E hoặc F12 giải
+
+Mở PeaZip, chọn một hoặc nhiều kho lưu trữ và nhấp “Giải nén” trên thanh công cụ hoặc menu ngữ cảnh, hoặc sử dụng các đích giải nén nhanh như đã giải thích ở điểm trước.
+
+CHỈ GIẢI NÉN CÁC ĐỐI TƯỢNG ĐÃ CHỌN TỪ KHO LƯU TRỮ
+
+Mở một kho lưu trữ trong PeaZip, tức là bằng cách nhấp đúp, hoặc kéo kho lưu trữ vào cửa sổ hoặc biểu tượng của PeaZip
+- nhấp "Giải nén" trên thanh công cụ: chỉ các mục đã chọn sẽ được giải nén
+- kéo tệp và thư mục đến đích mong muốn, chỉ nội dung đã chọn sẽ được giải nén
+
+NHẬP MẬT KHẨU ĐỂ DUYỆT HOẶC GIẢI NÉN KHO LƯU TRỮ
+
+Nhấp vào biểu tượng ổ khóa để nhập mật khẩu và tùy chọn tệp khóa.
+Biểu tượng được hiển thị cả trên thanh trạng thái của trình duyệt tệp của PeaZip và trong giao diện giải nén kho lưu trữ; sau khi mật khẩu được đặt, biểu tượng sẽ đổi màu.
+
+TẠO KHO LƯU TRỮ
+
+Từ hệ thống
+- nhấp chuột phải vào các đối tượng cần lưu trữ và nhấp vào "Thêm vào kho lưu trữ" trong menu ngữ cảnh hoặc menu SendTo. Nó sẽ mở hộp thoại xác nhận tạo kho lưu trữ, có thêm tùy chọn trong tab “Nâng cao”; nhấp OK để tạo kho lưu trữ.
+- thay vào đó, kéo tệp hoặc thư mục vào cửa sổ hoặc phím tắt của PeaZip; giao diện tạo kho lưu trữ tương tự sẽ được hiển thị.
+
+Từ PeaZip
+- chọn các đối tượng cần lưu trữ và nhấp vào nút "Thêm"; giao diện tạo kho lưu trữ tương tự sẽ được hiển thị.
+
+THÊM TỆP HOẶC THƯ MỤC ĐỂ CẬP NHẬT KHO LƯU TRỮ HIỆN CÓ
+
+Mở một kho lưu trữ trong PeaZip tức là bằng cách nhấp đúp, hoặc kéo kho lưu trữ vào cửa sổ hoặc biểu tượng của PeaZip, sau đó kéo tệp và thư mục cần thêm vào kho lưu trữ hoặc nhấp vào nút "Thêm" và sử dụng menu ngữ cảnh của ứng dụng để thêm đối tượng vào kho lưu trữ.
+Nó sẽ mở hộp thoại xác nhận tạo kho lưu trữ, nhấp OK để cập nhật kho lưu trữ hiện có.
+
+TẠO KHO LƯU TRỮ CHIA THÀNH CÁC TỆP NHỎ HƠN
+
+Trong khi tạo kho lưu trữ như đã giải thích ở các điểm trước, nhấp vào menu thả xuống “Một tập” để chọn kích thước cho các tệp đầu ra (các tập) mà kho lưu trữ sẽ được chia thành.
+Các loại kho lưu trữ phổ biến nhất đều hỗ trợ tùy chọn này.
+
+TẠO KHO LƯU TRỮ ĐƯỢC MÃ HÓA
+
+Nhấp vào biểu tượng ổ khóa để nhập mật khẩu và tùy chọn tệp khóa; biểu tượng được hiển thị cả trên thanh trạng thái của trình duyệt tệp của PeaZip và trong giao diện tạo kho lưu trữ.
+Để ẩn tên của các tệp và thư mục có trong kho lưu trữ, chọn “Mã hóa cả tên tệp”, vui lòng lưu ý rằng nó sẽ chỉ được áp dụng nếu kho lưu trữ được tạo ở định dạng hỗ trợ chức năng này, như 7Z và ARC.
+Lưu ý rằng trong giao diện tạo kho lưu trữ, bên cạnh biểu tượng ổ khóa, có một cảnh báo để thông báo trực quan nếu mã hóa được đặt và nếu định dạng kho lưu trữ hiện tại hỗ trợ mã hóa.
+
+TẠO CÁC KHO LƯU TRỮ RIÊNG BIỆT
+
+Thêm các đối tượng cần lưu trữ bằng nút "Thêm" của PeaZip, hoặc từ menu ngữ cảnh hoặc menu SendTo của hệ thống và trước khi xác nhận bằng "Ok" chọn tùy chọn "Thêm mỗi đối tượng vào một kho lưu trữ riêng".
+
+CHUYỂN ĐỔI KHO LƯU TRỮ
+
+Từ PeaZip chọn các kho lưu trữ cần chuyển đổi và nhấp vào "Chuyển đổi" trên thanh công cụ hoặc menu ngữ cảnh, các tệp và thư mục không phải kho lưu trữ cũng có thể được thêm vào, sự khác biệt là kho lưu trữ sẽ được giải nén trước giai đoạn nén.
+Sử dụng công tắc “Chuyển đổi các kho lưu trữ hiện có” kết hợp với “Thêm mỗi đối tượng vào một kho lưu trữ riêng” mặc định nó thực hiện chuyển đổi hàng loạt các kho lưu trữ được liệt kê, không có công tắc đó chuyển đổi kho lưu trữ nhằm mục đích hợp nhất dữ liệu đầu vào thành một kho lưu trữ duy nhất, cải thiện hiệu quả nén vì nó cho phép nén lại dữ liệu gốc từ dạng chưa nén của nó.
+
+TẠO KHO LƯU TRỮ TRỰC TIẾP Ở ĐỊNH DẠNG ĐÃ CHỈ ĐỊNH VÀ VỚI MỨC NÉN ĐÃ CHỌN
+
+Sử dụng quy trình “Tích hợp hệ thống” trong menu Tùy chọn, có thể bật các mục menu ngữ cảnh để trực tiếp thêm các tệp hoặc thư mục đã chọn vào kho lưu trữ ZIP, 7Z hoặc tự giải nén.
+Đối với định dạng Zip và 7Z, cũng có thể bật các mục menu ngữ cảnh để nén ở mức nhanh nhất, bình thường hoặc ultra, bỏ qua mức nén mặc định cho định dạng đã chọn.
+
+CẤU HÌNH ỨNG DỤNG
+
+Tùy chọn > Bản địa hóa và trong Tùy chọn > Cài đặt, tab đầu tiên cho phép đặt ngôn ngữ của ứng dụng.
+Tùy chọn > Cài đặt cho phép chỉnh sửa cài đặt của ứng dụng
+Tùy chọn > Chủ đề cho phép thay đổi biểu tượng và giao diện của ứng dụng
+Tùy chọn > Tích hợp hệ thống bắt đầu một quy trình để cấu hình liên kết tệp, menu ngữ cảnh và mục menu SendTo trên Windows
+Menu Tổ chức chứa mục để tùy chỉnh, bật hoặc tắt các tính năng của trình duyệt, như thanh công cụ, thanh địa chỉ, thanh điều hướng, v.v.
+
+F1 Trợ giúp
+F2 Duyệt màn hình nền / Ctrl+F2 duyệt thư mục nhà của người dùng / Shift+F2 duyệt thư mục gốc của máy tính / Ctrl+Shift+F2 duyệt thư mục gốc của kho lưu trữ, nếu đang duyệt bên trong một kho lưu trữ (ngược lại duyệt thư mục gốc của máy tính)
+F3 Tìm kiếm (tùy chọn đệ quy được ghi nhớ) / Ctrl+F3 bắt đầu dưới dạng không đệ quy (tìm kiếm tại đây) / Shift+F3 đệ quy
+F4 Lên một cấp
+F5 Làm mới
+F6 Bật hoặc tắt chế độ xem duyệt hoặc phẳng
+F7 Duyệt mục được truy cập gần đây nhất (Ctrl, thứ hai, Shift, thứ ba)
+F8 Duyệt mục đầu tiên trong danh sách dấu trang (Ctrl, thứ hai, Shift, thứ ba)
+F9 Đặt mật khẩu hoặc tệp khóa / Ctrl+F9 tạo tệp khóa hoặc mật khẩu ngẫu nhiên
+F10 Menu
+F11 Đặt bộ lọc nâng cao
+F12 Giải nén tất cả đến...
+
+VỀ PEAZIP
+
+PeaZip là một trình quản lý tệp và kho lưu trữ mã nguồn mở: đa nền tảng, có sẵn dưới dạng phần mềm di động và cài đặt cho Windows 32 và 64 bit (9x, 2k, XP, Vista) và Linux (PeaZip là một ứng dụng trung lập về môi trường desktop).
+
+PeaZip cho phép áp dụng các bộ lọc tìm kiếm đa dạng mạnh mẽ cho nội dung kho lưu trữ; tạo và giải nén nhiều kho lưu trữ cùng một lúc; tạo kho lưu trữ tự giải nén; xuất định nghĩa tác vụ dưới dạng dòng lệnh; lưu bố cục của kho lưu trữ; đánh dấu kho lưu trữ và thư mục; quét và mở bằng các ứng dụng tùy chỉnh các tệp đã nén và chưa nén, v.v.
+
+Các tính năng khác: mã hóa mạnh, sao chép tệp mạnh mẽ, chia hoặc nối tệp (file span), xóa dữ liệu an toàn, so sánh, checksum và hash tệp, điểm chuẩn hệ thống, tạo mật khẩu và tệp khóa ngẫu nhiên.
+
+Tải xuống: https://peazip.github.io
+Tìm hiểu thêm: https://peazip.github.io/peazip-free-archiver.html
+Hỗ trợ: https://peazip.github.io/peazip-help.html
+Câu hỏi thường gặp: https://peazip.github.io/peazip-help-faq.html
+
+Chân thành cảm ơn tất cả những người đã đóng góp vào sự phát triển của dự án PeaZip bằng cách phát triển các thành phần phần mềm Mã nguồn mở được sử dụng trong ứng dụng này (xem trang web để có danh sách đầy đủ), và tất cả người dùng đã đóng góp bằng phản hồi, kinh nghiệm và lời khuyên.
