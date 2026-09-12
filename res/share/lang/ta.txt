@@ -18,7 +18,7 @@ txt_11_0_native: Native
 txt_11_0_pr: Rate password entropy
 txt_11_0_rendering: Rendering
 txt_11_0_sch: Schedule execution of the task defined in the GUI as CLI script
-txt_11_0_sharp: Sharp
+txt_11_0_sharp: கூர்மையான
 txt_11_0_soft: Soft
 txt_11_0_strong: Strong
 txt_11_0_vw: Very weak
