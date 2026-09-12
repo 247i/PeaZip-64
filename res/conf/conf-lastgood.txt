@@ -3,7 +3,7 @@ themes\main-embedded\
 100
 $00FF9933
 clWindow
-$00CC5511
+$00FF9933
 clAppWorkspace
 clWindowText
 0000102040
@@ -114,13 +114,13 @@ Computer's root
 0
 
 [left]
-64
+3748
 
 [top]
-64
+295
 
 [width]
-1024
+1200
 
 [height]
 600
@@ -206,7 +206,7 @@ Deflate
 0
 
 [desktop path]
-
+C:\Users\inthirua\Desktop\
 
 [UNUSED]
 
@@ -215,7 +215,7 @@ Deflate
 1
 
 [last output path]
-
+C:\Users\inthirua\Desktop\
 
 [height of the navigation's splitter]
 220
