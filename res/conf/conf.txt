@@ -11,7 +11,7 @@ clWindowText
 6
 0
 [language]
-default.txt
+en.txt
 
 [reporting: 0 always keep open task window for inspection of logs, 1 keep open only for errors, list, test operations (default), 2 keep open only for errors, list, 3 never keep open for inspection]
 2
@@ -26,7 +26,7 @@ default.txt
 0
 
 [Initial dir for file/archive browser]
-Computer's root
+கணினியின் வேர்
 
 [default archiving format]
 18
@@ -409,7 +409,7 @@ PeaZip
 0
 
 [save history of recent directories]
-Computer's root
+கணினியின் வேர்
 
 
 
