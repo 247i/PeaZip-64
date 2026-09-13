@@ -7,15 +7,15 @@ Last rev.:  20260909
 
 === PeaZip text group ===
 
-txt_11_2_comp: Original file name and extension are always preserved when using pure compression formats (Brotli, BZip2, GZip, XZ, Zstd...), unless TAR before option is used, overriding Output file name.
-txt_11_2_funexp: Type or select any of supported app's function (run on selected files, if applicable)
-txt_11_1_pp: Skipping pre-parse step the app may not detect possible archive issues in advance, and may not display correctly some archives. Anyway, extraction is unaffected by this setting.
-txt_11_0_adv: Advanced and format-specific options
+txt_11_2_comp: தூய சுருக்க வடிவங்களைப் பயன்படுத்தும் போது அசல் கோப்பு பெயர் மற்றும் நீட்டிப்பு எப்போதும் பாதுகாக்கப்படும் (Brotli, BZip2, GZip, XZ, Zstd...), TAR முன் விருப்பம் பயன்படுத்தப்படாவிட்டால், வெளியீட்டு கோப்பு பெயரை மீறுகிறது.
+txt_11_2_funexp: ஆதரிக்கப்படும் பயன்பாட்டின் செயல்பாடுகளில் ஏதேனும் ஒன்றைத் தட்டச்சு செய் அல்லது தேர்ந்தெடு (தேர்ந்தெடுக்கப்பட்ட கோப்புகளில், பொருந்தினால் இயக்கு)
+txt_11_1_pp: முன்-பாகுபடுத்தும் படியைத் தவிர்ப்பதால், சாத்தியமான காப்பகச் சிக்கல்களை பயன்பாடு முன்கூட்டியே கண்டறியாமல் போகலாம், மேலும் சில காப்பகங்களைச் சரியாகக் காட்டாமல் போகலாம். எப்படியிருந்தாலும், பிரித்தெடுத்தல் இந்த அமைப்பால் பாதிக்கப்படாது.
+txt_11_0_adv: மேம்பட்ட மற்றும் வடிவம் சார்ந்த விருப்பங்கள்
 txt_11_0_bt: Batch test archives
 txt_11_0_good: Good
 txt_11_0_items: items
 txt_11_0_native: Native
-txt_11_0_pr: Rate password entropy
+txt_11_0_pr: கடவுச்சொல் சீர்குலைவை மதிப்பிடு
 txt_11_0_rendering: Rendering
 txt_11_0_sch: Schedule execution of the task defined in the GUI as CLI script
 txt_11_0_sharp: கூர்மையான
