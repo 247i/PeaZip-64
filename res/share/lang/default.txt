@@ -69,46 +69,46 @@ txt_10_0_ptarxz: உயர் சுருக்க, நாடாகாப்ப
 txt_10_0_ptargz: நடுத்தர சுருக்கம், நாடாகாப்பு.GZ
 txt_10_0_comp: தூய சுருக்க வடிவங்கள் ஒரு கோப்பை மட்டுமே உள்ளீடாக ஏற்கும். மூலத்தில் பல கோப்புகள் அல்லது கோப்புறைகள் இருந்தால், அந்த வடிவங்களுக்கான காப்பக மாற்றம் தோல்வியடையும், அவற்றை முன்கூட்டியே தீர்மானிக்க முடியாது.
 txt_10_0_save: சேமி
-txt_10_0_tp: Text viewer
-txt_9_9_uac: Current user cannot write to this output path. Do you want to run PeaZip with UAC elevation?
-txt_9_9_kdf: KDF rounds
-txt_9_9_utc: Show timestamps as UTC
-txt_9_8_alwaysflat: Always open archives in flat view
-txt_9_8_fnew: Extract here (in new folder)
-txt_9_8_fsmart: Extract here (smart new folder)
-txt_9_7_tarpipe: 7z / p7zip use pipe
-txt_9_7_smartsorting: Smart file name sorting
-txt_9_6_centered: Centered
-txt_9_6_cside: Compact side bar
-txt_9_6_loadpconfirm: Do you want to load this profile? All the data of current profile will be overwritten, including saved scripts and Password Manager.
-txt_9_6_loadp: Load profile
-txt_9_6_saveppw: OPTIONAL: protect this profile with password / keyfile?
-txt_9_6_savepoverwrite: Overwrite existing profile? All the data of the existing profile will be overwritten, including saved scripts and Password Manager.
-txt_9_6_savep: Save profile
-txt_9_6_scside: Show Compact side bar
+txt_10_0_tp: உரை பார்வையாளர்
+txt_9_9_uac: தற்போதைய பயனர் இந்த வெளியீட்டு பாதையில் எழுத முடியாது. பஅக உயரத்துடன் பட்டாணிசுருக்கை இயக்க விரும்புகிறீர்களா?
+txt_9_9_kdf: கேடிஎப் சுற்றுகள்
+txt_9_9_utc: நேர முத்திரைகளை ஒஉநேரமாகக் காட்டு
+txt_9_8_alwaysflat: எப்போதும் தட்டையான காட்சியில் காப்பகங்களைத் திற
+txt_9_8_fnew: இங்கே பிரித்தெடு (புதிய கோப்புறையில்)
+txt_9_8_fsmart: இங்கே பிரித்தெடு (திறன் புதிய கோப்புறை)
+txt_9_7_tarpipe: 7z / p7zip குழாய் பயன்படுத்து
+txt_9_7_smartsorting: திறன் கோப்பு பெயர் வரிசையாக்கம்
+txt_9_6_centered: நடுவில்
+txt_9_6_cside: சிறிய பக்க பட்டை
+txt_9_6_loadpconfirm: இந்த தன்விவரத்தை ஏற்ற வேண்டுமா? சேமித்த கைஉரைகள் மற்றும் கடவுச்சொல் நிர்வாகி உட்பட தற்போதைய தன்விவரத்தின் எல்லா தரவும் மேலெழுதப்படும்.
+txt_9_6_loadp: தன்விவரத்தை ஏற்று
+txt_9_6_saveppw: விருப்பத்திற்குரியது:  இந்த தன்விவரத்தை கடவுச்சொல் / திறவுகோப்பு மூலம் பாதுகாக்கவா?
+txt_9_6_savepoverwrite: ஏற்கனவே உள்ள தன்விவரத்தை மேலெழுதவா? சேமிக்கப்பட்ட கைஉரைகள் மற்றும் கடவுச்சொல் நிர்வாகி உட்பட, ஏற்கனவே உள்ள தன்விவரத்தின் எல்லா தரவும் மேலெழுதப்படும்.
+txt_9_6_savep: தன்விவரத்தை சேமி
+txt_9_6_scside: சிறிய பக்க பட்டியைக் காட்டு
 txt_9_5_all: அனைத்து
-txt_9_5_precond: Pre-parse if errors are detected
-txt_9_5_largea: Pre-parse large archives
-txt_9_5_mediuma: Pre-parse medium archives
-txt_9_5_smalla: Pre-parse small archives
-txt_9_5_reopentab: Reopen last tab
-txt_9_5_savetabs: Save tabs
-txt_9_5_sb: Use binaries in system paths
+txt_9_5_precond: பிழைகள் கண்டறியப்பட்டால் முன்கூட்டியே அலசு
+txt_9_5_largea: பெரிய காப்பகங்களை முன் அலசு
+txt_9_5_mediuma: நடுத்தர காப்பகங்களை முன் அலசு
+txt_9_5_smalla: சிறிய காப்பகங்களை முன் அலசு
+txt_9_5_reopentab: கடைசி தாவலை மீண்டும் திற
+txt_9_5_savetabs: தாவல்களைச் சேமி
+txt_9_5_sb: கணினி பாதைகளில் இருமங்களைப் பயன்படுத்து
 txt_9_4_r: படி
-txt_9_4_rw: read/write
-txt_9_4_savecomment: Save comment
-txt_9_4_hintcomment: Type or paste comment, load or drag here comment file.
-txt_9_3_continue: Continue anyway?
-txt_9_3_contrast: Contrast
-txt_9_3_fsd: Free space on destination may not be enough
-txt_9_3_fsw: Free space on temporary work path may not be enough
-txt_9_3_mrar: Manually set RAR binary
-txt_9_3_canedit: This archive type can be edited
-txt_9_3_canforce: This archive type can be edited (forced)
-txt_9_3_cannotedit: This archive type cannot be edited
-txt_9_2_7za: 7z / p7zip alias
-txt_9_2_changelog: Change log
-txt_9_2_tfaq: Check for Translations
+txt_9_4_rw: படி/எழுது
+txt_9_4_savecomment: கருத்தைச் சேமி
+txt_9_4_hintcomment: கருத்தை உள்ளிடு அல்லது ஒட்டு, கருத்துக் கோப்பை ஏற்று அல்லது இழு.
+txt_9_3_continue: எப்படியும் தொடரவா?
+txt_9_3_contrast: மாறுபாடு
+txt_9_3_fsd: சேருமிடத்தில் இலவச இடம் போதுமானதாக இருக்காது
+txt_9_3_fsw: தற்காலிக வேலை பாதையில் இலவச இடம் போதுமானதாக இருக்காது
+txt_9_3_mrar: RAR பைனரியை கைமுறையாக அமை
+txt_9_3_canedit: இந்த காப்பக வகையை திருத்தலாம்
+txt_9_3_canforce: இந்த காப்பக வகையை திருத்தலாம் (கட்டாயமாக)
+txt_9_3_cannotedit: இந்தக் காப்பக வகையைத் திருத்த முடியாது
+txt_9_2_7za: 7z / p7zip மாற்றுப்பெயர்
+txt_9_2_changelog: பதிவு மாற்றம்
+txt_9_2_tfaq: மொழிபெயர்ப்புகளைச் சரிபார்
 txt_9_2_compact: கச்சிதமான
 txt_9_2_swt: Swap Tab bar / Address bar
 txt_9_2_tos: TOS, Privacy
@@ -123,7 +123,7 @@ txt_9_1_nw: Open in a new window
 txt_9_1_qdup: Use quick deduplication routine
 txt_9_0_autoexttar: Auto extract TAR archive from compressed TAR.* files
 txt_9_0_accesstime: Do not change last access time
-txt_9_0_mem: Maximum memory usage
+txt_9_0_mem: அதிகஅளவு நினைவக பயன்பாடு
 txt_9_0_showmainmenu: Open Main menu
 txt_9_0_navmenu: Open Navigation menu
 txt_9_0_plugind: Open binaries and Plugin directory
@@ -131,7 +131,7 @@ txt_9_0_df: Sort dirs before files
 txt_9_0_hl: Store hard links as links
 txt_9_0_sl: Store symbolic links as links
 txt_9_0_tnav: Toggle navigation bar
-txt_8_9_empty: Archive seems empty
+txt_8_9_empty: காப்பகம் காலியாகத் தெரிகிறது
 txt_8_9_disp: Displaying archive content
 txt_8_9_parsing: Parsing archive content
 txt_8_9_stoptest: Stop to inspect report for error, list, test, auto-test
@@ -175,7 +175,7 @@ txt_8_5_listlarge: List, large
 txt_8_5_loadlayout: Load layout at startup
 txt_8_5_samplescripts: Sample scripts
 txt_8_4_keepopenerrorslist: Stop to inspect report for error, list
-txt_8_3_mbubin: Binary
+txt_8_3_mbubin: இருமம்
 txt_8_3_cw: Change working directory? This will reset temporary work files and restart the application.
 txt_8_3_temperature: Color temperature
 txt_8_3_mbudec: Decimal
@@ -413,7 +413,7 @@ txt_5_5_subtractsel: Subtract from current selection
 txt_5_5_datehour: This hour
 txt_5_5_datemonth: This month
 txt_5_5_dateweek: This week
-txt_5_5_dateyear: This year
+txt_5_5_dateyear: இந்த ஆண்டு
 txt_5_5_dateday: Today
 txt_5_5_upper: UPPERCASE
 txt_5_5_extw: Warning: changing file extension the file may become unusable
@@ -466,7 +466,7 @@ txt_5_1_monthly: Monthly
 txt_5_1_months: Months
 txt_5_1_onlogin: On login
 txt_5_1_onstart: On start
-txt_5_1_once: Once
+txt_5_1_once: ஒருமுறை
 txt_5_1_w7: Saturday
 txt_5_1_schedule: Schedule
 txt_5_1_schedexplain: Creates a plain text script from GUI task definition and schedule it. Scheduled tasks' scripts are saved in "Scheduled scripts" folder. To edit or delete scheduled tasks you can use system's Task Scheduler, all scheduled tasks created by PeaZip are collected in "PeaZip" branch of the tasks library.
@@ -479,7 +479,7 @@ txt_5_1_schedname: Task name, identify both the saved scheduled script and the s
 txt_5_1_ts: Task Scheduler
 txt_5_1_w5: Thursday
 txt_5_1_w3: Tuesday
-txt_5_1_w4: Wednesday
+txt_5_1_w4: அறிவன்
 txt_5_1_weekly: Weekly
 txt_5_1_weeks: Weeks
 txt_5_0_bc: Breadcrumb
@@ -970,7 +970,7 @@ txt_unit_floppy: Floppy disk
 txt_foldername: Folder name
 txt_nfolders: Folders
 txt_error_input_multi: format allows a single file as input; you can use "TAR before" switch to save input in a .TAR archive before, otherwise you can chose another format. HINT: chose archive format after had selected input data: "TAR before" switch will be automatically set
-txt_fwd: Forward
+txt_fwd: முன்னோக்கி
 txt_list_found: Found
 txt_free: Free
 txt_free2: free
@@ -985,7 +985,7 @@ txt_guipealauncher: GUI
 txt_graphic: Graphic's folder
 txt_gridaltcolor: Grids alternate color
 txt_gridrowheight: Grids row height
-txt_gui: GUI
+txt_gui: வபஇ
 txt_type_description_gzip: GZip: fast compression
 txt_here: here
 txt_list_history: History
@@ -1003,7 +1003,7 @@ txt_info: Info
 txt_infoall: Info on all
 txt_infodisp: Info on displayed object(s)
 txt_infosel: Info on selected object(s)
-txt_inputinfo: Input information
+txt_inputinfo: உள்ளீடு தகவல்
 txt_input_list: Input list:
 txt_iop: input, output, parameters
 txt_ipo: input, parameters, output
@@ -1033,14 +1033,14 @@ txt_launch: Launch task
 txt_layout: Layout
 txt_filelist_savedas: Layout saved as
 txt_level: Level
-txt_license: License
+txt_license: உரிமம்
 txt_caption_list: List
 txt_list_details: List (with details)
 txt_list_all: List all
 txt_list_disp: List displayed object(s)
 txt_list_sel: List selected object(s)
 txt_toggle_warning: Listing flat view of path's content may take long time, continue anyway?
-txt_loadfile: Load file
+txt_loadfile: கோப்பை ஏற்று
 txt_loadlayout: Load layout
 txt_unit_hd: Local disk
 txt_localization: Localization
