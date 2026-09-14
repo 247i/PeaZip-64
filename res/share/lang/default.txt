@@ -7,7 +7,7 @@ Last rev.:  20260909
 
 === PeaZip text group ===
 
-txt_11_2_comp: தூய சுருக்க வடிவங்களைப் பயன்படுத்தும் போது அசல் கோப்பு பெயர் மற்றும் நீட்டிப்பு எப்போதும் பாதுகாக்கப்படும் (Brotli, BZip2, GZip, XZ, Zstd...), TAR முன் விருப்பம் பயன்படுத்தப்படாவிட்டால், வெளியீட்டு கோப்பு பெயரை மீறுகிறது.
+txt_11_2_comp: தூய சுருக்க வடிவங்களைப் பயன்படுத்தும் போது அசல் கோப்பு பெயர் மற்றும் நீட்டிப்பு எப்போதும் பாதுகாக்கப்படும் (Brotli, BZip2, GZip, XZ, Zstd...), நாடாகாப்பு முன் விருப்பம் பயன்படுத்தப்படாவிட்டால், வெளியீட்டு கோப்பு பெயரை மீறுகிறது.
 txt_11_2_funexp: ஆதரிக்கப்படும் பயன்பாட்டின் செயல்பாடுகளில் ஏதேனும் ஒன்றைத் தட்டச்சு செய் அல்லது தேர்ந்தெடு (தேர்ந்தெடுக்கப்பட்ட கோப்புகளில், பொருந்தினால் இயக்கு)
 txt_11_1_pp: முன்-பாகுபடுத்தும் படியைத் தவிர்ப்பதால், சாத்தியமான காப்பகச் சிக்கல்களை பயன்பாடு முன்கூட்டியே கண்டறியாமல் போகலாம், மேலும் சில காப்பகங்களைச் சரியாகக் காட்டாமல் போகலாம். எப்படியிருந்தாலும், பிரித்தெடுத்தல் இந்த அமைப்பால் பாதிக்கப்படாது.
 txt_11_0_adv: மேம்பட்ட மற்றும் வடிவம் சார்ந்த விருப்பங்கள்
@@ -30,7 +30,7 @@ txt_10_8_log: கட்டளைகள் பதிவு
 txt_10_8_rv: மீட்பு தொகுதிகளை உருவாக்கு
 txt_10_8_bk: பின்னணியில் சிறிய பணிச்சுமைகளை இயக்கு
 txt_10_8_params: கட்டளை வரியை தனி அளவுருவாக அனுப்பு
-txt_10_8_untarerr: TAR பெயர் காப்பகத்தின் பெயருடன் பொருந்தவில்லை. TAR உள்ளடக்கத்தை கைமுறையாக பிரித்தெடுக்க, காப்பகத்தைத் திறக்க முயற்சி செய்யலாம்.
+txt_10_8_untarerr: நாடாகாப்பு பெயர் காப்பகத்தின் பெயருடன் பொருந்தவில்லை. நாடாகாப்பு உள்ளடக்கத்தை கைமுறையாக பிரித்தெடுக்க, காப்பகத்தைத் திறக்க முயற்சி செய்யலாம்.
 txt_10_7_errload: படத்தைக் காட்ட முடியாது
 txt_10_7_errfile: கோப்பு கிடைக்கவில்லை
 txt_10_7_first: முதலில்
@@ -42,33 +42,33 @@ txt_10_7_next: அடுத்து
 txt_10_7_prev: முந்தைய
 txt_10_7_pwh: கொத்திலிருந்து கடவுச்சொல்
 txt_10_7_images: பட பார்வையாளர்
-txt_10_7_thumbnails: View thumbnails
-txt_10_6_virtual: Dynamic virtual mode
-txt_10_5_fr: (full report)
-txt_10_5_sectype: Ask confirmation for running following file types
-txt_10_5_checkmotw: Check Zone.Identifier (MoTW)
-txt_10_5_sectypewarning: Do you want to run this file?
-txt_10_5_pathlock: Items in this path of the archive cannot be edited
-txt_10_5_type_description_rar: RAR: proprietary archive format, high compression ratio, supported through external compressor
-txt_10_5_sh: Show hidden files (in the filesystem)
-txt_10_5_ntfsalt: This format is able to store NTFS Alternate Data Stream, including Mark of The Web
-txt_10_4_moving: (Moving)
-txt_10_3_classic: Classic
-txt_10_3_ascii: It is recommended to use only ASCII characters in passwords for the current archive format (mixed case letters, numbers, and special characters).
-txt_10_3_minimal: Minimal
-txt_10_3_m: Modern
-txt_10_3_pm: Postmodern
-txt_10_3_aw: Workaround: check "Force typing password interactively" in the password prompt, or set Console mode for backend binaries.
-txt_10_2_savecopy: Save a copy
+txt_10_7_thumbnails: சிறுபடங்களைக் காண்க
+txt_10_6_virtual: மாறும் மெய்நிகர் பயன்முறை
+txt_10_5_fr: (முழு அறிக்கை)
+txt_10_5_sectype: பின்வரும் கோப்பு வகைகளை இயக்குவதற்கான உறுதிப்படுத்தலைக் கேள்
+txt_10_5_checkmotw: மண்டலம்.அடையாளங்காட்டி சரிபார்
+txt_10_5_sectypewarning: இந்தக் கோப்பை இயக்க விரும்புகிறீர்களா?
+txt_10_5_pathlock: காப்பகத்தின் இந்தப் பாதையில் உள்ள உருப்படிகளைத் திருத்த முடியாது
+txt_10_5_type_description_rar: RAR:  தனியுரிம காப்பக வடிவம், உயர் சுருக்க விகிதம், வெளிப்புற அமுக்கி மூலம் ஆதரிக்கப்படுகிறது
+txt_10_5_sh: மறைக்கப்பட்ட கோப்புகளைக் காட்டு (கோப்பு அமைப்பில்)
+txt_10_5_ntfsalt: இந்த வடிவமைப்பால் புதொகோமு மாற்று தரவு ஓடைகளைச் சேமிக்க முடியும், இதில் இணையக் குறி அடங்கும்
+txt_10_4_moving: (நகரும்)
+txt_10_3_classic: தரமான
+txt_10_3_ascii: தற்போதைய காப்பக வடிவமைப்பிற்கான கடவுச்சொற்களில் அநிகுதப எழுத்துக்களை மட்டுமே பயன்படுத்த பரிந்துரைக்கப்படுகிறது (கலப்பு எழுத்துகள், எண்கள் மற்றும் சிறப்பு எழுத்துக்கள்).
+txt_10_3_minimal: குறைந்தஅளவு
+txt_10_3_m: புதுமை
+txt_10_3_pm: பின்புதுமை
+txt_10_3_aw: தீர்வு:  கடவுச்சொல் வரியில் "கடவுச்சொல்லை ஊடாடலாக தட்டச்சு செய்வதை கட்டாயப்படுத்து" என்பதை சரிபார் அல்லது பின்தள இருமங்களுக்கு முனைய பயன்முறையை அமை.
+txt_10_2_savecopy: ஒரு நகலை சேமி
 txt_10_1_full: முழு
-txt_10_1_kdfw: KDF work load
-txt_10_1_under: Underlined
-txt_10_0_exptrash: Explore Trash
-txt_10_0_ptarzst: Fastest compression, TAR.ZST
-txt_10_0_ptarxz: High compression, TAR.XZ
-txt_10_0_ptargz: Medium compression, TAR.GZ
-txt_10_0_comp: Pure compression formats only accept a single file as input. Archive conversion towards those formats will fail if the source contains multiple files or folders, which cannot be determined in advance.
-txt_10_0_save: Save
+txt_10_1_kdfw: கேடிஎப் பணிச்சுமை
+txt_10_1_under: அடிக்கோடிடப்பட்டது
+txt_10_0_exptrash: குப்பையை ஆராயுங்கள்
+txt_10_0_ptarzst: வேகமான சுருக்கம், நாடாகாப்பு.ZST
+txt_10_0_ptarxz: உயர் சுருக்க, நாடாகாப்பு.XZ
+txt_10_0_ptargz: நடுத்தர சுருக்கம், நாடாகாப்பு.GZ
+txt_10_0_comp: தூய சுருக்க வடிவங்கள் ஒரு கோப்பை மட்டுமே உள்ளீடாக ஏற்கும். மூலத்தில் பல கோப்புகள் அல்லது கோப்புறைகள் இருந்தால், அந்த வடிவங்களுக்கான காப்பக மாற்றம் தோல்வியடையும், அவற்றை முன்கூட்டியே தீர்மானிக்க முடியாது.
+txt_10_0_save: சேமி
 txt_10_0_tp: Text viewer
 txt_9_9_uac: Current user cannot write to this output path. Do you want to run PeaZip with UAC elevation?
 txt_9_9_kdf: KDF rounds
@@ -86,7 +86,7 @@ txt_9_6_saveppw: OPTIONAL: protect this profile with password / keyfile?
 txt_9_6_savepoverwrite: Overwrite existing profile? All the data of the existing profile will be overwritten, including saved scripts and Password Manager.
 txt_9_6_savep: Save profile
 txt_9_6_scside: Show Compact side bar
-txt_9_5_all: All
+txt_9_5_all: அனைத்து
 txt_9_5_precond: Pre-parse if errors are detected
 txt_9_5_largea: Pre-parse large archives
 txt_9_5_mediuma: Pre-parse medium archives
@@ -94,7 +94,7 @@ txt_9_5_smalla: Pre-parse small archives
 txt_9_5_reopentab: Reopen last tab
 txt_9_5_savetabs: Save tabs
 txt_9_5_sb: Use binaries in system paths
-txt_9_4_r: read
+txt_9_4_r: படி
 txt_9_4_rw: read/write
 txt_9_4_savecomment: Save comment
 txt_9_4_hintcomment: Type or paste comment, load or drag here comment file.
@@ -109,7 +109,7 @@ txt_9_3_cannotedit: This archive type cannot be edited
 txt_9_2_7za: 7z / p7zip alias
 txt_9_2_changelog: Change log
 txt_9_2_tfaq: Check for Translations
-txt_9_2_compact: Compact
+txt_9_2_compact: கச்சிதமான
 txt_9_2_swt: Swap Tab bar / Address bar
 txt_9_2_tos: TOS, Privacy
 txt_9_2_doc: Verify documentation, Issue Tracker...
@@ -140,7 +140,7 @@ txt_8_8_ca: Accent color
 txt_8_8_btn: Button
 txt_8_8_cb: Button color
 txt_8_8_centered: Centered buttons
-txt_8_8_light: Light
+txt_8_8_light: ஒளி
 txt_8_8_lnk: Link
 txt_8_8_intnote: Please note that "Extract then move" option (in Options > Settings > Archive manager) is ignored for composing the command line in Console tab.
 txt_8_8_snz: Propagate Zone.Identifier (MoTW) (Windows, NTFS)
@@ -148,7 +148,7 @@ txt_8_8_sm: Small icons size
 txt_8_8_solcol: Breadcrumb bar
 txt_8_8_snoi: Store owner/group ids (TAR, Linux)
 txt_8_8_snon: Store owner/group names (TAR, Linux)
-txt_8_8_tab: Tab
+txt_8_8_tab: தாவல்
 txt_8_8_altt: Tabs style
 txt_8_8_autotest: Test archives after creation, if supported by the format
 txt_8_8_cw: Window color
@@ -1208,21 +1208,21 @@ txt_split: Split
 txt_type_description_split: Split a file with optional integrity check
 txt_split_file: Split file
 txt_list_nostats: stats not available
-txt_status: Status
+txt_status: நிலை
 txt_level_store: Store
 txt_stream_control: Stream control
 txt_strip: Strip before UPX (recommended)
 txt_keyfile_created: Successfully created KeyFile as:
 txt_suggestpw: Create random password
 txt_noupx: Symbols stripped, UPX compression omitted
-txt_syntax: Syntax:
+txt_syntax: தொடரியல்:
 txt_sysbenchmark: System benchmark
 txt_benchmark: System benchmark will take some minutes and will use all available CPU and memory resource. The system may not respond during the benchmark; run it anyway?
 txt_systools: System tools
 txt_tarbefore: TAR before
 txt_type_description_tar: TAR: archiving format mainstream on UNIX systems
 txt_taskman: Task Manager
-txt_caption_test: Test
+txt_caption_test: சோதனை
 txt_testall: Test all
 txt_testdisp: Test displayed object(s)
 txt_testpw: Test password / keyfile
