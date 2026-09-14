@@ -1,14 +1,14 @@
-﻿themes\main-embedded\theme.txt
-themes\main-embedded\
+﻿themes\ten\theme.txt
+themes\ten\
 100
 $00FF9933
 clWindow
 $00FF9933
-clAppWorkspace
+clAppWorspace
 clWindowText
 0000102040
 100
-6
+4
 0
 [language]
 default.txt
@@ -26,7 +26,7 @@ default.txt
 0
 
 [Initial dir for file/archive browser]
-கணினியின் வேர்
+Computer's root
 
 [default archiving format]
 18
@@ -114,13 +114,13 @@ default.txt
 0
 
 [left]
-64
+0
 
 [top]
-295
+0
 
 [width]
-1200
+1024
 
 [height]
 600
@@ -243,7 +243,7 @@ PeaZip
 180
 60
 125
-0
+1
 
 [extract to new folder]
 0
@@ -409,7 +409,7 @@ PeaZip
 0
 
 [save history of recent directories]
-கணினியின் வேர்
+Computer's root
 
 
 
@@ -469,7 +469,7 @@ PeaZip
 0
 
 [tab bar]
-0
+1
 
 [privacy_mode directive 0 none (default), 1 ask for password or keyfile when application starts, skippable, 2 non skippable]
 0
