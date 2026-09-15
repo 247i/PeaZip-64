@@ -571,7 +571,7 @@ txt_4_1_selected: (selected)
 txt_4_1_duplicatesfound: duplicates found
 txt_4_1_duplicatesfind: Find duplicates
 txt_4_1_runasadmin: Run as administrator
-txt_4_1_simplesearch: Simple search
+txt_4_1_simplesearch: எளிய தேடல்
 txt_4_0_thim: Show picture thumbnails
 txt_3_8_type_description_wim: WIM: Microsoft's disk image format
 txt_3_8_type_description_xz: XZ: powerful file compression based on LZMA2
