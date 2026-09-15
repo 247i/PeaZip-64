@@ -360,7 +360,7 @@ txt_6_1_ec: காப்பக மரத்தை விரிவாக்கு
 txt_6_0_msq: திடமான சுருக்கத்திற்கான கோப்பு வகையின்படி வரிசைப்படுத்து
 txt_5_9_lff: கோப்புகள் மற்றும் கோப்புறைகளை பகுப்பாய்வு செய்யுங்கள்
 txt_5_9_pff: பகுப்பாய்வு, கோப்புகள் தலைப்பு/முடிவு காட்டு
-txt_5_9_start: இருந்து தொடங்கு
+txt_5_9_start: இதிலிருந்து தொடங்கு
 txt_5_8_l0: ஆதரிக்கப்படும் எந்த கூறு/வடிவத்தையும் இசைவு
 txt_5_8_l1: இலவச மென்பொருள் கூறுகளை மட்டும் இசைவு
 txt_5_8_l2: திறந்த காப்பக வடிவங்களை மட்டும் இசைவு
@@ -407,7 +407,7 @@ txt_5_5_datesameyear: தேர்ந்தெடுக்கப்பட்ட 
 txt_5_5_scan: வருடல்
 txt_5_5_select: தேர்ந்தெடு
 txt_5_5_similar: தேர்ந்தெடுக்கப்பட்ட பொருளைப் போன்றது
-txt_5_5_starting: ஒரே பாத்திரத்தில் ஆரம்பிக்கிறது
+txt_5_5_starting: ஒரே எழுத்தில் ஆரம்பிக்கிறது
 txt_5_5_string: சேர்க்க வேண்டிய சரம்
 txt_5_5_subtractsel: தற்போதைய தேர்வில் இருந்து கழி
 txt_5_5_datehour: இந்த மணிநேரம்
@@ -1138,7 +1138,7 @@ txt_previewwith: Preview with...
 txt_projectadmin: Project administrator:
 txt_type_description_quad: BALZ/QUAD: high-performance ROLZ-based file compressors
 txt_quickdelete: Quick delete
-txt_quit: Quit
+txt_quit: வெளியேறு
 txt_unit_ram: RAM disk
 txt_read: Read:
 txt_recentarchives: Recent archives
