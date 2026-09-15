@@ -37,7 +37,7 @@ txt_10_7_first: முதலில்
 txt_10_7_fit: திரைக்கு பொருந்தும்
 txt_10_7_fith: திரை உயரத்திற்கு பொருந்தும்
 txt_10_7_fitw: திரை அகலத்திற்கு பொருந்தும்
-txt_10_7_keep: பிரித்தெடுத்தல் பிழையில் முடிந்தாலோ அல்லது கைவிடப்பட்டாலோ வெளியீட்டு கோப்புகளை வைத்திருங்கள்
+txt_10_7_keep: பிரித்தெடுத்தல் பிழையில் முடிந்தாலோ அல்லது கைவிடப்பட்டாலோ வெளியீட்டு கோப்புகளை வைத்திரு
 txt_10_7_next: அடுத்து
 txt_10_7_prev: முந்தைய
 txt_10_7_pwh: கொத்திலிருந்து கடவுச்சொல்
@@ -102,7 +102,7 @@ txt_9_3_continue: எப்படியும் தொடரவா?
 txt_9_3_contrast: மாறுபாடு
 txt_9_3_fsd: சேருமிடத்தில் இலவச இடம் போதுமானதாக இருக்காது
 txt_9_3_fsw: தற்காலிக வேலை பாதையில் இலவச இடம் போதுமானதாக இருக்காது
-txt_9_3_mrar: RAR பைனரியை கைமுறையாக அமை
+txt_9_3_mrar: RAR இருமத்தை கைமுறையாக அமை
 txt_9_3_canedit: இந்த காப்பக வகையை திருத்தலாம்
 txt_9_3_canforce: இந்த காப்பக வகையை திருத்தலாம் (கட்டாயமாக)
 txt_9_3_cannotedit: இந்தக் காப்பக வகையைத் திருத்த முடியாது
@@ -110,431 +110,431 @@ txt_9_2_7za: 7z / p7zip மாற்றுப்பெயர்
 txt_9_2_changelog: பதிவு மாற்றம்
 txt_9_2_tfaq: மொழிபெயர்ப்புகளைச் சரிபார்
 txt_9_2_compact: கச்சிதமான
-txt_9_2_swt: Swap Tab bar / Address bar
-txt_9_2_tos: TOS, Privacy
-txt_9_2_doc: Verify documentation, Issue Tracker...
-txt_9_2_updates: Verify updates, binaries, Plugins...
-txt_9_1_7zs: 7z / p7zip syntax level
-txt_9_1_ac: Archive conversion scripts allow user's interaction
-txt_9_1_closeall: Close all
-txt_9_1_enlargeicons: Enlarge file browser icons
-txt_9_1_ef: Exclude empty folders from archiving and extraction operations (7z / p7zip)
-txt_9_1_nw: Open in a new window
-txt_9_1_qdup: Use quick deduplication routine
-txt_9_0_autoexttar: Auto extract TAR archive from compressed TAR.* files
-txt_9_0_accesstime: Do not change last access time
+txt_9_2_swt: தாவல் பட்டி / முகவரிப் பட்டி இடம் மாற்று
+txt_9_2_tos: கொள்கை, தனியுரிமை
+txt_9_2_doc: ஆவணங்கள் சிக்கல் கண்காணிப்பைச் சரிபார்...
+txt_9_2_updates: புதுப்பிப்புகள், இருமங்கள், செருகுநிரல்களைச் சரிபார்...
+txt_9_1_7zs: 7z / p7zip தொடரியல் நிலை
+txt_9_1_ac: காப்பக மாற்ற கைஉரைகள் பயனரின் தொடர்புகளை இசைவுக்கிறது
+txt_9_1_closeall: அனைத்தையும் மூடு
+txt_9_1_enlargeicons: கோப்பு உலாவி படவுருகளை பெரிதாக்கு
+txt_9_1_ef: காப்பகப்படுத்துதல் மற்றும் பிரித்தெடுத்தல் செயல்பாடுகளிலிருந்து வெற்று கோப்புறைகளை விலக்கு (7z / p7zip)
+txt_9_1_nw: புதிய சாளரத்தில் திற
+txt_9_1_qdup: விரைவான துப்பறியும் வழக்கத்தைப் பயன்படுத்து
+txt_9_0_autoexttar: சுருக்கப்பட்ட நாடாகாப்பு.* கோப்புகளிலிருந்து நாடாகாப்பு காப்பகத்தை தானாக பிரித்தெடு
+txt_9_0_accesstime: கடைசி அணுகல் நேரத்தை மாற்ற வேண்டாம்
 txt_9_0_mem: அதிகஅளவு நினைவக பயன்பாடு
-txt_9_0_showmainmenu: Open Main menu
-txt_9_0_navmenu: Open Navigation menu
-txt_9_0_plugind: Open binaries and Plugin directory
-txt_9_0_df: Sort dirs before files
-txt_9_0_hl: Store hard links as links
-txt_9_0_sl: Store symbolic links as links
-txt_9_0_tnav: Toggle navigation bar
+txt_9_0_showmainmenu: முதன்மை பட்டியல்வைத் திற
+txt_9_0_navmenu: வழிசெலுத்தல் பட்டியல்வைத் திற
+txt_9_0_plugind: இருமங்கள் மற்றும் செருகுநிரல் கோப்பகத்தைத் திற
+txt_9_0_df: கோப்புகளுக்கு முன் கோப்பகத்தை வரிசைப்படுத்து
+txt_9_0_hl: கடினமான இணைப்புகளை இணைப்புகளாக சேமி
+txt_9_0_sl: குறியீட்டு இணைப்புகளை இணைப்புகளாக சேமி
+txt_9_0_tnav: வழிசெலுத்தல் பட்டியை நிலைமாற்று
 txt_8_9_empty: காப்பகம் காலியாகத் தெரிகிறது
-txt_8_9_disp: Displaying archive content
-txt_8_9_parsing: Parsing archive content
-txt_8_9_stoptest: Stop to inspect report for error, list, test, auto-test
-txt_8_9_ttb: Toggle tool bar
-txt_8_8_ca: Accent color
-txt_8_8_btn: Button
-txt_8_8_cb: Button color
-txt_8_8_centered: Centered buttons
+txt_8_9_disp: காப்பக உள்ளடக்கத்தைக் காட்டுகிறது
+txt_8_9_parsing: காப்பக உள்ளடக்கத்தை பாகுபடுத்துகிறது
+txt_8_9_stoptest: பிழை, பட்டியல், சோதனை, தானியங்கு சோதனைக்கான அறிக்கையை ஆய்வு செய்ய நிறுத்து
+txt_8_9_ttb: கருவிப்பட்டியை மாற்று
+txt_8_8_ca: உச்சரிப்பு நிறம்
+txt_8_8_btn: பொத்தான்
+txt_8_8_cb: பொத்தான் நிறம்
+txt_8_8_centered: நடுநிலையாக்கப்பட்ட பொத்தான்கள்
 txt_8_8_light: ஒளி
-txt_8_8_lnk: Link
-txt_8_8_intnote: Please note that "Extract then move" option (in Options > Settings > Archive manager) is ignored for composing the command line in Console tab.
-txt_8_8_snz: Propagate Zone.Identifier (MoTW) (Windows, NTFS)
-txt_8_8_sm: Small icons size
-txt_8_8_solcol: Breadcrumb bar
-txt_8_8_snoi: Store owner/group ids (TAR, Linux)
-txt_8_8_snon: Store owner/group names (TAR, Linux)
+txt_8_8_lnk: இணைப்பு
+txt_8_8_intnote: முனையம் தாவலில் கட்டளை வரியை உருவாக்க, "பிரித்த பின் நகர்த்து" விருப்பம் (விருப்பங்கள் > அமைப்புகள் > காப்பக மேலாளர் என்பதில்) புறக்கணிக்கப்பட்டது என்பதை நினைவில் கொள்ளவும்.
+txt_8_8_snz: பரப்பு மண்டலம்.அடையாளங்காட்டி (MoTW) (சாளரங்கள், புதொகோமு)
+txt_8_8_sm: சிறிய சின்னங்களின் அளவு
+txt_8_8_solcol: ரொட்டிதுண்டு பட்டை
+txt_8_8_snoi: கடை உரிமையாளர்/குழு ஐடிகள் (நாடாகாப்பு, லினக்சு)
+txt_8_8_snon: கடை உரிமையாளர்/குழு பெயர்கள் (நாடாகாப்பு, லினக்சு)
 txt_8_8_tab: தாவல்
-txt_8_8_altt: Tabs style
-txt_8_8_autotest: Test archives after creation, if supported by the format
-txt_8_8_cw: Window color
-txt_8_7_csvhelp: "," international standard, ";" common in Latin locales
-txt_8_7_after: After archiving / extraction
-txt_8_7_bintest: binaries tested.
-txt_8_7_csv: CSV separator
-txt_8_7_hok: Hash of binaries used by PeaZip match with expected values
-txt_8_7_mo: Set archive manager options
-txt_8_7_showhm: Open Browser header menu
-txt_8_7_showsearchbar: Show search bar
-txt_8_7_showsm: Open Style menu
-txt_8_7_hnotok: Some hash of binaries used by PeaZip do not match with expected values:
-txt_8_7_verifybin: Verify hash of binaries
-txt_8_6_clear: "Clear" option removes temp edited files, otherwise available for further editing.
-txt_8_6_noclear: Discard all changes without updating the archive
-txt_8_6_nosimple: Do not update archive, keep temp edited files for further editing
-txt_8_6_immediate: Immediate execution
-txt_8_6_yessimple: Update archive, keep temp edited files for further editing
-txt_8_5_advbrowser: Apply filters to archive browser
-txt_8_5_detailslarge: Details, large
-txt_8_5_intext: Extract to temporary working directory then move to output destination, interactively ask before overwriting
-txt_8_5_listlarge: List, large
-txt_8_5_loadlayout: Load layout at startup
-txt_8_5_samplescripts: Sample scripts
-txt_8_4_keepopenerrorslist: Stop to inspect report for error, list
+txt_8_8_altt: தாவல்களின் நடை
+txt_8_8_autotest: வடிவத்தால் ஆதரிக்கப்பட்டால், உருவாக்கிய பிறகு காப்பகங்களைச் சோதி
+txt_8_8_cw: சாளர நிறம்
+txt_8_7_csvhelp: "," சர்வதேச தரநிலை, ";" லத்தீன் மொழிகளில் பொதுவானது
+txt_8_7_after: காப்பகப்படுத்துதல் / பிரித்தெடுத்த பிறகு
+txt_8_7_bintest: இருமங்கள் சோதிக்கப்பட்டன.
+txt_8_7_csv: காபிம பிரிப்பான்
+txt_8_7_hok: பட்டாணிசுருக்கு பயன்படுத்தும் இருமங்களின் கொத்து எதிர்பார்க்கப்படும் மதிப்புகளுடன் பொருந்துகிறது
+txt_8_7_mo: காப்பக மேலாளர் விருப்பங்களை அமை
+txt_8_7_showhm: உலாவி தலைப்பு பட்டியல்வைத் திற
+txt_8_7_showsearchbar: தேடல் பட்டியைக் காட்டு
+txt_8_7_showsm: நடை பட்டியல்வைத் திற
+txt_8_7_hnotok: பட்டாணிசுருக்கு பயன்படுத்தும் இருமங்களின் சில கொத்து எதிர்பார்த்த மதிப்புகளுடன் பொருந்தவில்லை: 
+txt_8_7_verifybin: இருமங்களின் கொத்தை சரிபார்
+txt_8_6_clear: "துடை" விருப்பம் தற்காலிக திருத்தப்பட்ட கோப்புகளை நீக்குகிறது, இல்லையெனில் மேலும் திருத்துவதற்கு கிடைக்கும்.
+txt_8_6_noclear: காப்பகத்தைப் புதுப்பிக்காமல் எல்லா மாற்றங்களையும் நிராகரி
+txt_8_6_nosimple: காப்பகத்தைப் புதுப்பிக்க வேண்டாம், மேலும் திருத்துவதற்கு தற்காலிக திருத்தப்பட்ட கோப்புகளை வைத்திரு
+txt_8_6_immediate: உடனடி இயக்கம்
+txt_8_6_yessimple: காப்பகத்தைப் புதுப்பி, மேலும் திருத்துவதற்கு தற்காலிக திருத்தப்பட்ட கோப்புகளை வைத்திரு
+txt_8_5_advbrowser: காப்பக உலாவியில் வடிப்பான்களைப் பயன்படுத்து
+txt_8_5_detailslarge: விவரங்கள், பெரியது
+txt_8_5_intext: தற்காலிகமாக செயல்படும் கோப்பகத்திற்கு பிரித்தெடு, பின்னர் வெளியீட்டு இலக்கிற்கு நகர்த்து, மேலெழுதுவதற்கு முன் ஊடாடலாக கேள்
+txt_8_5_listlarge: பட்டியல், பெரியது
+txt_8_5_loadlayout: தொடக்கத்தில் தளவமைப்பை ஏற்று
+txt_8_5_samplescripts: மாதிரி கைஉரைகள்
+txt_8_4_keepopenerrorslist: பட்டியல், பிழைக்கான அறிக்கையை ஆய்வு செய்ய நிறுத்து
 txt_8_3_mbubin: இருமம்
-txt_8_3_cw: Change working directory? This will reset temporary work files and restart the application.
-txt_8_3_temperature: Color temperature
-txt_8_3_mbudec: Decimal
-txt_8_3_htab: Highlight tabs
-txt_8_3_maxarg: Maximum length of arguments
-txt_8_3_mbu: Multiple-byte unit
-txt_8_3_prefalgo: Preferred algorithms
-txt_8_3_skipdel: Skip deletion of locked temp files (use reset to delete on demand)
-txt_8_3_lw: Some files in working directory are locked and cannot be removed automatically
-txt_8_3_noupx: This binary cannot be compressed (may be already compressed)
-txt_8_2_slower: (slower)
-txt_8_2_df: 7z / p7zip display content of folders
-txt_8_2_vreport: 7z / p7zip non-verbose report
-txt_8_2_ta: Accessed
-txt_8_2_tc: Created
-txt_8_2_keep: Keep files
-txt_8_2_tm: Modified
-txt_8_2_skipet: Skip testing for encryption
-txt_8_2_alltimes: Store all timestamps
-txt_8_2_supportedby: Supported by
-txt_8_1_preparse: Always pre-parse archives
-txt_8_1_bo: Browser optimization
-txt_8_1_bop: Browser optimization options can be set from Options > Settings > General tab, in order to allow browser to display archives containing a very large number of items.
-txt_8_1_nopreparse: Do not pre-parse archives
-txt_8_1_ed: Error(s) detected.
-txt_8_1_togglearc: Listing flat view of archive content may take long time, continue anyway?
-txt_8_1_preparsehint: Optimize performances limiting pre-parsing of large archives. Pre-parsing is meant to detect in advance possible issues in archive content.
-txt_8_1_slow: Slow
-txt_8_1_vslow: Very slow
-txt_8_1_volumes: volumes
-txt_8_0_altcol: Alternate grid color
-txt_8_0_forcebrowse: Browse non-canonical archive types (containers, disk images, installers,...)
-txt_8_0_commonalgo: Common algorithms
-txt_8_0_forceconvert: Convert non-canonical archive types
-txt_8_0_defaultactionhint: Default action double-clicking a file associated with PeaZip from the system
-txt_8_0_defaultaction: Default action on input (open, auto-extract...)
-txt_8_0_enableextand: Enable "Extract and open with" submenu
-txt_8_0_forcetyping: Force typing passwords interactively
-txt_8_0_setpwopt: Set password / keyfile options
-txt_8_0_forcetypinghelp: If supported by the backend, the task will prompt interactively for password. LIMITATIONS: task will run in console, will not run unattended, and cannot browse archives with encrypted filenames.
-txt_7_9_spacing: Spacing
-txt_7_9_zooming: Zoom
-txt_7_8_changelocalization: Change PeaZip language
-txt_7_8_custext: Custom extension
-txt_7_8_destexistfile: Destination already contains processed files. Replace files with same name?
-txt_7_8_dd: Drag and Drop
-txt_7_8_priorityhigh: High
-txt_7_8_priorityidle: Idle
-txt_7_8_rel: Extract then move to destination
-txt_7_8_prioritynormal: Normal
-txt_7_8_priorityrealtime: Real time
-txt_7_8_requirerestart: [requires restarting PeaZip]
-txt_7_8_tpriority: Tasks priority
-txt_7_8_update: Update
-txt_7_7_noneall: None: disable preview, edit, drag&drop and interactive extraction
-txt_7_7_nonetemp: None, user's temp if necessary
-txt_7_7_outtemp: Output, preview in user's temp
-txt_7_7_sys7zreq: Requires 7z, 7-Zip, or p7zip, or equivalent package to be installed
-txt_7_7_tw: Temporary work folder for archive creation, editing, preview and drag&drop extraction
-txt_7_7_sys7z: Use system 7z if available
-txt_7_6_zipenc: ZIP filenames encoding
-txt_7_6_color: Color
-txt_7_6_custenc: Custom code page
-txt_7_6_dark: Darker
-txt_7_6_tno: Do not sync archive tree
-txt_7_6_forcelocalenc: Force local
-txt_7_6_forceutf8enc: Force UTF-8
-txt_7_6_cpnote: If the chosen custom code page is unsupported, tasks will always end in error (most likely memory allocation error). In case that happens, change code page or reset the application.
-txt_7_6_defaultenc: Local, UTF-8 for extra symbols
-txt_7_6_dim: Dark
-txt_7_6_setcurdef: Set current path as default output path
-txt_7_6_setdef: Set default output path
-txt_7_6_tadvanced: Sync archive tree, keep visited nodes
-txt_7_6_tsimple: Sync archive tree, simple
-txt_7_6_tacolor: Text accent
-txt_7_5_always: Always
-txt_7_5_ask: Ask
-txt_7_5_autoclosesingle: Auto close after extraction if no browsing actions took place
-txt_7_5_cutlen: Cut name at specified length
-txt_7_5_cutlenw: Cut name at specified length (4..255) naming conflicts can be fixed manually later
-txt_7_5_dragnone: Do not lock target
-txt_7_5_specialbrowse: Do you want to extract everything in order to provide the file with the extra data it may need?
-txt_7_5_ee: Extract everything for special file types
-txt_7_5_draghide: Hide drop target
-txt_7_5_draglh: Lock and hide target
-txt_7_5_draglock: Lock drop target
-txt_7_5_never: Never
-txt_7_5_repnascii: Replace/remove non-ASCII characters
-txt_7_4_comment: Comment
-txt_7_4_7zfbrotlicomp: Fastest compression, 7Z Brotli
-txt_7_4_7zfzstandardcomp: Fastest compression, 7Z Zstandard
-txt_7_4_presetrar: High compression, RAR
-txt_7_4_tkeep: Keep original archive timestamp
-txt_7_4_lock: Lock archive
-txt_7_4_locked: locked
-txt_7_4_lockconfirm: Locked archives cannot be further modified, proceed locking this archive?
-txt_7_4_recover: Repair archive
-txt_7_4_tcurr: Set archive timestamp from current system time
-txt_7_4_setarc: Set advanced archiving options
-txt_7_4_setext: Set advanced extraction options
-txt_7_4_swzipx: Switch to zipx extension for non-Deflate zip archives
-txt_7_3_archiveerrors: [archive may contain errors]
-txt_7_3_archiveerrorshint: Archive may not be valid (due missing, corrupted, or out of standard data), it is possible to run Test for detailed information. If archive's table of content is encrypted, password is needed before browsing it.
-txt_7_3_clickextall: Click "Extract all" to enable
-txt_7_3_noconfdel: Do not ask confirmation for delete after archiving / extraction
-txt_7_3_profile7zfastest: Fast compression, 7Z fastest
-txt_7_3_maxbr: Maximize Brotli compression using more memory (may be incompatible with some extractors)
-txt_7_3_maxzstd: Maximize Zstandard compression using more memory
-txt_7_3_profile7zfast: Medium compression, 7Z fast
-txt_7_3_stl: Set archive timestamp from most recent file
-txt_7_2_altcomp: High compression, ARC
-txt_7_2_clearnoupdate: Clear edited files
-txt_7_2_autoclosepeazip: Close PeaZip when task completes
-txt_7_2_zpaqall: Extract all revisions
-txt_7_2_extcomp: Extreme compression, ZPAQ
-txt_7_2_extcompultra: Extreme compression, ZPAQ ultra
-txt_7_2_fbrotlicomp: Fastest compression, Brotli
-txt_7_2_fzstandardcomp: Fastest compression, Zstandard
-txt_7_2_loadcompsettings: Load compression settings
-txt_7_2_savecompsettings: Save compression settings
-txt_7_2_source: Source
-txt_7_2_updateclear: Update archive, clear temp edited files
-txt_7_1_type_description_brotli: Brotli: fast compressor from Google, very fast decompression
-txt_7_1_new: Extract all here (in new folder)
-txt_7_1_smart: Extract all here (smart new folder)
-txt_7_1_profileintermediate: Medium compression, ZIP/BZip2 fast
-txt_7_1_renfilesonly: Rename only files
-txt_7_1_typetosearch: Type to search in current path
-txt_7_1_type_description_zstd: Zstandard: fast compressor from Facebook, very fast decompression
-txt_7_0_af: Analyze content of folders
-txt_7_0_autoopentar: Auto open TAR archive inside compressed TAR.* files
-txt_7_0_exttmppath: Content will be extracted outside the temporary work path, in: 
-txt_6_9_autou: Auto update modified files in archives
-txt_6_9_forceu: Update edited files in archive
-txt_6_9_opuns: Operation not supported for current archive type
-txt_6_9_overarch: Overwrite file(s) with same name already existing inside the archive?
-txt_6_9_uconf: Previewed file has been modified. Update the current archive?
-txt_6_8_ndrop: Use native Drag and Drop on Windows
-txt_6_7_nop: (no preview)
-txt_6_6_pdupfound: possible duplicates found (quick approximate test)
-txt_6_6_rsh: Reset search history
-txt_6_6_pdupfind: Suggest duplicates
-txt_6_6_forcemodify: Edit non-canonical archive types as
-txt_6_5_mandatory: (mandatory)
-txt_6_5_abort: Abort
-txt_6_5_askp: Ask to set password at startup
-txt_6_5_chp: Change password
-txt_6_5_def: Definition
-txt_6_5_nop: Don't ask to set password at startup
-txt_6_5_error: Error
-txt_6_5_seqerr: Error(s) detected, original files will not be deleted
-txt_6_5_sni: Include NT security information
-txt_6_5_sns: Include NTFS Alternate Data Stream
-txt_6_5_privacy: Privacy and Security
-txt_6_5_showvolatile: Show which options are volatile / context dependent
-txt_6_5_force: Try to open archives containing errors
-txt_6_5_warning: Warning
-txt_6_5_yes: Yes
-txt_6_5_yesall: Yes to all
-txt_6_5_np: You can now change password of converted archive(s) to a new one, or blank the password to skip encryption
-txt_6_4_absolute: Absolute paths
-txt_6_4_appdirn: Append directory name
-txt_6_4_closeallother: Close all other tabs
-txt_6_4_closeright: Close tabs on the right
-txt_6_4_collapse: Collapse tabs
-txt_6_4_expand: Expand tabs
-txt_6_4_full: Full paths
-txt_6_4_new: New
-txt_6_4_openintab: Open in a new tab
-txt_6_4_paths: Paths
-txt_6_4_prepdirn: Prepend directory name
-txt_6_4_relative: Relative paths
-txt_6_4_tabbar: Tab bar
-txt_6_3_autoadjust: Auto adjust columns
-txt_6_3_cinfo: Info and comments
-txt_6_3_syn: Synchronize archive with disk
-txt_6_3_uar: Update only files already in archive
-txt_6_2_encext: Add ".enc" suffix to encrypted archives
-txt_6_2_archive: Archive file type
-txt_6_2_container: Container file type
-txt_6_1_ec: Expand / collapse archive tree
-txt_6_0_msq: Sort by file type for solid compression
-txt_5_9_lff: Analyze files and folders
-txt_5_9_pff: Analyze, show files header/EOF
-txt_5_9_start: Start from
-txt_5_8_l0: Allow any supported component/format
-txt_5_8_l1: Allow only Free Software components
-txt_5_8_l2: Allow only open archive formats
-txt_5_8_ascii: ASCII safe, scripts are safe on legacy environments
-txt_5_8_cp: Code Page safe, scripts may trigger problems on legacy environments with different Code Pages
-txt_5_8_fs: Free Software compliance
-txt_5_8_utf: Scripts need full UTF-8 / Unicode environment
-txt_5_8_fsr: This format is not supported due Free Software compliance restrictions (Options > Settings > Advanced)
-txt_5_7_pinstalled: INSTALLED
-txt_5_7_pmissing: MISSING
-txt_5_7_plugin: Plugin missing, can be installed from Help > Check for Plugins
-txt_5_6_basic: Basic
-txt_5_6_exarc: Extract archive
-txt_5_6_tab: Open in new tab
-txt_5_6_rc: Right click for options
-txt_5_6_layouts: Saved layouts
-txt_5_6_upexisting: Update existing archive
-txt_5_6_verbose: Verbose
-txt_5_5_case: (case sensitive)
-txt_5_5_add: Add string at specified position
-txt_5_5_addsel: Add to current selection
-txt_5_5_ext: Change files extension
-txt_5_5_plugin: Check for Plugins
-txt_5_5_copypath: Copy path
-txt_5_5_delete: Delete characters at specified position
-txt_5_5_halt: Halt system when task completes
-txt_5_5_positionw: Hint: 1 add before first char, 2 second, etc... "z" for end of file name
-txt_5_5_positionwd: Hint: 1 delete from first char included, 2 second, ... "z" for end of file name
-txt_5_5_replaceneww: Hint: provide an empty new string to simply remove the old string
-txt_5_5_lower: lowercase
-txt_5_5_replaceoldw: Modify all occurrences of this string or character in the file name
-txt_5_5_newext: New extension
-txt_5_5_new: New string
-txt_5_5_n: Number of characters to delete
-txt_5_5_old: Old string
-txt_5_5_position: Position (number or "z" for end)
-txt_5_5_intdir: Smart new folder
-txt_5_5_replacestr: Replace/remove string
-txt_5_5_datesameday: Same day of selected object
-txt_5_5_datesamehour: Same hour of selected object
-txt_5_5_datesamemonth: Same month of selected object
-txt_5_5_datesameweek: Same week of selected object
-txt_5_5_datesameyear: Same year of selected object
-txt_5_5_scan: Scan
-txt_5_5_select: Select
-txt_5_5_similar: Similar to selected object
-txt_5_5_starting: Starting with same character
-txt_5_5_string: String to add
-txt_5_5_subtractsel: Subtract from current selection
-txt_5_5_datehour: This hour
-txt_5_5_datemonth: This month
-txt_5_5_dateweek: This week
+txt_8_3_cw: பணி கோப்பகத்தை மாற்றவா? இது தற்காலிக பணி கோப்புகளை மீட்டமைத்து பயன்பாட்டை மறுதொடக்கம் செய்யும்.
+txt_8_3_temperature: வண்ண வெப்பநிலை
+txt_8_3_mbudec: தசம
+txt_8_3_htab: தாவல்களை முன்னிலைப்படுத்து
+txt_8_3_maxarg: வாதங்களின் அதிகஅளவு நீளம்
+txt_8_3_mbu: பல பைட் அலகு
+txt_8_3_prefalgo: விருப்பமான வழிமுறைகள்
+txt_8_3_skipdel: பூட்டப்பட்ட தற்காலிக கோப்புகளை நீக்குவதைத் தவிர் (தேவையின் பேரில் நீக்க மீட்டமைப்பைப் பயன்படுத்து)
+txt_8_3_lw: பணி கோப்பகத்தில் உள்ள சில கோப்புகள் பூட்டப்பட்டுள்ளன, அவற்றை தானாக அகற்ற முடியாது
+txt_8_3_noupx: இந்த இருமத்தை சுருக்க முடியாது (ஏற்கனவே சுருக்கப்பட்டிருக்கலாம்)
+txt_8_2_slower: (மெதுவாக)
+txt_8_2_df: 7z / p7zip கோப்புறைகளின் உள்ளடக்கத்தைக் காட்டுகிறது
+txt_8_2_vreport: 7z / p7zip சொற்களற்ற அறிக்கை
+txt_8_2_ta: அணுகப்பட்டது
+txt_8_2_tc: உருவாக்கப்பட்டது
+txt_8_2_keep: கோப்புகளை வைத்திரு
+txt_8_2_tm: மாற்றியமைக்கப்பட்டது
+txt_8_2_skipet: குறியாக்கத்திற்கான சோதனையைத் தவிர்
+txt_8_2_alltimes: எல்லா நேர முத்திரைகளையும் சேமி
+txt_8_2_supportedby: ஆதரித்தது
+txt_8_1_preparse: எப்போதும் காப்பகங்களை முன் அலசு
+txt_8_1_bo: உலாவி மேம்படுத்தல்
+txt_8_1_bop: அதிக எண்ணிக்கையிலான உருப்படிகளைக் கொண்ட காப்பகங்களைக் காண்பிக்க உலாவியை இசைவுக்கும் வகையில், விருப்பங்கள் > அமைப்புகள் > பொதுத் தாவலில் இருந்து உலாவி மேம்படுத்தல் விருப்பங்களை அமைக்கலாம்.
+txt_8_1_nopreparse: காப்பகங்களை முன்கூட்டியே அலச வேண்டாம்
+txt_8_1_ed: பிழை(கள்) கண்டறியப்பட்டது.
+txt_8_1_togglearc: காப்பக உள்ளடக்கத்தின் தட்டையான காட்சியை பட்டியலிட நீண்ட நேரம் ஆகலாம், எப்படியும் தொடரவா?
+txt_8_1_preparsehint: பெரிய காப்பகங்களின் முன் பாகுபடுத்தலை கட்டுப்படுத்தும் நிகழ்ச்சிகளை மேம்படுத்து. முன் பாகுபடுத்துதல் என்பது காப்பக உள்ளடக்கத்தில் சாத்தியமான சிக்கல்களை முன்கூட்டியே கண்டறிவதாகும்.
+txt_8_1_slow: மெதுவாக
+txt_8_1_vslow: மிகவும் மெதுவாக
+txt_8_1_volumes: தொகுதிகள்
+txt_8_0_altcol: கட்டத்தின் மாற்று நிறம்
+txt_8_0_forcebrowse: நியமனம் அல்லாத காப்பக வகைகளை உலாவு (கொள்கலன்கள், வட்டு படங்கள், நிறுவிகள்,...)
+txt_8_0_commonalgo: பொதுவான வழிமுறைகள்
+txt_8_0_forceconvert: நியமனம் அல்லாத காப்பக வகைகளை மாற்று
+txt_8_0_defaultactionhint: கணினியிலிருந்து பட்டாணிசுருக்கு உடன் தொடர்புடைய கோப்பை இருமுறை சொடுக்கும் இயல்புநிலை செயல்
+txt_8_0_defaultaction: உள்ளீட்டின் இயல்புநிலை செயல் (திறந்த, தானாக பிரித்தெடுத்தல்...)
+txt_8_0_enableextand: துணைபட்டியல்வை "பிரித்து மற்றும் திற" என்பதை இயக்கு
+txt_8_0_forcetyping: கடவுச்சொற்களை ஊடாடும் வகையில் தட்டச்சு செய்ய கட்டாயமாக்கு
+txt_8_0_setpwopt: கடவுச்சொல் / திறவுகோப்பு விருப்பங்களை அமை
+txt_8_0_forcetypinghelp: பின்தளத்தில் ஆதரிக்கப்பட்டால், பணியானது கடவுச்சொல்லை ஊடாடும் வகையில் கேட்கும். வரம்புகள்:  பணி முனையத்தில் இயங்கும், கவனிக்கப்படாமல் இயங்காது, மேலும் மறைகுறியாக்கப்பட்ட கோப்புப்பெயர்களுடன் காப்பகங்களை உலாவ முடியாது.
+txt_7_9_spacing: இடைவெளி
+txt_7_9_zooming: உருமாற்று
+txt_7_8_changelocalization: பட்டாணிசுருக்கு மொழியை மாற்று
+txt_7_8_custext: தனிப்பயன் நீட்டிப்பு
+txt_7_8_destexistfile: இலக்கு ஏற்கனவே செயலாக்கப்பட்ட கோப்புகளைக் கொண்டுள்ளது. கோப்புகளை அதே பெயரில் மாற்றவா?
+txt_7_8_dd: இழுத்து விடு
+txt_7_8_priorityhigh: உயர்
+txt_7_8_priorityidle: சும்மா
+txt_7_8_rel: பிரித்தெடுத்த பிறகு இலக்குக்குச் செல்
+txt_7_8_prioritynormal: இயல்பானது
+txt_7_8_priorityrealtime: நிகழ் நேரம்
+txt_7_8_requirerestart: [பட்டாணிசுருக்கை மறுதொடக்கம் செய்ய வேண்டும்]
+txt_7_8_tpriority: பணிகளுக்கு முன்னுரிமை
+txt_7_8_update: புதுப்பி
+txt_7_7_noneall: எதுவுமில்லை:  முன்னோட்டத்தை முடக்கு, திருத்து, இழுத்து விடு மற்றும் ஊடாடும் பிரித்தெடுத்தல்
+txt_7_7_nonetemp: இல்லை, தேவைப்பட்டால் பயனரின் தற்காலிகம்
+txt_7_7_outtemp: வெளியீடு, பயனரின் தற்காலிகத்தில் முன்னோட்டம்
+txt_7_7_sys7zreq: 7z, 7-Zip அல்லது p7zip அல்லது அதற்கு சமமான தொகுப்பு நிறுவப்பட வேண்டும்
+txt_7_7_tw: காப்பகத்தை உருவாக்குதல், திருத்துதல், முன்னோட்டம் மற்றும் இழுத்து விடுதல் பிரித்தெடுப்பதற்கான தற்காலிக பணி கோப்புறை
+txt_7_7_sys7z: கணினி 7z இருந்தால் பயன்படுத்து
+txt_7_6_zipenc: ZIP கோப்பு பெயர்கள் குறியாக்கம்
+txt_7_6_color: நிறம்
+txt_7_6_custenc: தனிப்பயன் குறியீடு பக்கம்
+txt_7_6_dark: இருண்டது
+txt_7_6_tno: காப்பக மரத்தை ஒத்திசைக்க வேண்டாம்
+txt_7_6_forcelocalenc: கட்டாய உள்ளகம்
+txt_7_6_forceutf8enc: கட்டாய ஒருங்குறிஉவ-8
+txt_7_6_cpnote: தேர்ந்தெடுக்கப்பட்ட தனிப்பயன் குறியீடு பக்கம் ஆதரிக்கப்படாவிட்டால், பணிகள் எப்போதும் பிழையில் முடிவடையும் (பெரும்பாலும் நினைவக ஒதுக்கீடு பிழை). அது நடந்தால், குறியீட்டு பக்கத்தை மாற்று அல்லது பயன்பாட்டை மீட்டமை.
+txt_7_6_defaultenc: உள்ளகம், கூடுதல் குறியீடுகளுக்கு ஒருங்குறிஉவ-8
+txt_7_6_dim: இருள்
+txt_7_6_setcurdef: தற்போதைய பாதையை இயல்புநிலை வெளியீட்டு பாதையாக அமை
+txt_7_6_setdef: இயல்புநிலை வெளியீட்டு பாதையை அமை
+txt_7_6_tadvanced: காப்பக மரத்தை ஒத்திசை, பார்வையிட்ட முனைகளை வைத்திரு
+txt_7_6_tsimple: காப்பக மரத்தை ஒத்திசை, எளிமையானது
+txt_7_6_tacolor: உரை உச்சரிப்பு
+txt_7_5_always: எப்போதும்
+txt_7_5_ask: கேள்
+txt_7_5_autoclosesingle: உலாவல் நடவடிக்கைகள் எதுவும் நடைபெறவில்லை என்றால் பிரித்தெடுத்த பிறகு தானாக மூடப்படும்
+txt_7_5_cutlen: குறிப்பிட்ட நீளத்தில் பெயரை வெட்டுங்கள்
+txt_7_5_cutlenw: குறிப்பிடப்பட்ட நீளத்தில் பெயரை வெட்டுங்கள் (4..255) பெயரிடும் முரண்பாடுகளை பின்னர் கைமுறையாக சரிசெய்யலாம்
+txt_7_5_dragnone: இலக்கை பூட்ட வேண்டாம்
+txt_7_5_specialbrowse: கோப்பிற்குத் தேவைப்படும் கூடுதல் தரவை வழங்க, எல்லாவற்றையும் பிரித்தெடுக்க விரும்புகிறீர்களா?
+txt_7_5_ee: சிறப்பு கோப்பு வகைகளுக்கு அனைத்தையும் பிரித்தெடு
+txt_7_5_draghide: விடும் இலக்கை மறை
+txt_7_5_draglh: இலக்கை பூட்டி மறை
+txt_7_5_draglock: விடும் இலக்கை பூட்டு
+txt_7_5_never: ஒருபோதும் இல்லை
+txt_7_5_repnascii: அநிகுதப அல்லாத எழுத்துக்களை மாற்று/அகற்று
+txt_7_4_comment: கருத்து
+txt_7_4_7zfbrotlicomp: வேகமான சுருக்கம், 7Z ப்ரோட்லி
+txt_7_4_7zfzstandardcomp: வேகமான சுருக்கம், 7Z Zநிலையான
+txt_7_4_presetrar: உயர் சுருக்க, RAR
+txt_7_4_tkeep: அசல் காப்பக நேர முத்திரையை வைத்திரு
+txt_7_4_lock: காப்பகத்தைப் பூட்டு
+txt_7_4_locked: பூட்டப்பட்டது
+txt_7_4_lockconfirm: பூட்டிய காப்பகங்களை மேலும் மாற்ற முடியாது, இந்த காப்பகத்தை பூட்டுவதை தொடரவா?
+txt_7_4_recover: காப்பகத்தை சரிசெய்
+txt_7_4_tcurr: தற்போதைய கணினி நேரத்திலிருந்து காப்பக நேர முத்திரையை அமை
+txt_7_4_setarc: மேம்பட்ட காப்பக விருப்பங்களை அமை
+txt_7_4_setext: மேம்பட்ட பிரித்தெடு விருப்பங்களை அமை
+txt_7_4_swzipx: காற்றிறங்காத சுருக்க காப்பகங்களுக்கு zipx நீட்டிப்புக்கு மாற்று
+txt_7_3_archiveerrors: [காப்பகத்தில் பிழைகள் இருக்கலாம்]
+txt_7_3_archiveerrorshint: காப்பகம் செல்லுபடியாகாமல் இருக்கலாம் (காணாமல், சிதைந்த அல்லது நிலையான தரவு இல்லாததால்), விரிவான தகவலுக்கு சோதனையை இயக்க முடியும். காப்பகத்தின் உள்ளடக்க அட்டவணை குறியாக்கம் செய்யப்பட்டிருந்தால், அதை உலாவுவதற்கு முன் கடவுச்சொல் தேவை.
+txt_7_3_clickextall: செயல்படுத்த "அனைத்தையும் பிரித்தெடு" என்பதைக் சொடுக்கு
+txt_7_3_noconfdel: காப்பகப்படுத்துதல் / பிரித்தெடுத்த பிறகு நீக்குவதற்கான உறுதிப்படுத்தலைக் கேட்க வேண்டாம்
+txt_7_3_profile7zfastest: வேகமான சுருக்கம், 7Z வேகமானது
+txt_7_3_maxbr: அதிக நினைவகத்தைப் பயன்படுத்தி ப்ரோட்லி சுருக்கத்தை அதிகரி (சில பிரிப்பான்களுடன் பொருந்தாமல் இருக்கலாம்)
+txt_7_3_maxzstd: அதிக நினைவகத்தைப் பயன்படுத்தி Zநிலையான சுருக்கத்தை அதிகரி
+txt_7_3_profile7zfast: நடுத்தர சுருக்கம், 7Z வேகம்
+txt_7_3_stl: மிகச் அண்மை கோப்பிலிருந்து காப்பக நேர முத்திரையை அமை
+txt_7_2_altcomp: உயர் சுருக்க, ARC
+txt_7_2_clearnoupdate: திருத்தப்பட்ட கோப்புகளை அழி
+txt_7_2_autoclosepeazip: பணி முடிந்ததும் பட்டாணிசுருக்கை மூடு
+txt_7_2_zpaqall: அனைத்து திருத்தங்களையும் பிரித்தெடு
+txt_7_2_extcomp: தீவிர சுருக்கம், ZPAQ
+txt_7_2_extcompultra: தீவிர சுருக்கம், ZPAQ அல்ட்ரா
+txt_7_2_fbrotlicomp: வேகமான சுருக்கம், ப்ரோட்லி
+txt_7_2_fzstandardcomp: வேகமான சுருக்கம், Zநிலையான
+txt_7_2_loadcompsettings: சுருக்க அமைப்புகளை ஏற்று
+txt_7_2_savecompsettings: சுருக்க அமைப்புகளைச் சேமி
+txt_7_2_source: மூலம்
+txt_7_2_updateclear: காப்பகத்தைப் புதுப்பி, தற்காலிக திருத்தப்பட்ட கோப்புகளை அழி
+txt_7_1_type_description_brotli: ப்ரோட்லி:  கூகிள் வழங்கும் வேகமான அமுக்கி, மிக வேகமாக பிரிப்பான்
+txt_7_1_new: அனைத்தையும் இங்கே பிரித்தெடு (புதிய கோப்புறையில்)
+txt_7_1_smart: அனைத்தையும் இங்கே பிரித்தெடு (திறன் புது கோப்புறை)
+txt_7_1_profileintermediate: நடுத்தர சுருக்கம், ZIP/BZip2 வேகமானது
+txt_7_1_renfilesonly: கோப்புகளை மட்டும் மறுபெயரிடு
+txt_7_1_typetosearch: தற்போதைய பாதையில் தேட தட்டச்சு செய்
+txt_7_1_type_description_zstd: Zநிலையான:  முகநூலிலிருந்து வேகமான அமுக்கி, மிக வேகமாக பிரிப்பான்
+txt_7_0_af: கோப்புறைகளின் உள்ளடக்கத்தை பகுப்பாய்வு செய்யுங்கள்
+txt_7_0_autoopentar: சுருக்கப்பட்ட நாடாகாப்பு.* கோப்புகளுக்குள் நாடாகாப்பு காப்பகத்தைத் தானாகத் திற
+txt_7_0_exttmppath: தற்காலிக பணிப் பாதைக்கு வெளியே உள்ளடக்கம் பிரித்தெடுக்கப்படும்: 
+txt_6_9_autou: காப்பகங்களில் மாற்றியமைக்கப்பட்ட கோப்புகளை தானாக புதுப்பி
+txt_6_9_forceu: காப்பகத்தில் திருத்தப்பட்ட கோப்புகளைப் புதுப்பி
+txt_6_9_opuns: தற்போதைய காப்பக வகைக்கு செயல்பாடு ஆதரிக்கப்படவில்லை
+txt_6_9_overarch: காப்பகத்தில் ஏற்கனவே உள்ள அதே பெயரில் கோப்பு(களை) மேலெழுதவா?
+txt_6_9_uconf: முன்னோட்ட கோப்பு மாற்றப்பட்டது. தற்போதைய காப்பகத்தைப் புதுப்பிக்கவா?
+txt_6_8_ndrop: சாளரங்களில் இயல்பான இழுத்து விடு பயன்படுத்து
+txt_6_7_nop: (முன்னோட்டம் இல்லை)
+txt_6_6_pdupfound: சாத்தியமான நகல் கண்டறியப்பட்டது (விரைவான தோராயமான சோதனை)
+txt_6_6_rsh: தேடல் வரலாற்றை மீட்டமை
+txt_6_6_pdupfind: நகல்களைப் பரிந்துரை
+txt_6_6_forcemodify: நியமனம் அல்லாத காப்பக வகைகளை இவ்வாறு திருத்து
+txt_6_5_mandatory: (கட்டாயம்)
+txt_6_5_abort: கைவிடு
+txt_6_5_askp: தொடக்கத்தில் கடவுச்சொல்லை அமைக்கச் சொல்
+txt_6_5_chp: கடவுச்சொல்லை மாற்று
+txt_6_5_def: வரையறை
+txt_6_5_nop: தொடக்கத்தில் கடவுச்சொல்லை அமைக்கச் சொல்ல வேண்டாம்
+txt_6_5_error: பிழை
+txt_6_5_seqerr: பிழை(கள்) கண்டறியப்பட்டது, அசல் கோப்புகள் நீக்கப்படாது
+txt_6_5_sni: புதொ பாதுகாப்பு தகவலைச் சேர்
+txt_6_5_sns: புதொகோமு மாற்று தரவு ஓடைகளைச் சேர்
+txt_6_5_privacy: தனியுரிமை மற்றும் பாதுகாப்பு
+txt_6_5_showvolatile: எந்தெந்த விருப்பங்கள் நிலையற்றவை / சூழல் சார்ந்தவை என்பதைக் காட்டு
+txt_6_5_force: பிழைகள் உள்ள காப்பகங்களைத் திறக்க முயற்சி
+txt_6_5_warning: முன்னறிவிப்பு
+txt_6_5_yes: ஆம்
+txt_6_5_yesall: அனைவருக்கும் ஆம்
+txt_6_5_np: இப்போது மாற்றப்பட்ட காப்பகத்தின் கடவுச்சொல்லை புதியதாக மாற்றலாம் அல்லது குறியாக்கத்தைத் தவிர்க்க கடவுச்சொல்லை வெறுமையாக்கலாம்
+txt_6_4_absolute: முழுமையான பாதைகள்
+txt_6_4_appdirn: கோப்பகத்தின் பெயரை பின்னொட்டு
+txt_6_4_closeallother: மற்ற எல்லா தாவல்களையும் மூடு
+txt_6_4_closeright: வலதுபுறத்தில் உள்ள தாவல்களை மூடு
+txt_6_4_collapse: தாவல்களைச் சுருக்கு
+txt_6_4_expand: தாவல்களை விரிவாக்கு
+txt_6_4_full: முழு பாதைகள்
+txt_6_4_new: புதிய
+txt_6_4_openintab: புதிய தாவலில் திற
+txt_6_4_paths: பாதைகள்
+txt_6_4_prepdirn: கோப்பகத்தின் பெயரை முன்வை
+txt_6_4_relative: உறவு பாதைகள்
+txt_6_4_tabbar: தாவல் பட்டை
+txt_6_3_autoadjust: நெடுவரிசைகளை தானாக சரிசெய்
+txt_6_3_cinfo: தகவல் மற்றும் கருத்துகள்
+txt_6_3_syn: காப்பகத்தை வட்டுடன் ஒத்திசை
+txt_6_3_uar: ஏற்கனவே காப்பகத்தில் உள்ள கோப்புகளை மட்டும் புதுப்பி
+txt_6_2_encext: மறைகுறியாக்கப்பட்ட காப்பகங்களில் ".enc" பின்னொட்டைச் சேர்
+txt_6_2_archive: காப்பக கோப்பு வகை
+txt_6_2_container: கொள்கலன் கோப்பு வகை
+txt_6_1_ec: காப்பக மரத்தை விரிவாக்கு / சுருக்கு
+txt_6_0_msq: திடமான சுருக்கத்திற்கான கோப்பு வகையின்படி வரிசைப்படுத்து
+txt_5_9_lff: கோப்புகள் மற்றும் கோப்புறைகளை பகுப்பாய்வு செய்யுங்கள்
+txt_5_9_pff: பகுப்பாய்வு, கோப்புகள் தலைப்பு/முடிவு காட்டு
+txt_5_9_start: இருந்து தொடங்கு
+txt_5_8_l0: ஆதரிக்கப்படும் எந்த கூறு/வடிவத்தையும் இசைவு
+txt_5_8_l1: இலவச மென்பொருள் கூறுகளை மட்டும் இசைவு
+txt_5_8_l2: திறந்த காப்பக வடிவங்களை மட்டும் இசைவு
+txt_5_8_ascii: அநிகுதப பாதுகாப்பானது, மரபு சூழல்களில் கைஉரைகள் பாதுகாப்பானவை
+txt_5_8_cp: குறி பக்கம் பாதுகாப்பானது, கைஉரைகள் வெவ்வேறு குறியீடு பக்கங்களைக் கொண்ட மரபு சூழல்களில் சிக்கல்களைத் தூண்டலாம்
+txt_5_8_fs: இலவச மென்பொருள் இணக்கம்
+txt_5_8_utf: கைஉரைகளுக்கு முழு ஒஉவ-8 / ஒருங்குறி சூழல் தேவை
+txt_5_8_fsr: இலவச மென்பொருள் இணக்கக் கட்டுப்பாடுகள் காரணமாக இந்த வடிவம் ஆதரிக்கப்படவில்லை (விருப்பங்கள் > அமைப்புகள் > மேம்பட்டது)
+txt_5_7_pinstalled: நிறுவப்பட்டது
+txt_5_7_pmissing: காணவில்லை
+txt_5_7_plugin: செருகுநிரல் இல்லை, உதவி > செருகுநிரல்களைச் சரிபார் என்பதிலிருந்து நிறுவலாம்
+txt_5_6_basic: அடிப்படை
+txt_5_6_exarc: காப்பகத்தைப் பிரித்தெடு
+txt_5_6_tab: புதிய தாவலில் திற
+txt_5_6_rc: விருப்பங்களுக்கு வலது சொடுக்கு
+txt_5_6_layouts: சேமிக்கப்பட்ட தளவமைப்புகள்
+txt_5_6_upexisting: ஏற்கனவே உள்ள காப்பகத்தைப் புதுப்பி
+txt_5_6_verbose: வாய்மொழி
+txt_5_5_case: (வழக்கு உணர்திறன்)
+txt_5_5_add: குறிப்பிட்ட நிலையில் சரத்தைச் சேர்
+txt_5_5_addsel: தற்போதைய தேர்வில் சேர்
+txt_5_5_ext: கோப்பு நீட்டிப்பை மாற்று
+txt_5_5_plugin: செருகுநிரல்களைச் சரிபார்
+txt_5_5_copypath: பாதையை நகலெடு
+txt_5_5_delete: குறிப்பிட்ட நிலையில் உள்ள எழுத்துக்களை நீக்கு
+txt_5_5_halt: பணி முடிந்ததும் கணினியை நிறுத்து
+txt_5_5_positionw: குறிப்பு:  முதல் எழுத்துக்கு முன் 1 சேர், 2 வினாடி, முதலியன... கோப்பு பெயரின் முடிவிற்கு "z"
+txt_5_5_positionwd: குறிப்பு:  முதல் எழுத்தில் இருந்து 1 நீக்கம் சேர்க்கப்பட்டுள்ளது, 2 வினாடி, ... "z" கோப்பு பெயரின் முடிவிற்கு
+txt_5_5_replaceneww: குறிப்பு:  பழைய சரத்தை வெறுமனே அகற்ற, வெற்று புதிய சரத்தை வழங்கவும்
+txt_5_5_lower: சிறிய எழுத்து
+txt_5_5_replaceoldw: இந்த சரம் அல்லது எழுத்தின் அனைத்து நிகழ்வுகளையும் கோப்பு பெயரில் மாற்று
+txt_5_5_newext: புதிய நீட்டிப்பு
+txt_5_5_new: புதிய சரம்
+txt_5_5_n: நீக்க வேண்டிய எழுத்துகளின் எண்ணிக்கை
+txt_5_5_old: பழைய சரம்
+txt_5_5_position: நிலை (எண் அல்லது முடிவுக்கு "z")
+txt_5_5_intdir: திறன் புதிய கோப்புறை
+txt_5_5_replacestr: சரத்தை மாற்று/அகற்று
+txt_5_5_datesameday: தேர்ந்தெடுக்கப்பட்ட பொருளின் அதே நாள்
+txt_5_5_datesamehour: தேர்ந்தெடுக்கப்பட்ட பொருளின் அதே மணிநேரம்
+txt_5_5_datesamemonth: தேர்ந்தெடுக்கப்பட்ட பொருளின் அதே திங்கள்
+txt_5_5_datesameweek: தேர்ந்தெடுக்கப்பட்ட பொருளின் அதே வாரம்
+txt_5_5_datesameyear: தேர்ந்தெடுக்கப்பட்ட பொருளின் அதே ஆண்டு
+txt_5_5_scan: வருடல்
+txt_5_5_select: தேர்ந்தெடு
+txt_5_5_similar: தேர்ந்தெடுக்கப்பட்ட பொருளைப் போன்றது
+txt_5_5_starting: ஒரே பாத்திரத்தில் ஆரம்பிக்கிறது
+txt_5_5_string: சேர்க்க வேண்டிய சரம்
+txt_5_5_subtractsel: தற்போதைய தேர்வில் இருந்து கழி
+txt_5_5_datehour: இந்த மணிநேரம்
+txt_5_5_datemonth: இந்த மாதம்
+txt_5_5_dateweek: இந்த வாரம்
 txt_5_5_dateyear: இந்த ஆண்டு
-txt_5_5_dateday: Today
-txt_5_5_upper: UPPERCASE
-txt_5_5_extw: Warning: changing file extension the file may become unusable
-txt_5_4_da: Date added
-txt_5_4_deletearchives: Delete archives after extraction
-txt_5_4_deletefiles: Delete files after archiving
-txt_5_4_deleteoriginal: Deletion procedure, as set in main screen, will be appended to the script.
-txt_5_4_lv: Last visited
-txt_5_4_deletearchivesconfirm: Confirm deletion of original archives?
-txt_5_4_deletefilesconfirm: Confirm deletion of original files?
-txt_5_4_used: Used
-txt_5_3_profilebest: Extreme compression, 7Z ultra
-txt_5_3_profileadvanced: High compression, 7Z
-txt_5_3_profilenormal: Medium compression, ZIP (compatible with most extractors)
-txt_5_3_profileveryfast: Fast compression, ZIP fast (compatible with most extractors)
-txt_5_3_profilepassword: Protect with password, 7Z format
-txt_5_3_profile10mb: Keep output under 25 MB, for mail attachment limitations
-txt_5_3_profilesfx: Auto extracting, recipient will not need an extraction software
-txt_5_3_cml: System context menu language
-txt_5_3_cmlmessage: Double click on desired context menu language and confirm registry merging. This setting needs to be re-applied when the application is installed/updated or after System integration wizard is used.
-txt_5_3_exc: Exclusion filters prevail on inclusion filters
-txt_5_3_ia: Include also
-txt_5_3_io: Include only
-txt_5_3_rec: Recurse subdirs
-txt_5_3_resetsi: Re-configure system integration (context menu, SendTo, file associations)?
-txt_5_2_oadd: Archive to original path
-txt_5_2_zerodelete: Do you want to delete and overwrite with all 0 selected file(s)? The operation can't be undone and files will be not recoverable
-txt_5_2_zfree: Do you want to overwrite with all 0 free space on this drive?
-txt_5_2_sdfree: Do you want to securely delete free space on this drive?
-txt_5_2_oext: Extract to original path
-txt_5_2_securedeletefree: Secure delete free space
-txt_5_2_free: This operation can take some minutes and, if performed often, it can quickly wear flash-based disks
-txt_5_2_zerofiles: Zero delete
-txt_5_2_zerofree: Zero delete free space
-txt_5_1_schedadd: Add schedule
-txt_5_1_schederr: Cannot create schedule
-txt_5_1_daily: Daily
-txt_5_1_day: Day
-txt_5_1_days: Days
-txt_5_1_enddate: End date
-txt_5_1_every: Every
-txt_5_1_w6: Friday
-txt_5_1_hourly: Hourly
-txt_5_1_hours: Hours
-txt_5_1_last: Last
-txt_5_1_schedmanage: Task Scheduler, manage tasks saved in PeaZip branch
-txt_5_1_scriptmanage: Manage saved scheduled scripts
-txt_5_1_w2: Monday
-txt_5_1_monthly: Monthly
-txt_5_1_months: Months
-txt_5_1_onlogin: On login
-txt_5_1_onstart: On start
+txt_5_5_dateday: இன்று
+txt_5_5_upper: பெரிய எழுத்து
+txt_5_5_extw: முன்னறிவிப்பு:  கோப்பு நீட்டிப்பை மாற்றுவது கோப்பு பயன்படுத்த முடியாததாகிவிடும்
+txt_5_4_da: தேதி சேர்க்கப்பட்டது
+txt_5_4_deletearchives: பிரித்தெடுத்த பிறகு காப்பகங்களை நீக்கு
+txt_5_4_deletefiles: காப்பகப்படுத்திய பிறகு கோப்புகளை நீக்கு
+txt_5_4_deleteoriginal: முதன்மைத் திரையில் அமைக்கப்பட்டுள்ள நீக்குதல் செயல்முறை, கைஉரையில் சேர்க்கப்படும்.
+txt_5_4_lv: கடைசியாக பார்வையிட்டது
+txt_5_4_deletearchivesconfirm: அசல் காப்பகங்களை நீக்குவதை உறுதிப்படுத்தவா?
+txt_5_4_deletefilesconfirm: அசல் கோப்புகளை நீக்குவதை உறுதிப்படுத்தவா?
+txt_5_4_used: பயன்படுத்தப்பட்டது
+txt_5_3_profilebest: தீவிர சுருக்கம், 7Z அல்ட்ரா
+txt_5_3_profileadvanced: உயர் சுருக்க, 7Z
+txt_5_3_profilenormal: நடுத்தர சுருக்கம், ZIP (பெரும்பாலான பிரிப்பான்களுடன் இணக்கமானது)
+txt_5_3_profileveryfast: வேகமான சுருக்கம், ஜிப் வேகம் (பெரும்பாலான பிரிப்பான்களுடன் இணக்கமானது)
+txt_5_3_profilepassword: கடவுச்சொல், 7Z வடிவத்தில் பாதுகாக்கவும்
+txt_5_3_profile10mb: அஞ்சல் இணைப்பு வரம்புகளுக்கு, வெளியீட்டை 25 எம்பிக்குக் கீழ் வைத்திரு
+txt_5_3_profilesfx: தானாக பிரித்தெடுத்தல், பெறுநருக்கு பிரித்தெடுக்கும் மென்பொருள் தேவையில்லை
+txt_5_3_cml: கணினி சூழல் பட்டியல் மொழி
+txt_5_3_cmlmessage: விரும்பிய சூழல் பட்டியல் மொழியில் இருமுறை சொடுக்கி, பதிவேட்டில் இணைப்பதை உறுதிப்படுத்து. பயன்பாடு நிறுவப்படும்போது/புதுப்பிக்கப்படும்போது அல்லது கணினி ஒருங்கிணைப்பு வழிகாட்டி பயன்படுத்தப்பட்ட பிறகு இந்த அமைப்பை மீண்டும் பயன்படுத்த வேண்டும்.
+txt_5_3_exc: சேர்க்கும் வடிப்பான்களில் விலக்கு வடிப்பான்கள் நிலவும்
+txt_5_3_ia: என்பதையும் சேர்
+txt_5_3_io: இதைமட்டும் சேர்
+txt_5_3_rec: மறுநிகழ்வு துணைப்கோப்புறைகள்
+txt_5_3_resetsi: கணினி ஒருங்கிணைப்பை (சூழல் பட்டியல், இங்குஅனுப்பு, கோப்பு சங்கங்கள்) மீண்டும் கட்டமைக்கவா?
+txt_5_2_oadd: அசல் பாதைக்கு காப்பகப்படுத்து
+txt_5_2_zerodelete: தேர்ந்தெடுக்கப்பட்ட 0 கோப்பு(களை) நீக்கி மேலெழுத விரும்புகிறீர்களா? செயல்பாட்டை செயல்தவிர்க்க முடியாது மற்றும் கோப்புகளை மீட்டெடுக்க முடியாது
+txt_5_2_zfree: இந்த இயக்ககத்தில் 0 இலவச இடத்துடன் மேலெழுத விரும்புகிறீர்களா?
+txt_5_2_sdfree: இந்த இயக்ககத்தில் உள்ள இலவச இடத்தைப் பாதுகாப்பாக நீக்க விரும்புகிறீர்களா?
+txt_5_2_oext: அசல் பாதைக்கு பிரித்தெடு
+txt_5_2_securedeletefree: பாதுகாப்பான நீக்கு இலவச இடத்தை
+txt_5_2_free: இந்தச் செயல்பாட்டிற்கு சில நிமிடங்கள் ஆகலாம், அடிக்கடி செய்தால், அது விரைவாக ஃபிளாஷ் அடிப்படையிலான வட்டுகளை அணியலாம்
+txt_5_2_zerofiles: சுழிய நீக்கம்
+txt_5_2_zerofree: சுழியம் இலவச இடத்தை நீக்கு
+txt_5_1_schedadd: அட்டவணையைச் சேர்
+txt_5_1_schederr: அட்டவணையை உருவாக்க முடியாது
+txt_5_1_daily: நாள்தோறும்
+txt_5_1_day: நாள்
+txt_5_1_days: நாள்கள்
+txt_5_1_enddate: முடிவு தேதி
+txt_5_1_every: ஒவ்வொரு
+txt_5_1_w6: வெள்ளிக்கிழமை
+txt_5_1_hourly: மணிநேரத்திற்கு ஒருமுறை
+txt_5_1_hours: மணிநேரம்
+txt_5_1_last: கடைசியாக
+txt_5_1_schedmanage: பணி திட்டமிடுபவர், பட்டாணிசுருக்கு கிளையில் சேமிக்கப்பட்ட பணிகளை நிர்வகி
+txt_5_1_scriptmanage: சேமிக்கப்பட்ட திட்டமிடப்பட்ட கைஉரைகளை நிர்வகி
+txt_5_1_w2: திங்கட்கிழமை
+txt_5_1_monthly: திங்கள்தோறும்
+txt_5_1_months: திங்கள்கள்
+txt_5_1_onlogin: உள்நுழையும்போது
+txt_5_1_onstart: தொடக்கத்தில்
 txt_5_1_once: ஒருமுறை
-txt_5_1_w7: Saturday
-txt_5_1_schedule: Schedule
-txt_5_1_schedexplain: Creates a plain text script from GUI task definition and schedule it. Scheduled tasks' scripts are saved in "Scheduled scripts" folder. To edit or delete scheduled tasks you can use system's Task Scheduler, all scheduled tasks created by PeaZip are collected in "PeaZip" branch of the tasks library.
-txt_5_1_schedok: Schedule created successfully
-txt_5_1_schedscripts: Saved scheduled scripts
-txt_5_1_startdate: Start date
-txt_5_1_starttime: Start time
-txt_5_1_w1: Sunday
-txt_5_1_schedname: Task name, identify both the saved scheduled script and the system's scheduled task
-txt_5_1_ts: Task Scheduler
-txt_5_1_w5: Thursday
-txt_5_1_w3: Tuesday
+txt_5_1_w7: காரிக்கிழமை
+txt_5_1_schedule: அட்டவணை
+txt_5_1_schedexplain: வபஇ பணி வரையறையிலிருந்து ஒரு எளிய உரை ஸ்கிரிப்டை உருவாக்கி அதைத் திட்டமிடுகிறது. திட்டமிடப்பட்ட பணிகளின் கைஉரைகள் "திட்டமிடப்பட்ட கைஉரைகள்" கோப்புறையில் சேமிக்கப்படும். திட்டமிடப்பட்ட பணிகளைத் திருத்த அல்லது நீக்க நீங்கள் கணினியின் பணி அட்டவணையைப் பயன்படுத்தலாம், பட்டாணிசுருக்கு ஆல் உருவாக்கப்பட்ட அனைத்து திட்டமிடப்பட்ட பணிகளும் பணி நூலகத்தின் "பட்டாணிசுருக்கு" கிளையில் சேகரிக்கப்படும்.
+txt_5_1_schedok: அட்டவணை வெற்றிகரமாக உருவாக்கப்பட்டது
+txt_5_1_schedscripts: திட்டமிடப்பட்ட கைஉரைகள் சேமிக்கப்பட்டன
+txt_5_1_startdate: தொடக்க தேதி
+txt_5_1_starttime: தொடக்க நேரம்
+txt_5_1_w1: ஞாயிறு
+txt_5_1_schedname: பணியின் பெயர், சேமிக்கப்பட்ட திட்டமிடப்பட்ட கைஉரை மற்றும் கணினியின் திட்டமிடப்பட்ட பணி இரண்டையும் அடையாளம் காணவும்
+txt_5_1_ts: பணி திட்டமிடுபவர்
+txt_5_1_w5: வியாழன்
+txt_5_1_w3: செவ்வாய்
 txt_5_1_w4: அறிவன்
-txt_5_1_weekly: Weekly
-txt_5_1_weeks: Weeks
-txt_5_0_bc: Breadcrumb
-txt_5_0_resetpm: Do you confirm resetting Password Manager? All passwords stored in PeaZip's Password Manager will be lost if confirmed.
-txt_5_0_enum: Enumerate folder content
-txt_5_0_music: Music
-txt_5_0_ps: Open PowerShell here
-txt_5_0_perf: Performances
-txt_5_0_pictures: Pictures
-txt_5_0_removeall: Remove all
-txt_5_0_resetbookmarks: Reset Bookmarks to default? (Bookmarks can then be customized with Bookmarks > Organize)
-txt_5_0_sh: Session history
-txt_5_0_skip: Skip enumerating directories' content in layout
-txt_5_0_videos: Videos
-txt_4_9_frame: Frame
-txt_4_9_listth: List and thumbnails
-txt_4_9_shadow: Shadow
-txt_4_9_style: Style
-txt_4_8_attach25: 25 MB attachment
-txt_4_8_crop: Crop
-txt_4_8_detailsno: Details
-txt_4_8_details: Details and thumbnails
-txt_4_8_fit: Fit to
-txt_4_8_fitl: Fit to largest
-txt_4_8_flip: Flip
-txt_4_8_fullscreen: Full screen
-txt_4_8_fun: Functions
-txt_4_8_h: Height
-txt_4_8_keeparchive: Keep archive
-txt_4_8_noresize: Keep original size
-txt_4_8_iconl: Large images
-txt_4_8_iconm: Icons and images
-txt_4_8_imagemanager: Image manager
-txt_4_8_immersive: Immersive
-txt_4_8_listno: List
-txt_4_8_aspect: Maintain aspect ratio
-txt_4_8_mirror: Mirror
-txt_4_8_presets: Presets
-txt_4_8_replace: Replace original image(s)? "No" apply the transformation in new file(s).
-txt_4_8_resize: Resize
-txt_4_8_rl: Rotate left
-txt_4_8_rr: Rotate right
-txt_4_8_stop: Stop
-txt_4_8_t: Transform
-txt_4_8_w: Width
-txt_4_7_pk: Create random password / keyfile
-txt_4_7_spchar: Limit characters to letters and numbers
-txt_4_7_recycleask: Move selected file(s) to Trash?
-txt_4_7_recycle: Move to Trash
-txt_4_7_pcomp: Potential compression
-txt_4_6_am: Archive manager
-txt_4_6_fm: File manager
-txt_4_6_users: Users
-txt_4_5_goupdate: A new version is available. Open PeaZip's official website to download the update?
-txt_4_5_b: Bottom
+txt_5_1_weekly: வாரந்தோறும்
+txt_5_1_weeks: வாரங்கள்
+txt_5_0_bc: ரொட்டிதூள் பாதை
+txt_5_0_resetpm: கடவுச்சொல் நிர்வாகியை மீட்டமைப்பதை உறுதிப்படுத்துகிறீர்களா? உறுதிப்படுத்தப்பட்டால், பட்டாணிசுருக்கு இன் கடவுச்சொல் நிர்வாகியில் சேமிக்கப்பட்ட அனைத்து கடவுச்சொற்களும் இழக்கப்படும்.
+txt_5_0_enum: கோப்புறை உள்ளடக்கத்தை கணக்கிடுங்கள்
+txt_5_0_music: இசை
+txt_5_0_ps: சக்திஒட்டை இங்கே திற
+txt_5_0_perf: செயல்திறன்
+txt_5_0_pictures: படங்கள்
+txt_5_0_removeall: அனைத்தையும் நீக்கு
+txt_5_0_resetbookmarks: புத்தக்குறிகளை இயல்புநிலைக்கு மீட்டமைக்கவா? (புத்தக்குறிகளை புத்தக்குறிகள் > ஒழுங்கமைத்தல் மூலம் தனிப்பயனாக்கலாம்)
+txt_5_0_sh: அமர்வு வரலாறு
+txt_5_0_skip: தளவமைப்பில் உள்ள கோப்பகங்களின் உள்ளடக்கத்தைக் கணக்கிடுவதைத் தவிர்
+txt_5_0_videos: காணொளிகள்
+txt_4_9_frame: சட்டகம்
+txt_4_9_listth: பட்டியல் மற்றும் சிறுபடங்கள்
+txt_4_9_shadow: நிழல்
+txt_4_9_style: உடை
+txt_4_8_attach25: 25 எம்பி இணைப்பு
+txt_4_8_crop: கத்தரி
+txt_4_8_detailsno: விவரங்கள்
+txt_4_8_details: விவரங்கள் மற்றும் சிறுபடங்கள்
+txt_4_8_fit: பொருந்தும்
+txt_4_8_fitl: மிகப் பெரியதாகப் பொருந்தும்
+txt_4_8_flip: புரட்டு
+txt_4_8_fullscreen: முழுத்திரை
+txt_4_8_fun: செயல்பாடுகள்
+txt_4_8_h: உயரம்
+txt_4_8_keeparchive: காப்பகத்தை வைத்திரு
+txt_4_8_noresize: அசல் அளவை வைத்திரு
+txt_4_8_iconl: பெரிய படங்கள்
+txt_4_8_iconm: சின்னங்கள் மற்றும் படங்கள்
+txt_4_8_imagemanager: பட மேலாளர்
+txt_4_8_immersive: மூழ்கும்
+txt_4_8_listno: பட்டியல்
+txt_4_8_aspect: விகிதத்தை பராமரி
+txt_4_8_mirror: கண்ணாடி
+txt_4_8_presets: முன்னமைவுகள்
+txt_4_8_replace: அசல் படத்தை(களை) மாற்றவா? "இல்லை" புதிய கோப்பில்(களில்) மாற்றத்தைப் பயன்படுத்து.
+txt_4_8_resize: அளவை மாற்று
+txt_4_8_rl: இடப்புறம் சுழற்று
+txt_4_8_rr: வலதுபுறம் சுழற்று
+txt_4_8_stop: நிறுத்து
+txt_4_8_t: உருமாற்றம்
+txt_4_8_w: அகலம்
+txt_4_7_pk: சீரற்ற கடவுச்சொல் / திறவுகோப்பை உருவாக்கு
+txt_4_7_spchar: எழுத்துக்கள் மற்றும் எண்களுக்கு எழுத்துக்களை வரம்பிடு
+txt_4_7_recycleask: தேர்ந்தெடுத்த கோப்பை(களை) குப்பைக்கு நகர்த்தவா?
+txt_4_7_recycle: குப்பைக்கு நகர்த்து
+txt_4_7_pcomp: சாத்தியமான சுருக்கம்
+txt_4_6_am: காப்பக மேலாளர்
+txt_4_6_fm: கோப்பு மேலாளர்
+txt_4_6_users: பயனர்கள்
+txt_4_5_goupdate: புதிய பதிப்பு கிடைக்கிறது. புதுப்பிப்பைப் பதிவிறக்க பட்டாணிசுருக்கு இன் அதிகாரப்பூர்வ இணையதளத்தைத் திறக்கவா?
+txt_4_5_b: கீழ்
 txt_4_5_koupdate: Cannot check for updates, no connection with update server
 txt_4_5_update: Check for updates
 txt_4_5_dock: Dock
@@ -548,7 +548,7 @@ txt_4_5_shnav: Show Side bar
 txt_4_5_shstatus: Show Status bar
 txt_4_5_shtool: Show Tool bar
 txt_4_5_upxpj: Sorry, cannot export task definition since this action or option requires performing multiple distinct commands
-txt_4_5_t: Top
+txt_4_5_t: மேல்
 txt_4_4_confremoveall: Remove all PeaZip customization files (Applications, Bookmarks)?
 txt_4_4_confremove: Remove PeaZip configuration?
 txt_4_3_pwmanhint: Double click to edit items in password list, rightclick for options, Ctrl+C to copy passwords
@@ -800,8 +800,8 @@ txt_add_tobookmarks: Add to Bookmarks
 txt_address_hint: Filter: accepts * and ? wildcards
 txt_adv_filters: Advanced filters
 txt_algo: Algorithm
-txt_all: all
-txt_all_default: All (default)
+txt_all: அனைத்தும்
+txt_all_default: அனைத்தும் (இயல்புநிலை)
 txt_all_type: Same type
 txt_all_date: Date
 txt_all_psize: Packed file size
@@ -826,7 +826,7 @@ txt_compressionratio_hint: Archive's compression ratio
 txt_archiving: Archiving:
 txt_cl_long: Arguments seem exceeding the maximum size that can be passed by PeaZip frontend, please select less input files (i.e. select dirs instead of single files)
 txt_overwrite_askbefore: Ask before overwriting (in console)
-txt_associated: Associated application
+txt_associated: தொடர்புடைய பயன்பாடு
 txt_attributes: Attributes
 txt_author: Author
 txt_ren_existing: Auto rename existing files
