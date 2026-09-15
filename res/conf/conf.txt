@@ -241,8 +241,8 @@ PeaZip
 108
 108
 216
-0
-0
+60
+125
 1
 
 [extract to new folder]
@@ -284,7 +284,7 @@ PeaZip
 0
 
 [size of the navigation sidebar]
-58
+60
 
 [status of navigation groups]
 0
@@ -779,7 +779,7 @@ CRC32 CRC64 MD5 RIPEMD160 SHA1 BLAKE2S SHA256 SHA3_256
 
 [extended columns, comments]
 0
-0
+125
 
 [manually set RAR binary]
 0
