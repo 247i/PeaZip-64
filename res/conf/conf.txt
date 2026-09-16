@@ -26,7 +26,7 @@ default.txt
 0
 
 [Initial dir for file/archive browser]
-Computer's root
+C:\Users\inthirua\Downloads\CodeCraft\
 
 [default archiving format]
 18
@@ -114,10 +114,10 @@ Computer's root
 0
 
 [left]
-447
+3965
 
 [top]
-223
+354
 
 [width]
 1200
@@ -237,12 +237,12 @@ PeaZip
 13
 1
 360
-150
+108
 108
 108
 216
-60
-125
+72
+150
 1
 
 [extract to new folder]
@@ -284,7 +284,7 @@ PeaZip
 0
 
 [size of the navigation sidebar]
-60
+58
 
 [status of navigation groups]
 0
@@ -324,7 +324,7 @@ PeaZip
 
 
 [swap position of Toolbar and Address bar]
-0
+1
 
 [if multiple items are added to a new archive, name the archive as selected item's folder]
 1
@@ -350,7 +350,7 @@ PeaZip
 
 
 [show thumbnails]
-0
+1
 
 [default checksum/hash algorithm for the file browser (calculated on request)]
 4
@@ -409,7 +409,7 @@ PeaZip
 0
 
 [save history of recent directories]
-Computer's root
+C:\Users\inthirua\Downloads\CodeCraft\
 
 
 
@@ -484,7 +484,7 @@ Computer's root
 0
 
 [show volatile options]
-0
+1
 
 [try to open archives containing errors]
 1
@@ -769,7 +769,7 @@ CRC32 CRC64 MD5 RIPEMD160 SHA1 BLAKE2S SHA256 SHA3_256
 7z
 
 [swap position of Tab and Address bar]
-0
+1
 
 [try to edit non-canonical archive formats as derivate of 0 ZIP, 1 7Z, 2 TAR, 3 WIM]
 0
@@ -779,7 +779,7 @@ CRC32 CRC64 MD5 RIPEMD160 SHA1 BLAKE2S SHA256 SHA3_256
 
 [extended columns, comments]
 0
-125
+150
 
 [manually set RAR binary]
 0
